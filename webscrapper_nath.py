@@ -1,14 +1,20 @@
-#WRITTEN BY: ABHISHEK NATH
-#PURPOSE: bLEH
+# WEB SCRAPPING: Use this code as a base to start collecting data from website(s)
+
+# HOW TO: Paste the link of webpage in the variable url. Make sure you set the option 'product per page' to 'all' before scrapping. 
+# To run the file, use command: python3 webscrapper_nath.py 
+
+# Currently working on including features like copy all data from a list of websites  
+# WRITTEN BY: Abhishek Nath
 
 import re
 from bs4 import BeautifulSoup
 from urllib.request import urlopen
 import pandas as pd  
 
-url_list=["https://boichoi.com/product-category/bengali-books/bangladesh-book-shop/?products-per-page=all","https://boichoi.com/product-category/bengali-books/buy-academic-bengali-books-online/?products-per-page=all","https://boichoi.com/product-category/bengali-books/academic"]
+#url_list=["https://boichoi.com/product-category/bengali-books/bangladesh-book-shop/?products-per-page=all","https://boichoi.com/product-category/bengali-books/buy-academic-bengali-books-online/?products-per-page=all","https://boichoi.com/product-category/bengali-books/academic"]
+#url = url_list[0]
 
-url = url_list[0]
+url = "https://boichoi.com/product-category/bengali-books/bangladesh-book-shop/?products-per-page=all"
 
 MainList_name=[]
 MainList_price=[]
