@@ -14,7 +14,7 @@ import pandas as pd
 #url_list=["https://boichoi.com/product-category/bengali-books/bangladesh-book-shop/?products-per-page=all","https://boichoi.com/product-category/bengali-books/buy-academic-bengali-books-online/?products-per-page=all","https://boichoi.com/product-category/bengali-books/academic"]
 #url = url_list[0]
 
-url = "https://boichoi.com/product-category/bengali-books/bangladesh-book-shop/?products-per-page=all"
+url = "https://www.readbengalibooks.com/other/new.html"
 
 MainList_name=[]
 MainList_price=[]
@@ -67,4 +67,5 @@ df=df.T
 df.columns =['Book', 'Author', 'Price', 'Reduced price']
 writer = pd.ExcelWriter('output.xlsx')
 df.to_excel(writer)
-writer.save()
+writer.close()
+#writer.save()
