@@ -1,8 +1,8 @@
 # WEB SCRAPPING: Use this code as a base to start collecting data from website(s)
 
 # HOW TO: Paste the link of webpage in the variable BASE_URL.
-#         Set PAGENUMBER_START and PAGENUMBER_END as required
 #         Make sure your variable has the ending "page=" 
+#         Set PAGENUMBER_START and PAGENUMBER_END as required
 
 # To run the file, use COMMAND: python3 webscrapper_nath_perpage.py 
 # Check if you have all the necessary packages installed. 
@@ -23,8 +23,8 @@ import pandas as pd
 ################################## PARAMETERS TO CONTROL ##################################
 ######################################################################################################
 
-PAGENUMBER_START=5
-PAGENUMBER_END=10
+PAGENUMBER_START=1
+PAGENUMBER_END=50
 BASE_URL="https://www.patrabharati.com/category/all-products?page="
 
 ######################################################################################################

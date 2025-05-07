@@ -97,7 +97,7 @@ def scrape_product_page(url):
         print("Failed to retrieve webpage")
 
 # URL of the product page to scrape
-url = "https://www.patrabharati.com/product-page/debi-chaudhurani"
+url = "https://www.patrabharati.com/product-page/hariye-jaowa-sanjib"
 
 
 
@@ -106,6 +106,6 @@ url = "https://www.patrabharati.com/product-page/debi-chaudhurani"
 ######################################################################################################
 
 # Call the function to scrape the product page
-#scrape_product_page(url)
+scrape_product_page(url)
 
 ######################################################################################################
