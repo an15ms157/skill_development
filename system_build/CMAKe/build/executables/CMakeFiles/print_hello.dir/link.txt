@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/print_hello.dir/print_hello.cpp.o  -o print_hello  ../CMAKe/tools/libtools.a 

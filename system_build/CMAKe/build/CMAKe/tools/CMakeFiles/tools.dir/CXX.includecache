@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../CMAKe/tools/tools.h
+
+/home/abhishek/Desktop/skill_development/system_build/CMAKe/CMAKe/tools/tools.cpp
+CMAKe/tools/tools.h
+-
+iostream
+-
+

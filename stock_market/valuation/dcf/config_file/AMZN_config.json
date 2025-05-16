@@ -1,0 +1,77 @@
+{
+    "ticker": "AMZN",
+    "data_dir": "../data",
+    "start_year": 1950,
+    "end_year": 2024,
+    "currency": "USD",
+    "default_fcf": 32878000000.0,
+    "default_net_debt": 52121000000.0,
+    "default_shares_outstanding": 10473000000.0,
+    "default_price_per_share": 219.4,
+    "default_total_debt": 130900000000.0,
+    "default_total_equity": 285970000000.0,
+    "default_tax_rate": 0.135,
+    "default_operating_profit": 68593000000.0,
+    "default_cash": 101202000000.0,
+    "default_revenue": 637959000000.0,
+    "default_nopat": 59332945000.0,
+    "default_roic": 0.18795996109836918,
+    "default_capex": -82999000000.0,
+    "default_working_capital_change": 0.0,
+    "default_beta": 1.2,
+    "default_wacc": 0.07262562669417325,
+    "risk_free_rate": 0.045,
+    "market_return": 0.09,
+    "gdp_growth": 0.035,
+    "high_growth_years": 10,
+    "high_growth_rate": 0.05,
+    "growth_cap": 0.12,
+    "reinvestment_cap": 0.1,
+    "wacc_min": 0.04,
+    "wacc_max": 0.15,
+    "fcf_volatility": 0.3,
+    "growth_decay": 0.015,
+    "default_margin_compression": 0.005,
+    "default_wacc_drift_std": 0.002,
+    "num_simulations": 100,
+    "fcf_error": 0.1,
+    "net_debt_error": 0.05,
+    "wacc_std": 0.005,
+    "high_growth_std": 0.005,
+    "terminal_growth_std": 0.0025,
+    "max_iterations": 100,
+    "acceptance_threshold": 0.2,
+    "volatility_factor": 0.05,
+    "RUNS": 1000,
+    "tolerance_level": 0.05,
+    "parameter_bounds": [
+        [
+            0.04,
+            0.3
+        ],
+        [
+            0.01,
+            1.0
+        ],
+        [
+            0.01,
+            0.08
+        ],
+        [
+            0.0,
+            0.3
+        ],
+        [
+            0.0,
+            0.2
+        ],
+        [
+            0.0,
+            0.8
+        ],
+        [
+            0.0,
+            10.0
+        ]
+    ]
+}

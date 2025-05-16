@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/abhishek/Desktop/skill_development/system_build/CMAKe/build/CMAKe/tools",
+  "command": "/usr/bin/c++   -I/home/abhishek/Desktop/skill_development/system_build/CMAKe  -g   -Wall -Wpedantic -Wextra -std=gnu++17 -o CMakeFiles/tools.dir/tools.cpp.o -c /home/abhishek/Desktop/skill_development/system_build/CMAKe/CMAKe/tools/tools.cpp",
+  "file": "/home/abhishek/Desktop/skill_development/system_build/CMAKe/CMAKe/tools/tools.cpp"
+},
+{
+  "directory": "/home/abhishek/Desktop/skill_development/system_build/CMAKe/build/executables",
+  "command": "/usr/bin/c++   -I/home/abhishek/Desktop/skill_development/system_build/CMAKe  -g   -Wall -Wpedantic -Wextra -std=gnu++17 -o CMakeFiles/print_hello.dir/print_hello.cpp.o -c /home/abhishek/Desktop/skill_development/system_build/CMAKe/executables/print_hello.cpp",
+  "file": "/home/abhishek/Desktop/skill_development/system_build/CMAKe/executables/print_hello.cpp"
+}
+]

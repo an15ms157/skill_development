@@ -1,0 +1,11 @@
+{
+    "ticker": "NKE",
+    "data_dir": "../data",
+    "start_year": 1950,
+    "end_year": 2024,
+    "default_fcf": 1000000000.0,
+    "default_net_debt": 500000000.0,
+    "default_shares_outstanding": 100000000.0,
+    "default_price_per_share": 150,
+    "default_roic": 0.15
+}

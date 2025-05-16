@@ -1,0 +1,68 @@
+MDBoxLayout:
+    orientation: "vertical"
+    spacing: dp(10)
+    padding: dp(10)
+
+    MDTopAppBar:
+        title: "ক্রসওয়ার্ড খেলা"
+        font_name: "BengaliFont" 
+        left_action_items: [["arrow-left", lambda x: app.screen_manager.current = "home"]]
+        elevation: 4
+
+    MDBoxLayout:
+        orientation: "vertical"
+        padding: dp(10)
+        
+        MDBoxLayout:
+            orientation: "horizontal"
+            size_hint_y: None
+            height: dp(40)
+            spacing: dp(10)
+            padding: [dp(10), 0, dp(10), 0]
+            
+            MDLabel:
+                text: "সময়: "
+                font_name: "BengaliFont"
+                size_hint_x: 0.3
+                
+            MDLabel:
+                id: timer_label
+                text: "00:00"
+                size_hint_x: 0.7
+                
+        # Crossword Grid
+        MDGridLayout:
+            id: crossword_grid
+            cols: 10
+            rows: 10
+            padding: dp(5)
+            spacing: dp(2)
+            size_hint: 1, None
+            height: self.minimum_height
+            
+        ScrollView:
+            id: clue_scroll
+            size_hint_y: 0.4
+            
+            MDList:
+                id: clue_list
+                spacing: dp(5)
+                
+        MDBoxLayout:
+            orientation: "horizontal"
+            size_hint_y: None
+            height: dp(50)
+            spacing: dp(10)
+            padding: dp(10)
+            
+            MDFillRoundFlatButton:
+                text: "সাহায্য নিন"
+                font_name: "BengaliFont"
+                size_hint_x: 0.5
+                on_release: app.provide_hint()
+                
+            MDFillRoundFlatButton:
+                text: "পরীক্ষা করুন"
+                font_name: "BengaliFont"
+                size_hint_x: 0.5
+                on_release: app.check_solution()

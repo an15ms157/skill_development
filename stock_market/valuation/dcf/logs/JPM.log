@@ -1,0 +1,77 @@
+2025-05-05 06:24:01,769 - INFO - NumExpr defaulting to 8 threads.
+2025-05-05 06:24:02,170 - INFO - Starting DCF Monte Carlo simulation for JPM
+2025-05-05 06:24:02,170 - INFO - Current Configuration and Settings:
+2025-05-05 06:24:02,170 - INFO - ticker: JPM
+2025-05-05 06:24:02,170 - INFO - data_dir: ../data
+2025-05-05 06:24:02,170 - INFO - start_year: 1990
+2025-05-05 06:24:02,170 - INFO - end_year: 2024
+2025-05-05 06:24:02,170 - INFO - currency: USD
+2025-05-05 06:24:02,170 - INFO - default_fcf: 20196000000.0
+2025-05-05 06:24:02,170 - INFO - default_net_debt: -15006000000.0
+2025-05-05 06:24:02,170 - INFO - default_shares_outstanding: 2819000000.0
+2025-05-05 06:24:02,170 - INFO - default_price_per_share: 239.7
+2025-05-05 06:24:02,170 - INFO - default_total_debt: 454311000000.0
+2025-05-05 06:24:02,170 - INFO - default_total_equity: 344758000000.0
+2025-05-05 06:24:02,170 - INFO - default_tax_rate: 0.2166
+2025-05-05 06:24:02,170 - INFO - default_operating_profit: 102038000000.0
+2025-05-05 06:24:02,170 - INFO - default_cash: 469317000000.0
+2025-05-05 06:24:02,170 - INFO - default_revenue: 204372000000.0
+2025-05-05 06:24:02,170 - INFO - default_nopat: 46765063000.0
+2025-05-05 06:24:02,170 - INFO - default_roic: 0.2237
+2025-05-05 06:24:02,170 - INFO - default_capex: 0
+2025-05-05 06:24:02,170 - INFO - default_working_capital_change: -114220000000.0
+2025-05-05 06:24:02,170 - INFO - default_beta: 1.0
+2025-05-05 06:24:02,170 - INFO - default_wacc: 0.08
+2025-05-05 06:24:02,170 - INFO - risk_free_rate: 0.045
+2025-05-05 06:24:02,170 - INFO - market_return: 0.09
+2025-05-05 06:24:02,170 - INFO - gdp_growth: 0.025
+2025-05-05 06:24:02,170 - INFO - high_growth_years: 10
+2025-05-05 06:24:02,170 - INFO - high_growth_rate: 0.04
+2025-05-05 06:24:02,170 - INFO - growth_cap: 0.06
+2025-05-05 06:24:02,170 - INFO - reinvestment_cap: 0.03
+2025-05-05 06:24:02,170 - INFO - wacc_min: 0.05
+2025-05-05 06:24:02,170 - INFO - wacc_max: 0.12
+2025-05-05 06:24:02,170 - INFO - fcf_volatility: 0.3
+2025-05-05 06:24:02,170 - INFO - growth_decay: 0.015
+2025-05-05 06:24:02,170 - INFO - default_margin_compression: 0.005
+2025-05-05 06:24:02,170 - INFO - default_wacc_drift_std: 0.002
+2025-05-05 06:24:02,170 - INFO - num_simulations: 50000
+2025-05-05 06:24:02,170 - INFO - fcf_error: 0.3
+2025-05-05 06:24:02,170 - INFO - net_debt_error: 0.05
+2025-05-05 06:24:02,170 - INFO - wacc_std: 0.005
+2025-05-05 06:24:02,170 - INFO - high_growth_std: 0.005
+2025-05-05 06:24:02,170 - INFO - terminal_growth_std: 0.0025
+2025-05-05 06:24:07,915 - INFO - DCF Monte Carlo simulation completed
+2025-05-05 06:24:07,916 - INFO - 
+Simple Model Results for JPM:
+2025-05-05 06:24:07,916 - INFO - Mean Fair Value: 162.57 USD
+2025-05-05 06:24:07,916 - INFO - 1σ Range: 0.58 to 324.55
+2025-05-05 06:24:07,916 - INFO - 2σ Range: -161.41 to 486.54
+2025-05-05 06:24:07,916 - INFO - Current Price: 239.70 USD
+2025-05-05 06:24:07,916 - INFO - 
+Enhanced Model (Bull) Results for JPM:
+2025-05-05 06:24:07,916 - INFO - Mean Fair Value: 299.32 USD
+2025-05-05 06:24:07,916 - INFO - 1σ Range: 194.47 to 404.17
+2025-05-05 06:24:07,916 - INFO - 2σ Range: 89.62 to 509.02
+2025-05-05 06:24:07,916 - INFO - 
+Enhanced Model (Doomsday) Results for JPM:
+2025-05-05 06:24:07,916 - INFO - Mean Fair Value: 80.86 USD
+2025-05-05 06:24:07,916 - INFO - 1σ Range: 57.41 to 104.31
+2025-05-05 06:24:07,916 - INFO - 2σ Range: 33.96 to 127.76
+2025-05-05 06:24:07,916 - INFO - 
+Sensitivity Analysis for Simple Model:
+2025-05-05 06:24:07,916 - INFO - WACC +1.0%: Fair Value = 72.28 (-55.5% change)
+2025-05-05 06:24:07,916 - INFO - High Growth Rate +1.0%: Fair Value = 29.14 (-82.1% change)
+2025-05-05 06:24:07,917 - INFO - Terminal Growth Rate +0.5%: Fair Value = 248.77 (53.0% change)
+2025-05-05 06:24:07,917 - INFO - 
+Sensitivity Analysis for Enhanced Model:
+2025-05-05 06:24:07,917 - INFO - 
+Scenario: Optimal
+2025-05-05 06:24:07,917 - INFO - WACC +1.0%: Fair Value = 90.42 (-69.8% change)
+2025-05-05 06:24:07,917 - INFO - High Growth Rate +1.0%: Fair Value = 106.02 (-64.6% change)
+2025-05-05 06:24:07,917 - INFO - Terminal Growth Rate +0.5%: Fair Value = 110.90 (-62.9% change)
+2025-05-05 06:24:07,917 - INFO - 
+Scenario: Doomsday
+2025-05-05 06:24:07,917 - INFO - WACC +1.0%: Fair Value = 71.65 (-76.1% change)
+2025-05-05 06:24:07,917 - INFO - High Growth Rate +1.0%: Fair Value = 81.50 (-72.8% change)
+2025-05-05 06:24:07,917 - INFO - Terminal Growth Rate +0.5%: Fair Value = 81.98 (-72.6% change)

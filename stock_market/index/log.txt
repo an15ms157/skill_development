@@ -1,0 +1,27 @@
+[ERROR] Failed to process usd_index_data/US_usd_index_data.csv: could not convert string to float: '1970-01-02'
+[ERROR] Failed to process usd_index_data/Germany_usd_index_data.csv: could not convert string to float: '1987-12-30'
+[ERROR] Failed to process usd_index_data/China_usd_index_data.csv: could not convert string to float: '1997-07-02'
+[ERROR] Failed to process usd_index_data/India_usd_index_data.csv: could not convert string to float: '1997-07-01'
+[ERROR] Failed to process usd_index_data/Japan_usd_index_data.csv: could not convert string to float: '1970-01-05'
+[ERROR] No valid index data loaded. Exiting.
+[ERROR] Portfolio is empty or None. Exiting plot generation.
+
+
+
+
+elif [[ "$1" == *-AN_PbPb_photon_mBDT_opencut* ]] ; then
+    #echo "10130e03_0d200008100000001100400000_0152101500000000" > CutSelection.log
+    echo "13530e03_0d200008100000001100400000_0152101500000000" > CutSelection.log
+    DATAROOTFILE=/misc/alidata150/alice_u/nath/alitrain/post_XGB_rootfiles/mBDT_opencut/data/1244/GCo_3100_data.root
+    MCROOTFILE=/misc/alidata150/alice_u/nath/alitrain/post_XGB_rootfiles/mBDT_opencut/MC/GCo_3102_MB.root
+    MCROOTFILEADDSIG=/misc/alidata150/alice_u/nath/alitrain/post_XGB_rootfiles/mBDT_opencut/addSig/GCo_3104_addSig_pi0.root
+    #MCROOTFILEADDSIGETA=/misc/alidata150/alice_u/nath/alitrain/post_XGB_rootfiles/mixedBDT_pioncut/MC/2236_LHC24a2/GCo_997_2236_addsig_eta.root
+    DOPI0=1
+    DOETA=1
+    DOPI0INETABINS=0
+    DOGAMMA=1
+    SUFFIX=png
+
+    MERGINGMC=1
+    ADDEDSIG=1
+[INFO] Individual investment plot created and saved to: index_data/individual_investment_plot.png

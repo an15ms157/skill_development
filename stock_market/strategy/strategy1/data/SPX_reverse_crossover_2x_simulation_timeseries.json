@@ -1,0 +1,2918 @@
+[
+  {
+    "Date": "1990-01-10",
+    "IndexInvested": 1.0,
+    "MainIndexValue": 0.0,
+    "2xIndexValue": 1.0,
+    "FactorTransferred": 0.0,
+    "TotalValue": 1.0,
+    "ROIC": 0.0
+  },
+  {
+    "Date": "1990-02-22",
+    "IndexInvested": 2.0,
+    "MainIndexValue": 0.0,
+    "2xIndexValue": 2.0,
+    "FactorTransferred": 0.0,
+    "TotalValue": 2.0,
+    "ROIC": 0.0
+  },
+  {
+    "Date": "1990-03-15",
+    "IndexInvested": 3.0,
+    "MainIndexValue": 0.0,
+    "2xIndexValue": 3.0,
+    "FactorTransferred": 0.0,
+    "TotalValue": 3.0,
+    "ROIC": 0.0
+  },
+  {
+    "Date": "1990-04-11",
+    "IndexInvested": 4.0,
+    "MainIndexValue": 0.0,
+    "2xIndexValue": 4.0,
+    "FactorTransferred": 0.0,
+    "TotalValue": 4.0,
+    "ROIC": 0.0
+  },
+  {
+    "Date": "1990-05-30",
+    "IndexInvested": 5.0,
+    "MainIndexValue": 0.0,
+    "2xIndexValue": 5.000000000000001,
+    "FactorTransferred": 0.0,
+    "TotalValue": 5.000000000000001,
+    "ROIC": 1.7763568394002506e-16
+  },
+  {
+    "Date": "1990-06-11",
+    "IndexInvested": 6.0,
+    "MainIndexValue": 0.0,
+    "2xIndexValue": 6.000000000000001,
+    "FactorTransferred": 0.0,
+    "TotalValue": 6.000000000000001,
+    "ROIC": 1.4802973661668753e-16
+  },
+  {
+    "Date": "1990-07-27",
+    "IndexInvested": 7.0,
+    "MainIndexValue": 0.0,
+    "2xIndexValue": 7.000000000000002,
+    "FactorTransferred": 0.0,
+    "TotalValue": 7.000000000000002,
+    "ROIC": 2.5376526277146434e-16
+  },
+  {
+    "Date": "1990-08-31",
+    "IndexInvested": 8.0,
+    "MainIndexValue": 0.0,
+    "2xIndexValue": 8.000000000000002,
+    "FactorTransferred": 0.0,
+    "TotalValue": 8.000000000000002,
+    "ROIC": 2.220446049250313e-16
+  },
+  {
+    "Date": "1990-09-18",
+    "IndexInvested": 9.0,
+    "MainIndexValue": 0.0,
+    "2xIndexValue": 9.000000000000002,
+    "FactorTransferred": 0.0,
+    "TotalValue": 9.000000000000002,
+    "ROIC": 1.9737298215558337e-16
+  },
+  {
+    "Date": "1990-10-15",
+    "IndexInvested": 10.8,
+    "MainIndexValue": 1.8000000000000005,
+    "2xIndexValue": 7.200000000000002,
+    "FactorTransferred": 1.8000000000000005,
+    "TotalValue": 9.000000000000002,
+    "ROIC": -0.16666666666666655
+  },
+  {
+    "Date": "1990-11-30",
+    "IndexInvested": 12.240000000000002,
+    "MainIndexValue": 3.352726313359497,
+    "2xIndexValue": 5.760000000000002,
+    "FactorTransferred": 1.4400000000000004,
+    "TotalValue": 9.112726313359499,
+    "ROIC": -0.25549621622879926
+  },
+  {
+    "Date": "1990-12-06",
+    "IndexInvested": 13.392000000000001,
+    "MainIndexValue": 4.576001141881974,
+    "2xIndexValue": 4.608000000000001,
+    "FactorTransferred": 1.1520000000000004,
+    "TotalValue": 9.184001141881975,
+    "ROIC": -0.3142173579837236
+  },
+  {
+    "Date": "1991-01-11",
+    "IndexInvested": 14.313600000000001,
+    "MainIndexValue": 5.305144048243398,
+    "2xIndexValue": 3.686400000000001,
+    "FactorTransferred": 0.9216000000000003,
+    "TotalValue": 8.991544048243398,
+    "ROIC": -0.3718181276378132
+  },
+  {
+    "Date": "1991-02-05",
+    "IndexInvested": 15.050880000000003,
+    "MainIndexValue": 6.6487887345302665,
+    "2xIndexValue": 2.9491200000000006,
+    "FactorTransferred": 0.0,
+    "TotalValue": 9.597908734530268,
+    "ROIC": -0.3623024876598401
+  },
+  {
+    "Date": "1991-03-04",
+    "IndexInvested": 16.050880000000003,
+    "MainIndexValue": 6.990824868542001,
+    "2xIndexValue": 3.94912,
+    "FactorTransferred": 0.0,
+    "TotalValue": 10.939944868542002,
+    "ROIC": -0.3184208673579268
+  },
+  {
+    "Date": "1991-04-16",
+    "IndexInvested": 17.050880000000003,
+    "MainIndexValue": 7.337025249896436,
+    "2xIndexValue": 4.949120000000001,
+    "FactorTransferred": 0.0,
+    "TotalValue": 12.286145249896435,
+    "ROIC": -0.27944216076258627
+  },
+  {
+    "Date": "1991-05-08",
+    "IndexInvested": 18.050880000000003,
+    "MainIndexValue": 7.1645875531146475,
+    "2xIndexValue": 5.9491200000000015,
+    "FactorTransferred": 0.0,
+    "TotalValue": 13.113707553114649,
+    "ROIC": -0.2735142246187085
+  },
+  {
+    "Date": "1991-06-04",
+    "IndexInvested": 19.050880000000003,
+    "MainIndexValue": 7.339296657537908,
+    "2xIndexValue": 6.9491200000000015,
+    "FactorTransferred": 0.0,
+    "TotalValue": 14.288416657537908,
+    "ROIC": -0.24998652778570302
+  },
+  {
+    "Date": "1991-07-30",
+    "IndexInvested": 20.050880000000003,
+    "MainIndexValue": 7.319421840675023,
+    "2xIndexValue": 7.949120000000002,
+    "FactorTransferred": 0.0,
+    "TotalValue": 15.268541840675026,
+    "ROIC": -0.23851013817473232
+  },
+  {
+    "Date": "1991-08-01",
+    "IndexInvested": 21.050880000000003,
+    "MainIndexValue": 7.3275610513903,
+    "2xIndexValue": 8.949120000000002,
+    "FactorTransferred": 0.0,
+    "TotalValue": 16.2766810513903,
+    "ROIC": -0.22679331926312346
+  },
+  {
+    "Date": "1991-09-18",
+    "IndexInvested": 22.050880000000003,
+    "MainIndexValue": 7.324153939928091,
+    "2xIndexValue": 9.949120000000002,
+    "FactorTransferred": 0.0,
+    "TotalValue": 17.273273939928092,
+    "ROIC": -0.21666282978601806
+  },
+  {
+    "Date": "1991-10-30",
+    "IndexInvested": 23.050880000000003,
+    "MainIndexValue": 7.438102889941962,
+    "2xIndexValue": 10.949120000000004,
+    "FactorTransferred": 0.0,
+    "TotalValue": 18.387222889941967,
+    "ROIC": -0.20232013311674155
+  },
+  {
+    "Date": "1991-11-18",
+    "IndexInvested": 24.050880000000003,
+    "MainIndexValue": 7.2919756650072305,
+    "2xIndexValue": 11.949120000000004,
+    "FactorTransferred": 0.0,
+    "TotalValue": 19.241095665007236,
+    "ROIC": -0.19998371514858357
+  },
+  {
+    "Date": "1991-12-24",
+    "IndexInvested": 25.050880000000003,
+    "MainIndexValue": 7.558676778910127,
+    "2xIndexValue": 12.949120000000004,
+    "FactorTransferred": 0.0,
+    "TotalValue": 20.50779677891013,
+    "ROIC": -0.1813542367010609
+  },
+  {
+    "Date": "1992-01-15",
+    "IndexInvested": 26.050880000000003,
+    "MainIndexValue": 7.9645016108532145,
+    "2xIndexValue": 13.949120000000004,
+    "FactorTransferred": 0.0,
+    "TotalValue": 21.91362161085322,
+    "ROIC": -0.15881453483132943
+  },
+  {
+    "Date": "1992-02-25",
+    "IndexInvested": 27.050880000000003,
+    "MainIndexValue": 7.769160553686579,
+    "2xIndexValue": 14.949120000000004,
+    "FactorTransferred": 0.0,
+    "TotalValue": 22.718280553686583,
+    "ROIC": -0.16016482444613334
+  },
+  {
+    "Date": "1992-03-20",
+    "IndexInvested": 28.050880000000003,
+    "MainIndexValue": 7.785249691147009,
+    "2xIndexValue": 15.949120000000002,
+    "FactorTransferred": 0.0,
+    "TotalValue": 23.734369691147013,
+    "ROIC": -0.15388145786702556
+  },
+  {
+    "Date": "1992-04-22",
+    "IndexInvested": 29.050880000000003,
+    "MainIndexValue": 7.757046379598726,
+    "2xIndexValue": 16.94912,
+    "FactorTransferred": 0.0,
+    "TotalValue": 24.706166379598727,
+    "ROIC": -0.14955531881999015
+  },
+  {
+    "Date": "1992-05-28",
+    "IndexInvested": 30.050880000000003,
+    "MainIndexValue": 7.888220170893763,
+    "2xIndexValue": 17.94912,
+    "FactorTransferred": 0.0,
+    "TotalValue": 25.837340170893764,
+    "ROIC": -0.14021352549763064
+  },
+  {
+    "Date": "1992-06-16",
+    "IndexInvested": 31.050880000000003,
+    "MainIndexValue": 7.728843068050442,
+    "2xIndexValue": 18.94912,
+    "FactorTransferred": 0.0,
+    "TotalValue": 26.677963068050442,
+    "ROIC": -0.14083069246184202
+  },
+  {
+    "Date": "1992-07-29",
+    "IndexInvested": 32.05088,
+    "MainIndexValue": 7.992137070491131,
+    "2xIndexValue": 19.949119999999997,
+    "FactorTransferred": 0.0,
+    "TotalValue": 27.941257070491126,
+    "ROIC": -0.12822184381548568
+  },
+  {
+    "Date": "1992-08-05",
+    "IndexInvested": 33.05088,
+    "MainIndexValue": 7.991379934610639,
+    "2xIndexValue": 20.949119999999997,
+    "FactorTransferred": 0.0,
+    "TotalValue": 28.940499934610635,
+    "ROIC": -0.12436522311627904
+  },
+  {
+    "Date": "1992-09-08",
+    "IndexInvested": 34.05088,
+    "MainIndexValue": 7.8446848577655395,
+    "2xIndexValue": 21.949119999999997,
+    "FactorTransferred": 0.0,
+    "TotalValue": 29.793804857765537,
+    "ROIC": -0.12502100216600753
+  },
+  {
+    "Date": "1992-10-27",
+    "IndexInvested": 35.05088,
+    "MainIndexValue": 7.921344865665237,
+    "2xIndexValue": 22.949119999999994,
+    "FactorTransferred": 0.0,
+    "TotalValue": 30.87046486566523,
+    "ROIC": -0.11926705219197832
+  },
+  {
+    "Date": "1992-11-10",
+    "IndexInvested": 36.05088,
+    "MainIndexValue": 7.9238055572768324,
+    "2xIndexValue": 23.949119999999994,
+    "FactorTransferred": 0.0,
+    "TotalValue": 31.872925557276826,
+    "ROIC": -0.11589049817156123
+  },
+  {
+    "Date": "1992-12-30",
+    "IndexInvested": 37.05088,
+    "MainIndexValue": 8.306159176924703,
+    "2xIndexValue": 24.949119999999994,
+    "FactorTransferred": 0.0,
+    "TotalValue": 33.255279176924695,
+    "ROIC": -0.1024429331523382
+  },
+  {
+    "Date": "1993-01-14",
+    "IndexInvested": 38.05088,
+    "MainIndexValue": 8.251645393529364,
+    "2xIndexValue": 25.94911999999999,
+    "FactorTransferred": 0.0,
+    "TotalValue": 34.20076539352935,
+    "ROIC": -0.10118332628498074
+  },
+  {
+    "Date": "1993-02-09",
+    "IndexInvested": 39.05088,
+    "MainIndexValue": 8.429383041474587,
+    "2xIndexValue": 26.94911999999999,
+    "FactorTransferred": 0.0,
+    "TotalValue": 35.37850304147457,
+    "ROIC": -0.09404082465044132
+  },
+  {
+    "Date": "1993-03-24",
+    "IndexInvested": 40.05088,
+    "MainIndexValue": 8.48124684928821,
+    "2xIndexValue": 27.94911999999999,
+    "FactorTransferred": 0.0,
+    "TotalValue": 36.4303668492882,
+    "ROIC": -0.09039784271186553
+  },
+  {
+    "Date": "1993-04-06",
+    "IndexInvested": 41.05088,
+    "MainIndexValue": 8.350451625933418,
+    "2xIndexValue": 28.94911999999999,
+    "FactorTransferred": 0.0,
+    "TotalValue": 37.29957162593341,
+    "ROIC": -0.0913819234585614
+  },
+  {
+    "Date": "1993-05-20",
+    "IndexInvested": 42.05088,
+    "MainIndexValue": 8.528946409759131,
+    "2xIndexValue": 29.94911999999999,
+    "FactorTransferred": 0.0,
+    "TotalValue": 38.47806640975912,
+    "ROIC": -0.08496406235115357
+  },
+  {
+    "Date": "1993-06-24",
+    "IndexInvested": 43.05088,
+    "MainIndexValue": 8.453800673620417,
+    "2xIndexValue": 30.94911999999999,
+    "FactorTransferred": 0.0,
+    "TotalValue": 39.40292067362041,
+    "ROIC": -0.08473599904066054
+  },
+  {
+    "Date": "1993-07-14",
+    "IndexInvested": 44.05088,
+    "MainIndexValue": 8.519292927282873,
+    "2xIndexValue": 31.949119999999986,
+    "FactorTransferred": 0.0,
+    "TotalValue": 40.468412927282856,
+    "ROIC": -0.08132566415738218
+  },
+  {
+    "Date": "1993-08-30",
+    "IndexInvested": 45.05088,
+    "MainIndexValue": 8.743026579967916,
+    "2xIndexValue": 32.949119999999986,
+    "FactorTransferred": 0.0,
+    "TotalValue": 41.692146579967904,
+    "ROIC": -0.07455422446869174
+  },
+  {
+    "Date": "1993-09-02",
+    "IndexInvested": 46.05088,
+    "MainIndexValue": 8.731669541760553,
+    "2xIndexValue": 33.949119999999986,
+    "FactorTransferred": 0.0,
+    "TotalValue": 42.68078954176054,
+    "ROIC": -0.07318189051413262
+  },
+  {
+    "Date": "1993-10-28",
+    "IndexInvested": 47.05088,
+    "MainIndexValue": 8.853379134549455,
+    "2xIndexValue": 34.949119999999986,
+    "FactorTransferred": 0.0,
+    "TotalValue": 43.80249913454944,
+    "ROIC": -0.0690397473001686
+  },
+  {
+    "Date": "1993-11-19",
+    "IndexInvested": 48.05088,
+    "MainIndexValue": 8.756276457876506,
+    "2xIndexValue": 35.949119999999986,
+    "FactorTransferred": 0.0,
+    "TotalValue": 44.70539645787649,
+    "ROIC": -0.06962377259528879
+  },
+  {
+    "Date": "1993-12-09",
+    "IndexInvested": 49.05088,
+    "MainIndexValue": 8.786183325155893,
+    "2xIndexValue": 36.94911999999998,
+    "FactorTransferred": 0.0,
+    "TotalValue": 45.73530332515587,
+    "ROIC": -0.0675946420297481
+  },
+  {
+    "Date": "1994-01-18",
+    "IndexInvested": 50.05088,
+    "MainIndexValue": 8.97679228306946,
+    "2xIndexValue": 37.94911999999998,
+    "FactorTransferred": 0.0,
+    "TotalValue": 46.92591228306944,
+    "ROIC": -0.0624358196485369
+  },
+  {
+    "Date": "1994-02-10",
+    "IndexInvested": 51.05088,
+    "MainIndexValue": 8.87609321096418,
+    "2xIndexValue": 38.94911999999998,
+    "FactorTransferred": 0.0,
+    "TotalValue": 47.82521321096416,
+    "ROIC": -0.06318533175208423
+  },
+  {
+    "Date": "1994-03-21",
+    "IndexInvested": 52.05088,
+    "MainIndexValue": 8.868711136129395,
+    "2xIndexValue": 39.94911999999998,
+    "FactorTransferred": 0.0,
+    "TotalValue": 48.81783113612937,
+    "ROIC": -0.06211324119535786
+  },
+  {
+    "Date": "1994-04-06",
+    "IndexInvested": 53.05088,
+    "MainIndexValue": 8.480868281347965,
+    "2xIndexValue": 40.94911999999998,
+    "FactorTransferred": 0.0,
+    "TotalValue": 49.429988281347946,
+    "ROIC": -0.06825318861161311
+  },
+  {
+    "Date": "1994-05-19",
+    "IndexInvested": 61.240703999999994,
+    "MainIndexValue": 16.830258668161406,
+    "2xIndexValue": 32.759295999999985,
+    "FactorTransferred": 8.189823999999996,
+    "TotalValue": 49.58955466816139,
+    "ROIC": -0.19025172100958546
+  },
+  {
+    "Date": "1994-06-23",
+    "IndexInvested": 67.79256319999999,
+    "MainIndexValue": 23.129560753113854,
+    "2xIndexValue": 26.20743679999999,
+    "FactorTransferred": 6.551859199999997,
+    "TotalValue": 49.33699755311385,
+    "ROIC": -0.27223584381134813
+  },
+  {
+    "Date": "1994-07-07",
+    "IndexInvested": 73.03405056,
+    "MainIndexValue": 28.306746462998444,
+    "2xIndexValue": 20.965949439999992,
+    "FactorTransferred": 5.241487359999998,
+    "TotalValue": 49.272695902998436,
+    "ROIC": -0.3253462525329988
+  },
+  {
+    "Date": "1994-08-24",
+    "IndexInvested": 77.22724044799999,
+    "MainIndexValue": 33.80359466417235,
+    "2xIndexValue": 16.772759551999993,
+    "FactorTransferred": 4.193189887999998,
+    "TotalValue": 50.57635421617235,
+    "ROIC": -0.34509696419584857
+  },
+  {
+    "Date": "1994-09-13",
+    "IndexInvested": 80.5817923584,
+    "MainIndexValue": 37.04859822182404,
+    "2xIndexValue": 13.418207641599995,
+    "FactorTransferred": 0.0,
+    "TotalValue": 50.46680586342403,
+    "ROIC": -0.3737194918801868
+  },
+  {
+    "Date": "1994-10-06",
+    "IndexInvested": 81.5817923584,
+    "MainIndexValue": 35.84801157541939,
+    "2xIndexValue": 14.418207641599997,
+    "FactorTransferred": 0.0,
+    "TotalValue": 50.26621921701939,
+    "ROIC": -0.3838549293426528
+  },
+  {
+    "Date": "1994-11-02",
+    "IndexInvested": 82.5817923584,
+    "MainIndexValue": 36.969351578497,
+    "2xIndexValue": 15.418207641599995,
+    "FactorTransferred": 0.0,
+    "TotalValue": 52.38755922009699,
+    "ROIC": -0.3656282126605082
+  },
+  {
+    "Date": "1994-12-08",
+    "IndexInvested": 83.5817923584,
+    "MainIndexValue": 35.30041727002955,
+    "2xIndexValue": 16.418207641599995,
+    "FactorTransferred": 0.0,
+    "TotalValue": 51.71862491162955,
+    "ROIC": -0.3812213946087768
+  },
+  {
+    "Date": "1995-01-16",
+    "IndexInvested": 84.5817923584,
+    "MainIndexValue": 37.1967894448456,
+    "2xIndexValue": 18.158278023042993,
+    "FactorTransferred": 0.0,
+    "TotalValue": 55.35506746788859,
+    "ROIC": -0.3455439294389561
+  },
+  {
+    "Date": "1995-02-06",
+    "IndexInvested": 85.5817923584,
+    "MainIndexValue": 38.12872997037157,
+    "2xIndexValue": 20.07320259222897,
+    "FactorTransferred": 0.0,
+    "TotalValue": 58.20193256260055,
+    "ROIC": -0.3199262254421816
+  },
+  {
+    "Date": "1995-03-30",
+    "IndexInvested": 86.5817923584,
+    "MainIndexValue": 39.799249211705565,
+    "2xIndexValue": 22.854742514217904,
+    "FactorTransferred": 0.0,
+    "TotalValue": 62.65399172592347,
+    "ROIC": -0.27636065251951436
+  },
+  {
+    "Date": "1995-04-27",
+    "IndexInvested": 87.5817923584,
+    "MainIndexValue": 40.69711368060091,
+    "2xIndexValue": 24.891388826504283,
+    "FactorTransferred": 0.0,
+    "TotalValue": 65.58850250710519,
+    "ROIC": -0.2511171472866691
+  },
+  {
+    "Date": "1995-05-16",
+    "IndexInvested": 88.5817923584,
+    "MainIndexValue": 41.85728453890877,
+    "2xIndexValue": 27.325424382260284,
+    "FactorTransferred": 0.0,
+    "TotalValue": 69.18270892116905,
+    "ROIC": -0.21899628491081638
+  },
+  {
+    "Date": "1995-06-02",
+    "IndexInvested": 89.5817923584,
+    "MainIndexValue": 42.19963003808157,
+    "2xIndexValue": 28.751906984580287,
+    "FactorTransferred": 0.0,
+    "TotalValue": 70.95153702266185,
+    "ROIC": -0.20796921835635945
+  },
+  {
+    "Date": "1995-07-17",
+    "IndexInvested": 90.5817923584,
+    "MainIndexValue": 44.593671132991425,
+    "2xIndexValue": 33.07330704049838,
+    "FactorTransferred": 0.0,
+    "TotalValue": 77.66697817348981,
+    "ROIC": -0.142576271109881
+  },
+  {
+    "Date": "1995-08-04",
+    "IndexInvested": 91.5817923584,
+    "MainIndexValue": 44.29411882121522,
+    "2xIndexValue": 33.61617002796784,
+    "FactorTransferred": 0.0,
+    "TotalValue": 77.91028884918306,
+    "ROIC": -0.14928189498316766
+  },
+  {
+    "Date": "1995-09-21",
+    "IndexInvested": 92.5817923584,
+    "MainIndexValue": 46.20079305966377,
+    "2xIndexValue": 37.55489117561745,
+    "FactorTransferred": 0.0,
+    "TotalValue": 83.75568423528122,
+    "ROIC": -0.09533308762214705
+  },
+  {
+    "Date": "1995-10-23",
+    "IndexInvested": 93.5817923584,
+    "MainIndexValue": 46.36404114491747,
+    "2xIndexValue": 38.80783194747262,
+    "FactorTransferred": 0.0,
+    "TotalValue": 85.17187309239009,
+    "ROIC": -0.0898670462925262
+  },
+  {
+    "Date": "1995-11-21",
+    "IndexInvested": 94.5817923584,
+    "MainIndexValue": 47.567005190621934,
+    "2xIndexValue": 41.820957039731894,
+    "FactorTransferred": 0.0,
+    "TotalValue": 89.38796223035382,
+    "ROIC": -0.05491363610836562
+  },
+  {
+    "Date": "1995-12-12",
+    "IndexInvested": 95.5817923584,
+    "MainIndexValue": 49.036237957905236,
+    "2xIndexValue": 45.42861173198989,
+    "FactorTransferred": 0.0,
+    "TotalValue": 94.46484968989512,
+    "ROIC": -0.011685726339141162
+  },
+  {
+    "Date": "1996-01-19",
+    "IndexInvested": 96.5817923584,
+    "MainIndexValue": 48.485473786782315,
+    "2xIndexValue": 45.344598146946254,
+    "FactorTransferred": 0.0,
+    "TotalValue": 93.83007193372856,
+    "ROIC": -0.02849108882200308
+  },
+  {
+    "Date": "1996-02-12",
+    "IndexInvested": 97.5817923584,
+    "MainIndexValue": 52.41769222866999,
+    "2xIndexValue": 53.95799011675493,
+    "FactorTransferred": 0.0,
+    "TotalValue": 106.37568234542492,
+    "ROIC": 0.09011814370786082
+  },
+  {
+    "Date": "1996-03-29",
+    "IndexInvested": 98.5817923584,
+    "MainIndexValue": 51.15370826760372,
+    "2xIndexValue": 52.24816918095567,
+    "FactorTransferred": 0.0,
+    "TotalValue": 103.40187744855939,
+    "ROIC": 0.048894273220714914
+  },
+  {
+    "Date": "1996-04-23",
+    "IndexInvested": 99.5817923584,
+    "MainIndexValue": 51.635527859032116,
+    "2xIndexValue": 54.18558774188069,
+    "FactorTransferred": 0.0,
+    "TotalValue": 105.8211156009128,
+    "ROIC": 0.06265526151665522
+  },
+  {
+    "Date": "1996-05-17",
+    "IndexInvested": 100.5817923584,
+    "MainIndexValue": 53.0088721878897,
+    "2xIndexValue": 58.05844648433036,
+    "FactorTransferred": 0.0,
+    "TotalValue": 111.06731867222007,
+    "ROIC": 0.1042487518661163
+  },
+  {
+    "Date": "1996-06-26",
+    "IndexInvested": 101.5817923584,
+    "MainIndexValue": 52.65067736005148,
+    "2xIndexValue": 58.23889730302562,
+    "FactorTransferred": 0.0,
+    "TotalValue": 110.8895746630771,
+    "ROIC": 0.0916284512074513
+  },
+  {
+    "Date": "1996-07-22",
+    "IndexInvested": 102.5817923584,
+    "MainIndexValue": 50.22414514137755,
+    "2xIndexValue": 53.88475270648688,
+    "FactorTransferred": 0.0,
+    "TotalValue": 104.10889784786443,
+    "ROIC": 0.014886710929450668
+  },
+  {
+    "Date": "1996-08-29",
+    "IndexInvested": 103.5817923584,
+    "MainIndexValue": 52.09674332319548,
+    "2xIndexValue": 58.89519066006496,
+    "FactorTransferred": 0.0,
+    "TotalValue": 110.99193398326045,
+    "ROIC": 0.071539036505768
+  },
+  {
+    "Date": "1996-09-19",
+    "IndexInvested": 104.5817923584,
+    "MainIndexValue": 54.125457392367686,
+    "2xIndexValue": 64.52660108472786,
+    "FactorTransferred": 0.0,
+    "TotalValue": 118.65205847709555,
+    "ROIC": 0.13453839144845595
+  },
+  {
+    "Date": "1996-10-11",
+    "IndexInvested": 105.5817923584,
+    "MainIndexValue": 55.52495311352319,
+    "2xIndexValue": 68.88011255225159,
+    "FactorTransferred": 0.0,
+    "TotalValue": 124.40506566577477,
+    "ROIC": 0.17828143363468119
+  },
+  {
+    "Date": "1996-11-21",
+    "IndexInvested": 106.5817923584,
+    "MainIndexValue": 58.86044433115827,
+    "2xIndexValue": 78.34657155787352,
+    "FactorTransferred": 0.0,
+    "TotalValue": 137.2070158890318,
+    "ROIC": 0.28734010615667926
+  },
+  {
+    "Date": "1996-12-18",
+    "IndexInvested": 107.5817923584,
+    "MainIndexValue": 57.972089459462154,
+    "2xIndexValue": 76.91444925377937,
+    "FactorTransferred": 0.0,
+    "TotalValue": 134.88653871324152,
+    "ROIC": 0.25380453101095385
+  },
+  {
+    "Date": "1997-01-02",
+    "IndexInvested": 108.5817923584,
+    "MainIndexValue": 58.405568598461066,
+    "2xIndexValue": 79.00549697901602,
+    "FactorTransferred": 0.0,
+    "TotalValue": 137.41106557747707,
+    "ROIC": 0.2655074353895285
+  },
+  {
+    "Date": "1997-02-11",
+    "IndexInvested": 109.5817923584,
+    "MainIndexValue": 62.57235710459678,
+    "2xIndexValue": 91.52376852906224,
+    "FactorTransferred": 0.0,
+    "TotalValue": 154.09612563365903,
+    "ROIC": 0.40622016045941034
+  },
+  {
+    "Date": "1997-03-13",
+    "IndexInvested": 110.5817923584,
+    "MainIndexValue": 62.569979705296966,
+    "2xIndexValue": 92.33985387669865,
+    "FactorTransferred": 0.0,
+    "TotalValue": 154.90983358199563,
+    "ROIC": 0.400862025096561
+  },
+  {
+    "Date": "1997-04-01",
+    "IndexInvested": 111.5817923584,
+    "MainIndexValue": 60.198920136951955,
+    "2xIndexValue": 86.37345665461605,
+    "FactorTransferred": 0.0,
+    "TotalValue": 146.572376791568,
+    "ROIC": 0.3135868647886428
+  },
+  {
+    "Date": "1997-05-16",
+    "IndexInvested": 112.5817923584,
+    "MainIndexValue": 65.75490230061067,
+    "2xIndexValue": 103.58267379590225,
+    "FactorTransferred": 0.0,
+    "TotalValue": 169.33757609651292,
+    "ROIC": 0.5041293316545625
+  },
+  {
+    "Date": "1997-06-11",
+    "IndexInvested": 113.5817923584,
+    "MainIndexValue": 68.91050363789337,
+    "2xIndexValue": 114.67254616811056,
+    "FactorTransferred": 0.0,
+    "TotalValue": 183.58304980600394,
+    "ROIC": 0.6163070329680967
+  },
+  {
+    "Date": "1997-07-16",
+    "IndexInvested": 114.5817923584,
+    "MainIndexValue": 74.22161367367153,
+    "2xIndexValue": 133.700350965915,
+    "FactorTransferred": 0.0,
+    "TotalValue": 207.92196463958652,
+    "ROIC": 0.814616095280026
+  },
+  {
+    "Date": "1997-08-27",
+    "IndexInvested": 115.5817923584,
+    "MainIndexValue": 72.4076580079156,
+    "2xIndexValue": 127.8112636188026,
+    "FactorTransferred": 0.0,
+    "TotalValue": 200.2189216267182,
+    "ROIC": 0.732270434134405
+  },
+  {
+    "Date": "1997-09-24",
+    "IndexInvested": 116.5817923584,
+    "MainIndexValue": 74.84686968952187,
+    "2xIndexValue": 137.2328914703814,
+    "FactorTransferred": 0.0,
+    "TotalValue": 212.07976115990326,
+    "ROIC": 0.8191499450267493
+  },
+  {
+    "Date": "1997-10-10",
+    "IndexInvested": 117.5817923584,
+    "MainIndexValue": 76.62991916438024,
+    "2xIndexValue": 144.75789738643525,
+    "FactorTransferred": 0.0,
+    "TotalValue": 221.3878165508155,
+    "ROIC": 0.8828409748679906
+  },
+  {
+    "Date": "1997-11-05",
+    "IndexInvested": 118.5817923584,
+    "MainIndexValue": 74.71056546299936,
+    "2xIndexValue": 137.21040800030877,
+    "FactorTransferred": 0.0,
+    "TotalValue": 211.92097346330814,
+    "ROIC": 0.7871291135725211
+  },
+  {
+    "Date": "1997-12-03",
+    "IndexInvested": 119.5817923584,
+    "MainIndexValue": 77.40574380255195,
+    "2xIndexValue": 147.93894545908083,
+    "FactorTransferred": 0.0,
+    "TotalValue": 225.34468926163277,
+    "ROIC": 0.8844398032289862
+  },
+  {
+    "Date": "1998-01-02",
+    "IndexInvested": 120.5817923584,
+    "MainIndexValue": 77.26864710959617,
+    "2xIndexValue": 148.14817517981652,
+    "FactorTransferred": 0.0,
+    "TotalValue": 225.4168222894127,
+    "ROIC": 0.869410114749465
+  },
+  {
+    "Date": "1998-02-06",
+    "IndexInvested": 121.5817923584,
+    "MainIndexValue": 80.23405650289398,
+    "2xIndexValue": 160.25419855753375,
+    "FactorTransferred": 0.0,
+    "TotalValue": 240.48825506042772,
+    "ROIC": 0.9779956389482571
+  },
+  {
+    "Date": "1998-03-13",
+    "IndexInvested": 122.5817923584,
+    "MainIndexValue": 84.68375552570721,
+    "2xIndexValue": 179.3092457619025,
+    "FactorTransferred": 0.0,
+    "TotalValue": 263.99300128760973,
+    "ROIC": 1.1536069607773154
+  },
+  {
+    "Date": "1998-04-09",
+    "IndexInvested": 123.5817923584,
+    "MainIndexValue": 88.01686934404249,
+    "2xIndexValue": 194.55087312821624,
+    "FactorTransferred": 0.0,
+    "TotalValue": 282.5677424722587,
+    "ROIC": 1.286483607979912
+  },
+  {
+    "Date": "1998-05-13",
+    "IndexInvested": 124.5817923584,
+    "MainIndexValue": 88.66589935289092,
+    "2xIndexValue": 198.09002699653718,
+    "FactorTransferred": 0.0,
+    "TotalValue": 286.7559263494281,
+    "ROIC": 1.3017482805551674
+  },
+  {
+    "Date": "1998-06-09",
+    "IndexInvested": 125.5817923584,
+    "MainIndexValue": 88.63023836339377,
+    "2xIndexValue": 198.73384134687757,
+    "FactorTransferred": 0.0,
+    "TotalValue": 287.3640797102713,
+    "ROIC": 1.2882622895694795
+  },
+  {
+    "Date": "1998-07-14",
+    "IndexInvested": 126.5817923584,
+    "MainIndexValue": 93.31926224905466,
+    "2xIndexValue": 220.85341984902422,
+    "FactorTransferred": 0.0,
+    "TotalValue": 314.1726820980789,
+    "ROIC": 1.481973720268864
+  },
+  {
+    "Date": "1998-08-12",
+    "IndexInvested": 127.5817923584,
+    "MainIndexValue": 85.9207956280423,
+    "2xIndexValue": 187.52674899548722,
+    "FactorTransferred": 0.0,
+    "TotalValue": 273.44754462352955,
+    "ROIC": 1.143311671428527
+  },
+  {
+    "Date": "1998-09-17",
+    "IndexInvested": 128.58179235839998,
+    "MainIndexValue": 80.7420274866203,
+    "2xIndexValue": 164.1109140425185,
+    "FactorTransferred": 0.0,
+    "TotalValue": 244.85294152913877,
+    "ROIC": 0.9042582704606625
+  },
+  {
+    "Date": "1998-10-02",
+    "IndexInvested": 160.23868161131966,
+    "MainIndexValue": 111.10957385260906,
+    "2xIndexValue": 126.62755701167869,
+    "FactorTransferred": 31.656889252919672,
+    "TotalValue": 237.73713086428774,
+    "ROIC": 0.4836438272810489
+  },
+  {
+    "Date": "1998-11-02",
+    "IndexInvested": 191.24731594608983,
+    "MainIndexValue": 154.19774494175223,
+    "2xIndexValue": 124.03453733908069,
+    "FactorTransferred": 31.00863433477018,
+    "TotalValue": 278.2322822808329,
+    "ROIC": 0.45482973658706427
+  },
+  {
+    "Date": "1998-12-22",
+    "IndexInvested": 192.24731594608983,
+    "MainIndexValue": 166.9555414533508,
+    "2xIndexValue": 145.76979185042862,
+    "FactorTransferred": 0.0,
+    "TotalValue": 312.7253333037794,
+    "ROIC": 0.6266824416496619
+  },
+  {
+    "Date": "1999-01-08",
+    "IndexInvested": 193.24731594608983,
+    "MainIndexValue": 176.8765766442775,
+    "2xIndexValue": 164.39120236274232,
+    "FactorTransferred": 0.0,
+    "TotalValue": 341.26777900701984,
+    "ROIC": 0.7659638755460038
+  },
+  {
+    "Date": "1999-02-03",
+    "IndexInvested": 194.24731594608983,
+    "MainIndexValue": 176.45765150058904,
+    "2xIndexValue": 164.15745611824784,
+    "FactorTransferred": 0.0,
+    "TotalValue": 340.6151076188369,
+    "ROIC": 0.7535125567107915
+  },
+  {
+    "Date": "1999-03-16",
+    "IndexInvested": 195.24731594608983,
+    "MainIndexValue": 181.21702954030795,
+    "2xIndexValue": 173.3770846710736,
+    "FactorTransferred": 0.0,
+    "TotalValue": 354.59411421138157,
+    "ROIC": 0.8161279835943523
+  },
+  {
+    "Date": "1999-04-13",
+    "IndexInvested": 196.24731594608983,
+    "MainIndexValue": 187.24289319654193,
+    "2xIndexValue": 185.55903613226764,
+    "FactorTransferred": 0.0,
+    "TotalValue": 372.8019293288096,
+    "ROIC": 0.8996536463776159
+  },
+  {
+    "Date": "1999-05-05",
+    "IndexInvested": 197.24731594608983,
+    "MainIndexValue": 186.89471368970152,
+    "2xIndexValue": 185.40118746940277,
+    "FactorTransferred": 0.0,
+    "TotalValue": 372.2959011591043,
+    "ROIC": 0.8874573748869539
+  },
+  {
+    "Date": "1999-06-01",
+    "IndexInvested": 198.24731594608983,
+    "MainIndexValue": 179.53578028815426,
+    "2xIndexValue": 171.65546843635812,
+    "FactorTransferred": 0.0,
+    "TotalValue": 351.1912487245124,
+    "ROIC": 0.7714804714935621
+  },
+  {
+    "Date": "1999-07-06",
+    "IndexInvested": 199.24731594608983,
+    "MainIndexValue": 192.55575180689559,
+    "2xIndexValue": 197.97709612484266,
+    "FactorTransferred": 0.0,
+    "TotalValue": 390.5328479317383,
+    "ROIC": 0.9600406965452142
+  },
+  {
+    "Date": "1999-08-06",
+    "IndexInvested": 200.24731594608983,
+    "MainIndexValue": 180.3722434061812,
+    "2xIndexValue": 174.38954250678464,
+    "FactorTransferred": 0.0,
+    "TotalValue": 354.7617859129658,
+    "ROIC": 0.7716181824303406
+  },
+  {
+    "Date": "1999-09-22",
+    "IndexInvested": 201.24731594608983,
+    "MainIndexValue": 181.78993048184216,
+    "2xIndexValue": 177.38876327755673,
+    "FactorTransferred": 0.0,
+    "TotalValue": 359.1786937593989,
+    "ROIC": 0.7847626542041226
+  },
+  {
+    "Date": "1999-10-20",
+    "IndexInvested": 202.24731594608983,
+    "MainIndexValue": 178.86577749212273,
+    "2xIndexValue": 172.08020049720284,
+    "FactorTransferred": 0.0,
+    "TotalValue": 350.94597798932557,
+    "ROIC": 0.735231819258715
+  },
+  {
+    "Date": "1999-11-03",
+    "IndexInvested": 203.24731594608983,
+    "MainIndexValue": 187.95173673437242,
+    "2xIndexValue": 190.63757056565947,
+    "FactorTransferred": 0.0,
+    "TotalValue": 378.5893073000319,
+    "ROIC": 0.8627026169459996
+  },
+  {
+    "Date": "1999-12-01",
+    "IndexInvested": 204.24731594608983,
+    "MainIndexValue": 193.8874343828589,
+    "2xIndexValue": 203.60766038369636,
+    "FactorTransferred": 0.0,
+    "TotalValue": 397.49509476655527,
+    "ROIC": 0.946145989362584
+  },
+  {
+    "Date": "2000-01-07",
+    "IndexInvested": 205.24731594608983,
+    "MainIndexValue": 199.95630028894172,
+    "2xIndexValue": 216.8016036077187,
+    "FactorTransferred": 0.0,
+    "TotalValue": 416.7579038966604,
+    "ROIC": 1.030515731597318
+  },
+  {
+    "Date": "2000-02-18",
+    "IndexInvested": 206.24731594608983,
+    "MainIndexValue": 186.72547902900618,
+    "2xIndexValue": 189.0352814476918,
+    "FactorTransferred": 0.0,
+    "TotalValue": 375.760760476698,
+    "ROIC": 0.8218940632173688
+  },
+  {
+    "Date": "2000-03-09",
+    "IndexInvested": 207.24731594608983,
+    "MainIndexValue": 194.43814061479375,
+    "2xIndexValue": 205.43585153785907,
+    "FactorTransferred": 0.0,
+    "TotalValue": 399.8739921526528,
+    "ROIC": 0.9294531768829758
+  },
+  {
+    "Date": "2000-04-13",
+    "IndexInvested": 208.24731594608983,
+    "MainIndexValue": 199.82313203134538,
+    "2xIndexValue": 216.75574159519803,
+    "FactorTransferred": 0.0,
+    "TotalValue": 416.57887362654344,
+    "ROIC": 1.0004045273475966
+  },
+  {
+    "Date": "2000-05-19",
+    "IndexInvested": 209.24731594608983,
+    "MainIndexValue": 195.16779169287364,
+    "2xIndexValue": 205.6546195743273,
+    "FactorTransferred": 0.0,
+    "TotalValue": 400.82241126720095,
+    "ROIC": 0.9155438599292153
+  },
+  {
+    "Date": "2000-06-21",
+    "IndexInvested": 210.24731594608983,
+    "MainIndexValue": 205.18038006089782,
+    "2xIndexValue": 227.4920632413279,
+    "FactorTransferred": 0.0,
+    "TotalValue": 432.6724433022257,
+    "ROIC": 1.0579213644428573
+  },
+  {
+    "Date": "2000-07-17",
+    "IndexInvested": 211.24731594608983,
+    "MainIndexValue": 209.53054314237798,
+    "2xIndexValue": 237.89255120672019,
+    "FactorTransferred": 0.0,
+    "TotalValue": 447.42309434909816,
+    "ROIC": 1.118006055344534
+  },
+  {
+    "Date": "2000-08-17",
+    "IndexInvested": 212.24731594608983,
+    "MainIndexValue": 207.53024493973308,
+    "2xIndexValue": 233.88744437829234,
+    "FactorTransferred": 0.0,
+    "TotalValue": 441.4176893180254,
+    "ROIC": 1.079732727598516
+  },
+  {
+    "Date": "2000-09-28",
+    "IndexInvested": 213.24731594608983,
+    "MainIndexValue": 202.28951913557745,
+    "2xIndexValue": 222.8708884872093,
+    "FactorTransferred": 0.0,
+    "TotalValue": 425.16040762278675,
+    "ROIC": 0.9937433009954967
+  },
+  {
+    "Date": "2000-10-10",
+    "IndexInvested": 214.24731594608983,
+    "MainIndexValue": 192.40316317839978,
+    "2xIndexValue": 202.45237484733616,
+    "FactorTransferred": 0.0,
+    "TotalValue": 394.85553802573594,
+    "ROIC": 0.8429894268784763
+  },
+  {
+    "Date": "2000-11-24",
+    "IndexInvested": 251.84964765627458,
+    "MainIndexValue": 223.72855358000743,
+    "2xIndexValue": 150.40932684073894,
+    "FactorTransferred": 37.602331710184735,
+    "TotalValue": 374.13788042074634,
+    "ROIC": 0.48556046793192753
+  },
+  {
+    "Date": "2000-12-29",
+    "IndexInvested": 280.8068199307756,
+    "MainIndexValue": 249.10245404456012,
+    "2xIndexValue": 115.82868909800403,
+    "FactorTransferred": 28.957172274501005,
+    "TotalValue": 364.93114314256417,
+    "ROIC": 0.2995807695572596
+  },
+  {
+    "Date": "2001-01-05",
+    "IndexInvested": 303.1210380074484,
+    "MainIndexValue": 267.2790522093982,
+    "2xIndexValue": 89.25687230669146,
+    "FactorTransferred": 22.31421807667287,
+    "TotalValue": 356.5359245160896,
+    "ROIC": 0.17621636181956019
+  },
+  {
+    "Date": "2001-02-07",
+    "IndexInvested": 322.1373961961119,
+    "MainIndexValue": 295.0527184282445,
+    "2xIndexValue": 76.06543275465376,
+    "FactorTransferred": 19.016358188663443,
+    "TotalValue": 371.11815118289826,
+    "ROIC": 0.15204926706791802
+  },
+  {
+    "Date": "2001-03-09",
+    "IndexInvested": 334.97103114340587,
+    "MainIndexValue": 284.2383914625676,
+    "2xIndexValue": 51.334539789176,
+    "FactorTransferred": 0.0,
+    "TotalValue": 335.5729312517436,
+    "ROIC": 0.0017968721243840243
+  },
+  {
+    "Date": "2001-04-19",
+    "IndexInvested": 345.4432395143888,
+    "MainIndexValue": 299.38176796358425,
+    "2xIndexValue": 41.88883348393158,
+    "FactorTransferred": 10.472208370982896,
+    "TotalValue": 341.27060144751584,
+    "ROIC": -0.012079084461860286
+  },
+  {
+    "Date": "2001-05-21",
+    "IndexInvested": 354.6053633252211,
+    "MainIndexValue": 322.66655188765543,
+    "2xIndexValue": 36.6484952433294,
+    "FactorTransferred": 9.16212381083235,
+    "TotalValue": 359.31504713098485,
+    "ROIC": 0.013281479336916651
+  },
+  {
+    "Date": "2001-06-15",
+    "IndexInvested": 360.8658431841293,
+    "MainIndexValue": 304.72513556474456,
+    "2xIndexValue": 25.041919435632558,
+    "FactorTransferred": 6.260479858908141,
+    "TotalValue": 329.7670550003771,
+    "ROIC": -0.08617825369491737
+  },
+  {
+    "Date": "2001-07-06",
+    "IndexInvested": 365.673462058342,
+    "MainIndexValue": 303.56803518570945,
+    "2xIndexValue": 19.230475496850854,
+    "FactorTransferred": 4.8076188742127135,
+    "TotalValue": 322.7985106825603,
+    "ROIC": -0.11724928337550833
+  },
+  {
+    "Date": "2001-08-17",
+    "IndexInvested": 369.325929043908,
+    "MainIndexValue": 299.9231813748511,
+    "2xIndexValue": 14.609867942264065,
+    "FactorTransferred": 0.0,
+    "TotalValue": 314.53304931711517,
+    "ROIC": -0.14835914680736825
+  },
+  {
+    "Date": "2001-09-18",
+    "IndexInvested": 371.6226318085023,
+    "MainIndexValue": 268.8635386838208,
+    "2xIndexValue": 9.186811058377083,
+    "FactorTransferred": 2.296702764594271,
+    "TotalValue": 278.0503497421979,
+    "ROIC": -0.2517938200128843
+  },
+  {
+    "Date": "2001-10-25",
+    "IndexInvested": 373.69477763429916,
+    "MainIndexValue": 288.4695839715881,
+    "2xIndexValue": 8.288583303187586,
+    "FactorTransferred": 2.0721458257968965,
+    "TotalValue": 296.7581672747757,
+    "ROIC": -0.20588088184313422
+  },
+  {
+    "Date": "2001-11-02",
+    "IndexInvested": 375.311562392415,
+    "MainIndexValue": 286.7063062462765,
+    "2xIndexValue": 6.467139032463284,
+    "FactorTransferred": 1.6167847581158215,
+    "TotalValue": 293.1734452787398,
+    "ROIC": -0.21885314854167467
+  },
+  {
+    "Date": "2001-12-14",
+    "IndexInvested": 376.68773276245355,
+    "MainIndexValue": 297.54705473550086,
+    "2xIndexValue": 5.504681480154125,
+    "FactorTransferred": 1.3761703700385313,
+    "TotalValue": 303.051736215655,
+    "ROIC": -0.19548286323737227
+  },
+  {
+    "Date": "2002-01-18",
+    "IndexInvested": 377.7959795769418,
+    "MainIndexValue": 299.84486451979774,
+    "2xIndexValue": 4.43298725795296,
+    "FactorTransferred": 0.0,
+    "TotalValue": 304.2778517777507,
+    "ROIC": -0.19459743293593848
+  },
+  {
+    "Date": "2002-02-08",
+    "IndexInvested": 378.63200528877127,
+    "MainIndexValue": 292.3416726582924,
+    "2xIndexValue": 3.3441028473177585,
+    "FactorTransferred": 0.8360257118294396,
+    "TotalValue": 295.68577550561014,
+    "ROIC": -0.2190681945122429
+  },
+  {
+    "Date": "2002-03-18",
+    "IndexInvested": 379.38581498764495,
+    "MainIndexValue": 311.5845157313057,
+    "2xIndexValue": 3.0152387954946493,
+    "FactorTransferred": 0.7538096988736624,
+    "TotalValue": 314.5997545268004,
+    "ROIC": -0.17076563725228996
+  },
+  {
+    "Date": "2002-04-16",
+    "IndexInvested": 379.94978323346743,
+    "MainIndexValue": 302.20921728338703,
+    "2xIndexValue": 2.25587298328994,
+    "FactorTransferred": 0.563968245822485,
+    "TotalValue": 304.46509026667695,
+    "ROIC": -0.19867018300259817
+  },
+  {
+    "Date": "2002-05-29",
+    "IndexInvested": 380.3517963810981,
+    "MainIndexValue": 286.3513851840913,
+    "2xIndexValue": 1.6080525905227296,
+    "FactorTransferred": 0.40201314763068235,
+    "TotalValue": 287.95943777461406,
+    "ROIC": -0.2429129019122875
+  },
+  {
+    "Date": "2002-06-17",
+    "IndexInvested": 380.65399513551927,
+    "MainIndexValue": 278.20781925739016,
+    "2xIndexValue": 1.208795017684587,
+    "FactorTransferred": 0.0,
+    "TotalValue": 279.4166142750747,
+    "ROIC": -0.26595643853521705
+  },
+  {
+    "Date": "2002-07-10",
+    "IndexInvested": 380.8437031167712,
+    "MainIndexValue": 247.3325044257059,
+    "2xIndexValue": 0.7588319250077676,
+    "FactorTransferred": 0.18970798125194188,
+    "TotalValue": 248.09133635071368,
+    "ROIC": -0.34857440382926347
+  },
+  {
+    "Date": "2002-08-01",
+    "IndexInvested": 380.98225702725637,
+    "MainIndexValue": 237.84882514718484,
+    "2xIndexValue": 0.554215641940618,
+    "FactorTransferred": 0.1385539104851545,
+    "TotalValue": 238.40304078912547,
+    "ROIC": -0.37424109288094864
+  },
+  {
+    "Date": "2002-09-03",
+    "IndexInvested": 381.09032342150863,
+    "MainIndexValue": 236.17166761475647,
+    "2xIndexValue": 0.4322655770090627,
+    "FactorTransferred": 0.10806639425226568,
+    "TotalValue": 236.60393319176555,
+    "ROIC": -0.3791394883305198
+  },
+  {
+    "Date": "2002-10-28",
+    "IndexInvested": 381.1777207541103,
+    "MainIndexValue": 239.54333644638564,
+    "2xIndexValue": 0.349589330406514,
+    "FactorTransferred": 0.0873973326016285,
+    "TotalValue": 239.89292577679214,
+    "ROIC": -0.3706533390718761
+  },
+  {
+    "Date": "2002-11-19",
+    "IndexInvested": 381.24848253099486,
+    "MainIndexValue": 241.36581083716325,
+    "2xIndexValue": 0.2830471075383948,
+    "FactorTransferred": 0.0,
+    "TotalValue": 241.64885794470166,
+    "ROIC": -0.3661644071591655
+  },
+  {
+    "Date": "2002-12-12",
+    "IndexInvested": 381.3055233206174,
+    "MainIndexValue": 242.72558209989043,
+    "2xIndexValue": 0.2281631584900824,
+    "FactorTransferred": 0.0570407896225206,
+    "TotalValue": 242.9537452583805,
+    "ROIC": -0.3628370679170703
+  },
+  {
+    "Date": "2003-01-06",
+    "IndexInvested": 381.3538283034955,
+    "MainIndexValue": 250.15865905752398,
+    "2xIndexValue": 0.19321993151251737,
+    "FactorTransferred": 0.04830498287812935,
+    "TotalValue": 250.3518789890365,
+    "ROIC": -0.3435181177995224
+  },
+  {
+    "Date": "2003-02-11",
+    "IndexInvested": 381.38448633042094,
+    "MainIndexValue": 223.31303398681703,
+    "2xIndexValue": 0.12263210770179463,
+    "FactorTransferred": 0.030658026925448657,
+    "TotalValue": 223.43566609451884,
+    "ROIC": -0.4141458971119754
+  },
+  {
+    "Date": "2003-03-10",
+    "IndexInvested": 381.4076687002223,
+    "MainIndexValue": 217.48677219574807,
+    "2xIndexValue": 0.09272947920543492,
+    "FactorTransferred": 0.023182369801358734,
+    "TotalValue": 217.57950167495352,
+    "ROIC": -0.42953558742950704
+  },
+  {
+    "Date": "2003-04-10",
+    "IndexInvested": 381.4291483829433,
+    "MainIndexValue": 234.77295453085358,
+    "2xIndexValue": 0.0859187308840643,
+    "FactorTransferred": 0.0,
+    "TotalValue": 234.85887326173764,
+    "ROIC": -0.38426605764815214
+  },
+  {
+    "Date": "2003-05-13",
+    "IndexInvested": 381.44917946792503,
+    "MainIndexValue": 253.84246282323096,
+    "2xIndexValue": 0.0801243399267973,
+    "FactorTransferred": 0.020031084981699324,
+    "TotalValue": 253.92258716315774,
+    "ROIC": -0.3343213176723864
+  },
+  {
+    "Date": "2003-06-06",
+    "IndexInvested": 382.44917946792503,
+    "MainIndexValue": 266.0887520728798,
+    "2xIndexValue": 1.0878917993037556,
+    "FactorTransferred": 0.0,
+    "TotalValue": 267.17664387218355,
+    "ROIC": -0.30140615220069805
+  },
+  {
+    "Date": "2003-07-01",
+    "IndexInvested": 383.44917946792503,
+    "MainIndexValue": 264.6232920306869,
+    "2xIndexValue": 2.074040969147274,
+    "FactorTransferred": 0.0,
+    "TotalValue": 266.6973329998342,
+    "ROIC": -0.3044780187822959
+  },
+  {
+    "Date": "2003-08-27",
+    "IndexInvested": 384.44917946792503,
+    "MainIndexValue": 268.52130798850516,
+    "2xIndexValue": 3.129449642856364,
+    "FactorTransferred": 0.0,
+    "TotalValue": 271.6507576313615,
+    "ROIC": -0.2934026858704075
+  },
+  {
+    "Date": "2003-09-15",
+    "IndexInvested": 385.44917946792503,
+    "MainIndexValue": 273.37564437826916,
+    "2xIndexValue": 4.241436378606756,
+    "FactorTransferred": 0.0,
+    "TotalValue": 277.6170807568759,
+    "ROIC": -0.27975698082922584
+  },
+  {
+    "Date": "2003-10-16",
+    "IndexInvested": 386.44917946792503,
+    "MainIndexValue": 282.87419604880625,
+    "2xIndexValue": 5.532191577633371,
+    "FactorTransferred": 0.0,
+    "TotalValue": 288.40638762643965,
+    "ROIC": -0.25370164319270566
+  },
+  {
+    "Date": "2003-11-21",
+    "IndexInvested": 387.44917946792503,
+    "MainIndexValue": 278.8899765590943,
+    "2xIndexValue": 6.370585276062941,
+    "FactorTransferred": 0.0,
+    "TotalValue": 285.26056183515726,
+    "ROIC": -0.26374715200868676
+  },
+  {
+    "Date": "2003-12-31",
+    "IndexInvested": 388.44917946792503,
+    "MainIndexValue": 299.5357224476356,
+    "2xIndexValue": 8.340195775707507,
+    "FactorTransferred": 0.0,
+    "TotalValue": 307.8759182233431,
+    "ROIC": -0.2074229152831433
+  },
+  {
+    "Date": "2004-01-14",
+    "IndexInvested": 389.44917946792503,
+    "MainIndexValue": 304.5463027389569,
+    "2xIndexValue": 9.618188404170951,
+    "FactorTransferred": 0.0,
+    "TotalValue": 314.16449114312786,
+    "ROIC": -0.19331068671823357
+  },
+  {
+    "Date": "2004-02-25",
+    "IndexInvested": 390.44917946792503,
+    "MainIndexValue": 308.0887291277137,
+    "2xIndexValue": 10.83154067653966,
+    "FactorTransferred": 0.0,
+    "TotalValue": 318.92026980425334,
+    "ROIC": -0.18319646557113003
+  },
+  {
+    "Date": "2004-03-23",
+    "IndexInvested": 391.44917946792503,
+    "MainIndexValue": 294.69485535972996,
+    "2xIndexValue": 10.894960517783122,
+    "FactorTransferred": 0.0,
+    "TotalValue": 305.5898158775131,
+    "ROIC": -0.21933719137466517
+  },
+  {
+    "Date": "2004-04-29",
+    "IndexInvested": 392.44917946792503,
+    "MainIndexValue": 300.0664129408562,
+    "2xIndexValue": 12.277078343721511,
+    "FactorTransferred": 0.0,
+    "TotalValue": 312.3434912845777,
+    "ROIC": -0.20411735423157998
+  },
+  {
+    "Date": "2004-05-18",
+    "IndexInvested": 393.44917946792503,
+    "MainIndexValue": 294.03216570829716,
+    "2xIndexValue": 12.780017000172947,
+    "FactorTransferred": 0.0,
+    "TotalValue": 306.8121827084701,
+    "ROIC": -0.220198697266613
+  },
+  {
+    "Date": "2004-06-09",
+    "IndexInvested": 394.44917946792503,
+    "MainIndexValue": 304.7645054290628,
+    "2xIndexValue": 14.71973213061607,
+    "FactorTransferred": 0.0,
+    "TotalValue": 319.4842375596789,
+    "ROIC": -0.19004968399063937
+  },
+  {
+    "Date": "2004-07-02",
+    "IndexInvested": 395.44917946792503,
+    "MainIndexValue": 303.16165850791435,
+    "2xIndexValue": 15.558748427496555,
+    "FactorTransferred": 0.0,
+    "TotalValue": 318.7204069354109,
+    "ROIC": -0.1940294139331692
+  },
+  {
+    "Date": "2004-08-04",
+    "IndexInvested": 396.44917946792503,
+    "MainIndexValue": 295.9555820136753,
+    "2xIndexValue": 15.81713987504158,
+    "FactorTransferred": 0.0,
+    "TotalValue": 311.7727218887169,
+    "ROIC": -0.21358716820363338
+  },
+  {
+    "Date": "2004-09-24",
+    "IndexInvested": 399.67258282078376,
+    "MainIndexValue": 302.27153707322054,
+    "2xIndexValue": 12.893613411434988,
+    "FactorTransferred": 3.223403352858748,
+    "TotalValue": 315.16515048465556,
+    "ROIC": -0.21144165491587394
+  },
+  {
+    "Date": "2004-10-07",
+    "IndexInvested": 402.34636174118396,
+    "MainIndexValue": 310.5381467684845,
+    "2xIndexValue": 10.695115681600836,
+    "FactorTransferred": 2.673778920400209,
+    "TotalValue": 321.23326245008536,
+    "ROIC": -0.2016001808493448
+  },
+  {
+    "Date": "2004-11-23",
+    "IndexInvested": 403.34636174118396,
+    "MainIndexValue": 323.25190506142496,
+    "2xIndexValue": 12.569774177599315,
+    "FactorTransferred": 0.0,
+    "TotalValue": 335.82167923902426,
+    "ROIC": -0.1674111604990462
+  },
+  {
+    "Date": "2004-12-23",
+    "IndexInvested": 404.34636174118396,
+    "MainIndexValue": 332.3676889832806,
+    "2xIndexValue": 14.279471142775357,
+    "FactorTransferred": 0.0,
+    "TotalValue": 346.64716012605595,
+    "ROIC": -0.142697467009881
+  },
+  {
+    "Date": "2005-01-26",
+    "IndexInvested": 405.34636174118396,
+    "MainIndexValue": 322.463646554172,
+    "2xIndexValue": 14.43012215161973,
+    "FactorTransferred": 0.0,
+    "TotalValue": 336.89376870579173,
+    "ROIC": -0.16887432451928508
+  },
+  {
+    "Date": "2005-02-02",
+    "IndexInvested": 406.34636174118396,
+    "MainIndexValue": 327.7150412087631,
+    "2xIndexValue": 15.901935352195157,
+    "FactorTransferred": 0.0,
+    "TotalValue": 343.6169765609583,
+    "ROIC": -0.1543741770233449
+  },
+  {
+    "Date": "2005-03-02",
+    "IndexInvested": 407.34636174118396,
+    "MainIndexValue": 332.3539562566733,
+    "2xIndexValue": 17.342052423771605,
+    "FactorTransferred": 0.0,
+    "TotalValue": 349.69600868044495,
+    "ROIC": -0.14152661831644975
+  },
+  {
+    "Date": "2005-04-07",
+    "IndexInvested": 408.34636174118396,
+    "MainIndexValue": 327.1519994178682,
+    "2xIndexValue": 17.78765228295296,
+    "FactorTransferred": 0.0,
+    "TotalValue": 344.9396517008211,
+    "ROIC": -0.15527678456591945
+  },
+  {
+    "Date": "2005-05-02",
+    "IndexInvested": 409.34636174118396,
+    "MainIndexValue": 319.19251107633835,
+    "2xIndexValue": 17.90321296627988,
+    "FactorTransferred": 0.0,
+    "TotalValue": 337.09572404261826,
+    "ROIC": -0.17650245477019133
+  },
+  {
+    "Date": "2005-06-01",
+    "IndexInvested": 410.34636174118396,
+    "MainIndexValue": 330.1951716340224,
+    "2xIndexValue": 20.141255221893555,
+    "FactorTransferred": 0.0,
+    "TotalValue": 350.336426855916,
+    "ROIC": -0.14624215170480245
+  },
+  {
+    "Date": "2005-07-28",
+    "IndexInvested": 411.34636174118396,
+    "MainIndexValue": 341.5933347179936,
+    "2xIndexValue": 22.533169167399308,
+    "FactorTransferred": 0.0,
+    "TotalValue": 364.12650388539294,
+    "ROIC": -0.11479342531659828
+  },
+  {
+    "Date": "2005-08-02",
+    "IndexInvested": 412.34636174118396,
+    "MainIndexValue": 341.7031965308512,
+    "2xIndexValue": 23.545177751685284,
+    "FactorTransferred": 0.0,
+    "TotalValue": 365.2483742825365,
+    "ROIC": -0.11421948106870727
+  },
+  {
+    "Date": "2005-09-30",
+    "IndexInvested": 413.34636174118396,
+    "MainIndexValue": 337.4982356437283,
+    "2xIndexValue": 23.93930896378683,
+    "FactorTransferred": 0.0,
+    "TotalValue": 361.4375446075152,
+    "ROIC": -0.12558188951998417
+  },
+  {
+    "Date": "2005-10-18",
+    "IndexInvested": 414.34636174118396,
+    "MainIndexValue": 323.58149049999764,
+    "2xIndexValue": 22.991734010795707,
+    "FactorTransferred": 0.0,
+    "TotalValue": 346.57322451079335,
+    "ROIC": -0.16356638669540005
+  },
+  {
+    "Date": "2005-11-08",
+    "IndexInvested": 415.34636174118396,
+    "MainIndexValue": 334.6912663252178,
+    "2xIndexValue": 25.56513889623191,
+    "FactorTransferred": 0.0,
+    "TotalValue": 360.2564052214497,
+    "ROIC": -0.13263618414469852
+  },
+  {
+    "Date": "2005-12-06",
+    "IndexInvested": 416.34636174118396,
+    "MainIndexValue": 347.0809322702285,
+    "2xIndexValue": 28.478002688833943,
+    "FactorTransferred": 0.0,
+    "TotalValue": 375.55893495906247,
+    "ROIC": -0.09796513319234056
+  },
+  {
+    "Date": "2006-01-18",
+    "IndexInvested": 417.34636174118396,
+    "MainIndexValue": 350.989266262636,
+    "2xIndexValue": 30.101523094097473,
+    "FactorTransferred": 0.0,
+    "TotalValue": 381.09078935673347,
+    "ROIC": -0.08687166274360449
+  },
+  {
+    "Date": "2006-02-24",
+    "IndexInvested": 418.34636174118396,
+    "MainIndexValue": 354.1477933822907,
+    "2xIndexValue": 31.61372216712545,
+    "FactorTransferred": 0.0,
+    "TotalValue": 385.7615155494161,
+    "ROIC": -0.07788963684576496
+  },
+  {
+    "Date": "2006-03-08",
+    "IndexInvested": 419.34636174118396,
+    "MainIndexValue": 351.1375797099937,
+    "2xIndexValue": 32.070736445594314,
+    "FactorTransferred": 0.0,
+    "TotalValue": 383.208316155588,
+    "ROIC": -0.08617708148353972
+  },
+  {
+    "Date": "2006-04-07",
+    "IndexInvested": 420.34636174118396,
+    "MainIndexValue": 355.81494639240407,
+    "2xIndexValue": 33.9115181218923,
+    "FactorTransferred": 0.0,
+    "TotalValue": 389.72646451429637,
+    "ROIC": -0.07284444451963855
+  },
+  {
+    "Date": "2006-05-26",
+    "IndexInvested": 421.34636174118396,
+    "MainIndexValue": 351.60174586931686,
+    "2xIndexValue": 34.06503308238065,
+    "FactorTransferred": 0.0,
+    "TotalValue": 385.6667789516975,
+    "ROIC": -0.08467993562835838
+  },
+  {
+    "Date": "2006-06-02",
+    "IndexInvested": 422.34636174118396,
+    "MainIndexValue": 353.81546139839656,
+    "2xIndexValue": 35.478935834372784,
+    "FactorTransferred": 0.0,
+    "TotalValue": 389.29439723276937,
+    "ROIC": -0.07825795958594998
+  },
+  {
+    "Date": "2006-07-11",
+    "IndexInvested": 423.34636174118396,
+    "MainIndexValue": 349.47866633584465,
+    "2xIndexValue": 35.54150599968554,
+    "FactorTransferred": 0.0,
+    "TotalValue": 385.0201723355302,
+    "ROIC": -0.09053151950573451
+  },
+  {
+    "Date": "2006-08-30",
+    "IndexInvested": 430.8147035042896,
+    "MainIndexValue": 365.9941283877698,
+    "2xIndexValue": 29.87336705242259,
+    "FactorTransferred": 7.468341763105649,
+    "TotalValue": 395.8674954401924,
+    "ROIC": -0.08111888424381326
+  },
+  {
+    "Date": "2006-09-18",
+    "IndexInvested": 431.8147035042896,
+    "MainIndexValue": 370.42686942656394,
+    "2xIndexValue": 31.592145809759057,
+    "FactorTransferred": 0.0,
+    "TotalValue": 402.019015236323,
+    "ROIC": -0.0690010970589161
+  },
+  {
+    "Date": "2006-10-23",
+    "IndexInvested": 432.8147035042896,
+    "MainIndexValue": 386.0830528298696,
+    "2xIndexValue": 35.30016072821298,
+    "FactorTransferred": 0.0,
+    "TotalValue": 421.38321355808256,
+    "ROIC": -0.026411972268159615
+  },
+  {
+    "Date": "2006-11-22",
+    "IndexInvested": 433.8147035042896,
+    "MainIndexValue": 394.23357667539415,
+    "2xIndexValue": 37.791471679146376,
+    "FactorTransferred": 0.0,
+    "TotalValue": 432.0250483545405,
+    "ROIC": -0.004125390714728009
+  },
+  {
+    "Date": "2006-12-01",
+    "IndexInvested": 434.8147035042896,
+    "MainIndexValue": 391.6036518845094,
+    "2xIndexValue": 38.277540873582275,
+    "FactorTransferred": 0.0,
+    "TotalValue": 429.8811927580917,
+    "ROIC": -0.011346237159041301
+  },
+  {
+    "Date": "2007-01-16",
+    "IndexInvested": 435.8147035042896,
+    "MainIndexValue": 401.4700754869866,
+    "2xIndexValue": 40.45637115134335,
+    "FactorTransferred": 0.0,
+    "TotalValue": 441.92644663832994,
+    "ROIC": 0.01402371944979639
+  },
+  {
+    "Date": "2007-02-08",
+    "IndexInvested": 436.8147035042896,
+    "MainIndexValue": 406.07104199214854,
+    "2xIndexValue": 41.45637115134335,
+    "FactorTransferred": 0.0,
+    "TotalValue": 447.5274131434919,
+    "ROIC": 0.024524608611525667
+  },
+  {
+    "Date": "2007-03-22",
+    "IndexInvested": 437.8147035042896,
+    "MainIndexValue": 402.2102675390053,
+    "2xIndexValue": 42.45637115134334,
+    "FactorTransferred": 0.0,
+    "TotalValue": 444.66663869034863,
+    "ROIC": 0.01565030852371069
+  },
+  {
+    "Date": "2007-04-04",
+    "IndexInvested": 438.8147035042896,
+    "MainIndexValue": 403.5644825432669,
+    "2xIndexValue": 43.45637115134334,
+    "FactorTransferred": 0.0,
+    "TotalValue": 447.0208536946102,
+    "ROIC": 0.018700718377911863
+  },
+  {
+    "Date": "2007-05-29",
+    "IndexInvested": 439.8147035042896,
+    "MainIndexValue": 425.64127124628055,
+    "2xIndexValue": 44.45637115134334,
+    "FactorTransferred": 0.0,
+    "TotalValue": 470.0976423976239,
+    "ROIC": 0.06885385743598482
+  },
+  {
+    "Date": "2007-06-06",
+    "IndexInvested": 440.8147035042896,
+    "MainIndexValue": 425.4365969288663,
+    "2xIndexValue": 45.45637115134334,
+    "FactorTransferred": 0.0,
+    "TotalValue": 470.89296808020964,
+    "ROIC": 0.068233351421381
+  },
+  {
+    "Date": "2007-07-27",
+    "IndexInvested": 441.8147035042896,
+    "MainIndexValue": 409.0542402624059,
+    "2xIndexValue": 46.45637115134334,
+    "FactorTransferred": 0.0,
+    "TotalValue": 455.51061141374925,
+    "ROIC": 0.03099921256768832
+  },
+  {
+    "Date": "2007-08-03",
+    "IndexInvested": 442.8147035042896,
+    "MainIndexValue": 401.79531138863115,
+    "2xIndexValue": 47.45637115134334,
+    "FactorTransferred": 0.0,
+    "TotalValue": 449.25168253997447,
+    "ROIC": 0.014536506996594185
+  },
+  {
+    "Date": "2007-09-28",
+    "IndexInvested": 443.8147035042896,
+    "MainIndexValue": 428.0637179619783,
+    "2xIndexValue": 48.45637115134335,
+    "FactorTransferred": 0.0,
+    "TotalValue": 476.52008911332166,
+    "ROIC": 0.07369153241385562
+  },
+  {
+    "Date": "2007-10-26",
+    "IndexInvested": 444.8147035042896,
+    "MainIndexValue": 430.45532334217523,
+    "2xIndexValue": 49.45637115134335,
+    "FactorTransferred": 0.0,
+    "TotalValue": 479.91169449351855,
+    "ROIC": 0.0789024974056203
+  },
+  {
+    "Date": "2007-11-09",
+    "IndexInvested": 445.8147035042896,
+    "MainIndexValue": 407.58226743168683,
+    "2xIndexValue": 50.456371151343355,
+    "FactorTransferred": 0.0,
+    "TotalValue": 458.0386385830302,
+    "ROIC": 0.027419317897447962
+  },
+  {
+    "Date": "2007-12-31",
+    "IndexInvested": 455.90597773455823,
+    "MainIndexValue": 421.7838505568777,
+    "2xIndexValue": 40.36509692107468,
+    "FactorTransferred": 10.091274230268672,
+    "TotalValue": 462.1489474779524,
+    "ROIC": 0.013693546582600403
+  },
+  {
+    "Date": "2008-01-14",
+    "IndexInvested": 463.9789971187732,
+    "MainIndexValue": 414.88836327207497,
+    "2xIndexValue": 32.29207753685974,
+    "FactorTransferred": 8.073019384214936,
+    "TotalValue": 447.1804408089347,
+    "ROIC": -0.03620542398288398
+  },
+  {
+    "Date": "2008-02-01",
+    "IndexInvested": 470.43741262614515,
+    "MainIndexValue": 415.24466078689096,
+    "2xIndexValue": 25.833662029487794,
+    "FactorTransferred": 6.458415507371949,
+    "TotalValue": 441.0783228163788,
+    "ROIC": -0.062408067517151174
+  },
+  {
+    "Date": "2008-03-12",
+    "IndexInvested": 475.6041450320427,
+    "MainIndexValue": 394.6263608317903,
+    "2xIndexValue": 20.666929623590235,
+    "FactorTransferred": 5.166732405897559,
+    "TotalValue": 415.29329045538054,
+    "ROIC": -0.12680893387209413
+  },
+  {
+    "Date": "2008-04-09",
+    "IndexInvested": 479.73753095676074,
+    "MainIndexValue": 412.54545182098065,
+    "2xIndexValue": 16.53354369887219,
+    "FactorTransferred": 0.0,
+    "TotalValue": 429.0789955198528,
+    "ROIC": -0.1055963566908711
+  },
+  {
+    "Date": "2008-05-27",
+    "IndexInvested": 483.04423969653516,
+    "MainIndexValue": 425.25138288295415,
+    "2xIndexValue": 13.226834959097749,
+    "FactorTransferred": 3.306708739774438,
+    "TotalValue": 438.4782178420519,
+    "ROIC": -0.09226074589458133
+  },
+  {
+    "Date": "2008-06-11",
+    "IndexInvested": 485.68960668835473,
+    "MainIndexValue": 412.59156782652303,
+    "2xIndexValue": 10.5814679672782,
+    "FactorTransferred": 2.64536699181955,
+    "TotalValue": 423.1730357938012,
+    "ROIC": -0.12871712722209352
+  },
+  {
+    "Date": "2008-07-01",
+    "IndexInvested": 487.80590028181035,
+    "MainIndexValue": 399.08147597294015,
+    "2xIndexValue": 8.46517437382256,
+    "FactorTransferred": 2.1162935934556404,
+    "TotalValue": 407.5466503467627,
+    "ROIC": -0.16453111757910488
+  },
+  {
+    "Date": "2008-08-15",
+    "IndexInvested": 489.4989351565749,
+    "MainIndexValue": 404.9022651773312,
+    "2xIndexValue": 6.7721394990580475,
+    "FactorTransferred": 1.693034874764512,
+    "TotalValue": 411.6744046763892,
+    "ROIC": -0.15898815072047526
+  },
+  {
+    "Date": "2008-09-25",
+    "IndexInvested": 490.85336305638646,
+    "MainIndexValue": 378.49178809633395,
+    "2xIndexValue": 5.417711599246438,
+    "FactorTransferred": 0.0,
+    "TotalValue": 383.9094996955804,
+    "ROIC": -0.2178733434663683
+  },
+  {
+    "Date": "2008-10-31",
+    "IndexInvested": 491.93690537623576,
+    "MainIndexValue": 304.3170722478364,
+    "2xIndexValue": 4.33416927939715,
+    "FactorTransferred": 1.0835423198492877,
+    "TotalValue": 308.65124152723354,
+    "ROIC": -0.372579617113346
+  },
+  {
+    "Date": "2008-11-14",
+    "IndexInvested": 492.80373923211516,
+    "MainIndexValue": 275.196698138009,
+    "2xIndexValue": 3.46733542351772,
+    "FactorTransferred": 0.8668338558794301,
+    "TotalValue": 278.66403356152676,
+    "ROIC": -0.43453344328161964
+  },
+  {
+    "Date": "2008-12-03",
+    "IndexInvested": 493.49720631681873,
+    "MainIndexValue": 275.08659300700884,
+    "2xIndexValue": 2.773868338814176,
+    "FactorTransferred": 0.693467084703544,
+    "TotalValue": 277.860461345823,
+    "ROIC": -0.43695636411072153
+  },
+  {
+    "Date": "2009-01-12",
+    "IndexInvested": 494.0519799845816,
+    "MainIndexValue": 275.48972374502983,
+    "2xIndexValue": 2.219094671051341,
+    "FactorTransferred": 0.5547736677628352,
+    "TotalValue": 277.70881841608116,
+    "ROIC": -0.4378955460825237
+  },
+  {
+    "Date": "2009-02-24",
+    "IndexInvested": 494.4957989187918,
+    "MainIndexValue": 245.18921113450943,
+    "2xIndexValue": 1.7752757368410728,
+    "FactorTransferred": 0.0,
+    "TotalValue": 246.96448687135052,
+    "ROIC": -0.500573134470839
+  },
+  {
+    "Date": "2009-03-23",
+    "IndexInvested": 494.85085406616,
+    "MainIndexValue": 261.33121163495196,
+    "2xIndexValue": 1.4202205894728581,
+    "FactorTransferred": 0.3550551473682146,
+    "TotalValue": 262.75143222442483,
+    "ROIC": -0.46902904164878784
+  },
+  {
+    "Date": "2009-04-29",
+    "IndexInvested": 495.1348981840546,
+    "MainIndexValue": 277.72219087913436,
+    "2xIndexValue": 1.1361764715782865,
+    "FactorTransferred": 0.2840441178945716,
+    "TotalValue": 278.8583673507126,
+    "ROIC": -0.4368032461992738
+  },
+  {
+    "Date": "2009-05-26",
+    "IndexInvested": 495.36213347837025,
+    "MainIndexValue": 289.6128426646311,
+    "2xIndexValue": 0.9089411772626292,
+    "FactorTransferred": 0.2272352943156573,
+    "TotalValue": 290.52178384189375,
+    "ROIC": -0.41351636669947595
+  },
+  {
+    "Date": "2009-06-02",
+    "IndexInvested": 495.5439217138228,
+    "MainIndexValue": 300.741845554209,
+    "2xIndexValue": 0.7271529418101034,
+    "FactorTransferred": 0.18178823545252587,
+    "TotalValue": 301.46899849601914,
+    "ROIC": -0.39164020526495763
+  },
+  {
+    "Date": "2009-07-01",
+    "IndexInvested": 496.5439217138228,
+    "MainIndexValue": 293.9263376755169,
+    "2xIndexValue": 1.7271529418101033,
+    "FactorTransferred": 0.0,
+    "TotalValue": 295.653490617327,
+    "ROIC": -0.40457736428052904
+  },
+  {
+    "Date": "2009-08-24",
+    "IndexInvested": 497.5439217138228,
+    "MainIndexValue": 326.47269570996264,
+    "2xIndexValue": 2.7271529418101035,
+    "FactorTransferred": 0.0,
+    "TotalValue": 329.19984865177275,
+    "ROIC": -0.3383501751607733
+  },
+  {
+    "Date": "2009-09-17",
+    "IndexInvested": 498.5439217138228,
+    "MainIndexValue": 339.1805459910178,
+    "2xIndexValue": 3.727152941810103,
+    "FactorTransferred": 0.0,
+    "TotalValue": 342.90769893282794,
+    "ROIC": -0.3121815671645759
+  },
+  {
+    "Date": "2009-10-07",
+    "IndexInvested": 499.5439217138228,
+    "MainIndexValue": 336.6625325710993,
+    "2xIndexValue": 4.727152941810103,
+    "FactorTransferred": 0.0,
+    "TotalValue": 341.3896855129094,
+    "ROIC": -0.3165972586721139
+  },
+  {
+    "Date": "2009-11-06",
+    "IndexInvested": 500.5439217138228,
+    "MainIndexValue": 340.39339442716056,
+    "2xIndexValue": 5.727152941810103,
+    "FactorTransferred": 0.0,
+    "TotalValue": 346.1205473689707,
+    "ROIC": -0.308511136877097
+  },
+  {
+    "Date": "2009-12-11",
+    "IndexInvested": 501.5439217138228,
+    "MainIndexValue": 352.20672919494507,
+    "2xIndexValue": 6.727152941810103,
+    "FactorTransferred": 0.0,
+    "TotalValue": 358.9338821367552,
+    "ROIC": -0.28434207534557626
+  },
+  {
+    "Date": "2010-01-14",
+    "IndexInvested": 502.5439217138228,
+    "MainIndexValue": 365.5926286017178,
+    "2xIndexValue": 7.727152941810103,
+    "FactorTransferred": 0.0,
+    "TotalValue": 373.31978154352794,
+    "ROIC": -0.2571399923206761
+  },
+  {
+    "Date": "2010-02-03",
+    "IndexInvested": 503.5439217138228,
+    "MainIndexValue": 349.3003496091226,
+    "2xIndexValue": 8.727152941810104,
+    "FactorTransferred": 0.0,
+    "TotalValue": 358.0275025509327,
+    "ROIC": -0.2889845610043743
+  },
+  {
+    "Date": "2010-03-25",
+    "IndexInvested": 504.5439217138228,
+    "MainIndexValue": 371.0902381797194,
+    "2xIndexValue": 9.727152941810104,
+    "FactorTransferred": 0.0,
+    "TotalValue": 380.8173911215295,
+    "ROIC": -0.24522449933005225
+  },
+  {
+    "Date": "2010-04-23",
+    "IndexInvested": 505.5439217138228,
+    "MainIndexValue": 387.5003003537773,
+    "2xIndexValue": 10.727152941810104,
+    "FactorTransferred": 0.0,
+    "TotalValue": 398.2274532955874,
+    "ROIC": -0.21227921810319947
+  },
+  {
+    "Date": "2010-05-24",
+    "IndexInvested": 506.5439217138228,
+    "MainIndexValue": 341.77814264165437,
+    "2xIndexValue": 11.727152941810106,
+    "FactorTransferred": 0.0,
+    "TotalValue": 353.5052955834645,
+    "ROIC": -0.30212311227143507
+  },
+  {
+    "Date": "2010-06-03",
+    "IndexInvested": 507.5439217138228,
+    "MainIndexValue": 351.0670973310628,
+    "2xIndexValue": 12.727152941810104,
+    "FactorTransferred": 0.0,
+    "TotalValue": 363.79425027287294,
+    "ROIC": -0.28322607224917706
+  },
+  {
+    "Date": "2010-07-29",
+    "IndexInvested": 510.0893523021848,
+    "MainIndexValue": 353.1986951196911,
+    "2xIndexValue": 10.181722353448084,
+    "FactorTransferred": 2.545430588362021,
+    "TotalValue": 363.3804174731392,
+    "ROIC": -0.28761418792002735
+  },
+  {
+    "Date": "2010-08-31",
+    "IndexInvested": 512.1256967728744,
+    "MainIndexValue": 338.4974365425764,
+    "2xIndexValue": 8.145377882758467,
+    "FactorTransferred": 2.0363444706896168,
+    "TotalValue": 346.64281442533485,
+    "ROIC": -0.32312942582322823
+  },
+  {
+    "Date": "2010-09-01",
+    "IndexInvested": 513.7547723494262,
+    "MainIndexValue": 350.1137236115644,
+    "2xIndexValue": 6.516302306206774,
+    "FactorTransferred": 1.6290755765516935,
+    "TotalValue": 356.6300259177712,
+    "ROIC": -0.3058360815085292
+  },
+  {
+    "Date": "2010-10-28",
+    "IndexInvested": 514.7547723494262,
+    "MainIndexValue": 383.6540408009865,
+    "2xIndexValue": 7.516302306206774,
+    "FactorTransferred": 0.0,
+    "TotalValue": 391.1703431071933,
+    "ROIC": -0.24008408640520815
+  },
+  {
+    "Date": "2010-11-15",
+    "IndexInvested": 515.7547723494262,
+    "MainIndexValue": 388.1816109153572,
+    "2xIndexValue": 8.516302306206775,
+    "FactorTransferred": 0.0,
+    "TotalValue": 396.697913221564,
+    "ROIC": -0.23084005327865503
+  },
+  {
+    "Date": "2010-12-23",
+    "IndexInvested": 516.7547723494262,
+    "MainIndexValue": 407.30954134843955,
+    "2xIndexValue": 9.516302306206775,
+    "FactorTransferred": 0.0,
+    "TotalValue": 416.82584365464635,
+    "ROIC": -0.19337785356186035
+  },
+  {
+    "Date": "2011-01-12",
+    "IndexInvested": 517.7547723494262,
+    "MainIndexValue": 416.7697970133273,
+    "2xIndexValue": 10.516302306206775,
+    "FactorTransferred": 0.0,
+    "TotalValue": 427.2860993195341,
+    "ROIC": -0.1747326685553675
+  },
+  {
+    "Date": "2011-02-04",
+    "IndexInvested": 518.7547723494262,
+    "MainIndexValue": 424.84293742485016,
+    "2xIndexValue": 11.516302306206777,
+    "FactorTransferred": 0.0,
+    "TotalValue": 436.35923973105696,
+    "ROIC": -0.15883330045370395
+  },
+  {
+    "Date": "2011-03-08",
+    "IndexInvested": 519.7547723494262,
+    "MainIndexValue": 428.39174864549153,
+    "2xIndexValue": 12.516302306206777,
+    "FactorTransferred": 0.0,
+    "TotalValue": 440.9080509516983,
+    "ROIC": -0.15169985076100453
+  },
+  {
+    "Date": "2011-04-12",
+    "IndexInvested": 520.7547723494262,
+    "MainIndexValue": 425.9092012527872,
+    "2xIndexValue": 13.516302306206777,
+    "FactorTransferred": 0.0,
+    "TotalValue": 439.425503558994,
+    "ROIC": -0.1561757531736267
+  },
+  {
+    "Date": "2011-05-27",
+    "IndexInvested": 521.7547723494262,
+    "MainIndexValue": 431.39932564344144,
+    "2xIndexValue": 14.516302306206775,
+    "FactorTransferred": 0.0,
+    "TotalValue": 445.91562794964824,
+    "ROIC": -0.14535400233768717
+  },
+  {
+    "Date": "2011-06-03",
+    "IndexInvested": 522.7547723494262,
+    "MainIndexValue": 421.371908367949,
+    "2xIndexValue": 15.516302306206775,
+    "FactorTransferred": 0.0,
+    "TotalValue": 436.8882106741558,
+    "ROIC": -0.16425782454239246
+  },
+  {
+    "Date": "2011-07-25",
+    "IndexInvested": 523.7547723494262,
+    "MainIndexValue": 433.4508302120862,
+    "2xIndexValue": 16.516302306206775,
+    "FactorTransferred": 0.0,
+    "TotalValue": 449.967132518293,
+    "ROIC": -0.14088203817244704
+  },
+  {
+    "Date": "2011-08-03",
+    "IndexInvested": 524.7547723494262,
+    "MainIndexValue": 408.4665510340733,
+    "2xIndexValue": 17.51630230620677,
+    "FactorTransferred": 0.0,
+    "TotalValue": 425.9828533402801,
+    "ROIC": -0.18822490849759319
+  },
+  {
+    "Date": "2011-09-27",
+    "IndexInvested": 528.2580328106676,
+    "MainIndexValue": 384.43492553132495,
+    "2xIndexValue": 14.01304184496542,
+    "FactorTransferred": 3.5032604612413545,
+    "TotalValue": 398.44796737629036,
+    "ROIC": -0.24573230764462853
+  },
+  {
+    "Date": "2011-10-20",
+    "IndexInvested": 531.0606411796607,
+    "MainIndexValue": 400.32371995972716,
+    "2xIndexValue": 11.210433475972335,
+    "FactorTransferred": 2.8026083689930843,
+    "TotalValue": 411.53415343569947,
+    "ROIC": -0.22507126018311868
+  },
+  {
+    "Date": "2011-11-25",
+    "IndexInvested": 533.3027278748551,
+    "MainIndexValue": 383.8834401749311,
+    "2xIndexValue": 8.968346780777868,
+    "FactorTransferred": 2.2420866951944673,
+    "TotalValue": 392.851786955709,
+    "ROIC": -0.2633606272347896
+  },
+  {
+    "Date": "2011-12-02",
+    "IndexInvested": 535.0963972310108,
+    "MainIndexValue": 414.0408898251961,
+    "2xIndexValue": 7.174677424622295,
+    "FactorTransferred": 1.7936693561555737,
+    "TotalValue": 421.2155672498184,
+    "ROIC": -0.21282301762915437
+  },
+  {
+    "Date": "2012-01-05",
+    "IndexInvested": 536.5313327159352,
+    "MainIndexValue": 427.7145689432021,
+    "2xIndexValue": 5.739741939697836,
+    "FactorTransferred": 0.0,
+    "TotalValue": 433.4543108828999,
+    "ROIC": -0.19211743200766443
+  },
+  {
+    "Date": "2012-02-23",
+    "IndexInvested": 537.5313327159352,
+    "MainIndexValue": 455.2259114883755,
+    "2xIndexValue": 6.739741939697836,
+    "FactorTransferred": 0.0,
+    "TotalValue": 461.9656534280733,
+    "ROIC": -0.14057911546487545
+  },
+  {
+    "Date": "2012-03-13",
+    "IndexInvested": 538.5313327159352,
+    "MainIndexValue": 466.0735270137722,
+    "2xIndexValue": 7.739741939697837,
+    "FactorTransferred": 0.0,
+    "TotalValue": 473.8132689534701,
+    "ROIC": -0.12017511299867598
+  },
+  {
+    "Date": "2012-04-05",
+    "IndexInvested": 539.5313327159352,
+    "MainIndexValue": 466.7846818635442,
+    "2xIndexValue": 8.739741939697838,
+    "FactorTransferred": 0.0,
+    "TotalValue": 475.5244238032421,
+    "ROIC": -0.11863427577132557
+  },
+  {
+    "Date": "2012-05-01",
+    "IndexInvested": 540.5313327159352,
+    "MainIndexValue": 469.3688783598991,
+    "2xIndexValue": 9.739741939697838,
+    "FactorTransferred": 0.0,
+    "TotalValue": 479.10862029959696,
+    "ROIC": -0.11363395366502758
+  },
+  {
+    "Date": "2012-06-06",
+    "IndexInvested": 541.5313327159352,
+    "MainIndexValue": 439.08970778439215,
+    "2xIndexValue": 10.739741939697838,
+    "FactorTransferred": 0.0,
+    "TotalValue": 449.82944972409,
+    "ROIC": -0.1693380926491065
+  },
+  {
+    "Date": "2012-07-02",
+    "IndexInvested": 542.5313327159352,
+    "MainIndexValue": 455.9103562968416,
+    "2xIndexValue": 11.73974193969784,
+    "FactorTransferred": 0.0,
+    "TotalValue": 467.65009823653946,
+    "ROIC": -0.13802195368982104
+  },
+  {
+    "Date": "2012-08-20",
+    "IndexInvested": 543.5313327159352,
+    "MainIndexValue": 473.4788859658589,
+    "2xIndexValue": 12.73974193969784,
+    "FactorTransferred": 0.0,
+    "TotalValue": 486.2186279055568,
+    "ROIC": -0.10544507990734658
+  },
+  {
+    "Date": "2012-09-25",
+    "IndexInvested": 544.5313327159352,
+    "MainIndexValue": 481.3116055788415,
+    "2xIndexValue": 13.739741939697838,
+    "FactorTransferred": 0.0,
+    "TotalValue": 495.0513475185394,
+    "ROIC": -0.09086710391963417
+  },
+  {
+    "Date": "2012-10-26",
+    "IndexInvested": 545.5313327159352,
+    "MainIndexValue": 471.41219651980765,
+    "2xIndexValue": 14.739741939697838,
+    "FactorTransferred": 0.0,
+    "TotalValue": 486.1519384595055,
+    "ROIC": -0.10884689970199972
+  },
+  {
+    "Date": "2012-11-12",
+    "IndexInvested": 546.5313327159352,
+    "MainIndexValue": 460.7582287938794,
+    "2xIndexValue": 15.739741939697836,
+    "FactorTransferred": 0.0,
+    "TotalValue": 476.4979707335773,
+    "ROIC": -0.12814153149158672
+  },
+  {
+    "Date": "2012-12-11",
+    "IndexInvested": 547.5313327159352,
+    "MainIndexValue": 476.72081722937384,
+    "2xIndexValue": 16.739741939697836,
+    "FactorTransferred": 0.0,
+    "TotalValue": 493.46055916907164,
+    "ROIC": -0.09875375218922125
+  },
+  {
+    "Date": "2013-01-04",
+    "IndexInvested": 548.5313327159352,
+    "MainIndexValue": 489.61842842500556,
+    "2xIndexValue": 17.739741939697836,
+    "FactorTransferred": 0.0,
+    "TotalValue": 507.35817036470337,
+    "ROIC": -0.07506073016352904
+  },
+  {
+    "Date": "2013-02-26",
+    "IndexInvested": 549.5313327159352,
+    "MainIndexValue": 499.79161540742587,
+    "2xIndexValue": 18.739741939697836,
+    "FactorTransferred": 0.0,
+    "TotalValue": 518.5313573471237,
+    "ROIC": -0.05641166121611484
+  },
+  {
+    "Date": "2013-03-01",
+    "IndexInvested": 550.5313327159352,
+    "MainIndexValue": 506.8898088844937,
+    "2xIndexValue": 19.739741939697833,
+    "FactorTransferred": 0.0,
+    "TotalValue": 526.6295508241915,
+    "ROIC": -0.04341584297087879
+  },
+  {
+    "Date": "2013-04-22",
+    "IndexInvested": 551.5313327159352,
+    "MainIndexValue": 521.6804942576877,
+    "2xIndexValue": 20.739741939697833,
+    "FactorTransferred": 0.0,
+    "TotalValue": 542.4202361973855,
+    "ROIC": -0.01651963538260532
+  },
+  {
+    "Date": "2013-05-16",
+    "IndexInvested": 552.5313327159352,
+    "MainIndexValue": 551.0515234287908,
+    "2xIndexValue": 21.739741939697833,
+    "FactorTransferred": 0.0,
+    "TotalValue": 572.7912653684887,
+    "ROIC": 0.03666748191992482
+  },
+  {
+    "Date": "2013-06-27",
+    "IndexInvested": 553.5313327159352,
+    "MainIndexValue": 538.6079829353611,
+    "2xIndexValue": 22.739741939697833,
+    "FactorTransferred": 0.0,
+    "TotalValue": 561.3477248750589,
+    "ROIC": 0.014120957021117804
+  },
+  {
+    "Date": "2013-07-31",
+    "IndexInvested": 554.5313327159352,
+    "MainIndexValue": 562.8239741344075,
+    "2xIndexValue": 23.73974193969783,
+    "FactorTransferred": 0.0,
+    "TotalValue": 586.5637160741054,
+    "ROIC": 0.0577647852670197
+  },
+  {
+    "Date": "2013-08-30",
+    "IndexInvested": 555.5313327159352,
+    "MainIndexValue": 545.2087018931047,
+    "2xIndexValue": 24.73974193969783,
+    "FactorTransferred": 0.0,
+    "TotalValue": 569.9484438328026,
+    "ROIC": 0.025951931543417486
+  },
+  {
+    "Date": "2013-09-20",
+    "IndexInvested": 556.5313327159352,
+    "MainIndexValue": 570.8970841191441,
+    "2xIndexValue": 25.73974193969783,
+    "FactorTransferred": 0.0,
+    "TotalValue": 596.636826058842,
+    "ROIC": 0.07206331608893882
+  },
+  {
+    "Date": "2013-10-08",
+    "IndexInvested": 557.5313327159352,
+    "MainIndexValue": 552.7142235000889,
+    "2xIndexValue": 26.73974193969783,
+    "FactorTransferred": 0.0,
+    "TotalValue": 579.4539654397868,
+    "ROIC": 0.039320898104611646
+  },
+  {
+    "Date": "2013-11-08",
+    "IndexInvested": 558.5313327159352,
+    "MainIndexValue": 591.1633279600667,
+    "2xIndexValue": 27.739741939697826,
+    "FactorTransferred": 0.0,
+    "TotalValue": 618.9030698997645,
+    "ROIC": 0.10809015295572327
+  },
+  {
+    "Date": "2013-12-18",
+    "IndexInvested": 559.5313327159352,
+    "MainIndexValue": 604.5317036337166,
+    "2xIndexValue": 28.739741939697826,
+    "FactorTransferred": 0.0,
+    "TotalValue": 633.2714455734144,
+    "ROIC": 0.13178906800366072
+  },
+  {
+    "Date": "2014-01-29",
+    "IndexInvested": 560.5313327159352,
+    "MainIndexValue": 592.3619410636732,
+    "2xIndexValue": 29.739741939697826,
+    "FactorTransferred": 0.0,
+    "TotalValue": 622.101683003371,
+    "ROIC": 0.1098428342785226
+  },
+  {
+    "Date": "2014-02-12",
+    "IndexInvested": 561.5313327159352,
+    "MainIndexValue": 607.4063718292741,
+    "2xIndexValue": 30.739741939697826,
+    "FactorTransferred": 0.0,
+    "TotalValue": 638.146113768972,
+    "ROIC": 0.1364390134428961
+  },
+  {
+    "Date": "2014-03-04",
+    "IndexInvested": 562.5313327159352,
+    "MainIndexValue": 625.652668796431,
+    "2xIndexValue": 31.739741939697822,
+    "FactorTransferred": 0.0,
+    "TotalValue": 657.3924107361289,
+    "ROIC": 0.1686325232093273
+  },
+  {
+    "Date": "2014-04-30",
+    "IndexInvested": 563.5313327159352,
+    "MainIndexValue": 629.0047789803332,
+    "2xIndexValue": 32.73974193969782,
+    "FactorTransferred": 0.0,
+    "TotalValue": 661.744520920031,
+    "ROIC": 0.17428168142977632
+  },
+  {
+    "Date": "2014-05-01",
+    "IndexInvested": 564.5313327159352,
+    "MainIndexValue": 628.9146325909255,
+    "2xIndexValue": 33.73974193969782,
+    "FactorTransferred": 0.0,
+    "TotalValue": 662.6543745306234,
+    "ROIC": 0.17381327860514428
+  },
+  {
+    "Date": "2014-06-20",
+    "IndexInvested": 565.5313327159352,
+    "MainIndexValue": 655.3542347286958,
+    "2xIndexValue": 34.73974193969782,
+    "FactorTransferred": 0.0,
+    "TotalValue": 690.0939766683937,
+    "ROIC": 0.2202577235716593
+  },
+  {
+    "Date": "2014-07-01",
+    "IndexInvested": 566.5313327159352,
+    "MainIndexValue": 658.8432338742913,
+    "2xIndexValue": 35.73974193969782,
+    "FactorTransferred": 0.0,
+    "TotalValue": 694.5829758139892,
+    "ROIC": 0.22602746874418764
+  },
+  {
+    "Date": "2014-08-07",
+    "IndexInvested": 567.5313327159352,
+    "MainIndexValue": 637.5586697085776,
+    "2xIndexValue": 36.73974193969782,
+    "FactorTransferred": 0.0,
+    "TotalValue": 674.2984116482754,
+    "ROIC": 0.188125435156864
+  },
+  {
+    "Date": "2014-09-23",
+    "IndexInvested": 568.5313327159352,
+    "MainIndexValue": 661.9983575035618,
+    "2xIndexValue": 37.73974193969782,
+    "FactorTransferred": 0.0,
+    "TotalValue": 699.7380994432597,
+    "ROIC": 0.23078194494670282
+  },
+  {
+    "Date": "2014-10-27",
+    "IndexInvested": 569.5313327159352,
+    "MainIndexValue": 654.940229088453,
+    "2xIndexValue": 38.739741939697815,
+    "FactorTransferred": 0.0,
+    "TotalValue": 693.6799710281508,
+    "ROIC": 0.21798386002783313
+  },
+  {
+    "Date": "2014-11-06",
+    "IndexInvested": 570.5313327159352,
+    "MainIndexValue": 678.1712875143409,
+    "2xIndexValue": 39.739741939697815,
+    "FactorTransferred": 0.0,
+    "TotalValue": 717.9110294540387,
+    "ROIC": 0.2583200751421013
+  },
+  {
+    "Date": "2014-12-03",
+    "IndexInvested": 571.5313327159352,
+    "MainIndexValue": 692.5679997782714,
+    "2xIndexValue": 40.739741939697815,
+    "FactorTransferred": 0.0,
+    "TotalValue": 733.3077417179693,
+    "ROIC": 0.2830578128293815
+  },
+  {
+    "Date": "2015-01-27",
+    "IndexInvested": 572.5313327159352,
+    "MainIndexValue": 677.6170541572416,
+    "2xIndexValue": 41.739741939697815,
+    "FactorTransferred": 0.0,
+    "TotalValue": 719.3567960969394,
+    "ROIC": 0.25644965609917564
+  },
+  {
+    "Date": "2015-02-25",
+    "IndexInvested": 573.5313327159352,
+    "MainIndexValue": 705.7660989385956,
+    "2xIndexValue": 42.739741939697815,
+    "FactorTransferred": 0.0,
+    "TotalValue": 748.5058408782935,
+    "ROIC": 0.3050827359924233
+  },
+  {
+    "Date": "2015-03-17",
+    "IndexInvested": 574.5313327159352,
+    "MainIndexValue": 692.5513060024552,
+    "2xIndexValue": 43.739741939697815,
+    "FactorTransferred": 0.0,
+    "TotalValue": 736.2910479421531,
+    "ROIC": 0.28155072841988343
+  },
+  {
+    "Date": "2015-04-21",
+    "IndexInvested": 575.5313327159352,
+    "MainIndexValue": 700.2337816330917,
+    "2xIndexValue": 44.739741939697815,
+    "FactorTransferred": 0.0,
+    "TotalValue": 744.9735235727895,
+    "ROIC": 0.2944100194463017
+  },
+  {
+    "Date": "2015-05-08",
+    "IndexInvested": 576.5313327159352,
+    "MainIndexValue": 706.5139800951633,
+    "2xIndexValue": 45.739741939697815,
+    "FactorTransferred": 0.0,
+    "TotalValue": 752.2537220348612,
+    "ROIC": 0.3047924359828451
+  },
+  {
+    "Date": "2015-06-03",
+    "IndexInvested": 577.5313327159352,
+    "MainIndexValue": 705.8362127970238,
+    "2xIndexValue": 46.73974193969781,
+    "FactorTransferred": 0.0,
+    "TotalValue": 752.5759547367215,
+    "ROIC": 0.30309112615173717
+  },
+  {
+    "Date": "2015-07-14",
+    "IndexInvested": 578.5313327159352,
+    "MainIndexValue": 704.1267701534401,
+    "2xIndexValue": 47.73974193969781,
+    "FactorTransferred": 0.0,
+    "TotalValue": 751.866512093138,
+    "ROIC": 0.299612431643892
+  },
+  {
+    "Date": "2015-08-07",
+    "IndexInvested": 579.5313327159352,
+    "MainIndexValue": 693.6497564511643,
+    "2xIndexValue": 48.73974193969781,
+    "FactorTransferred": 0.0,
+    "TotalValue": 742.3894983908622,
+    "ROIC": 0.28101701578705507
+  },
+  {
+    "Date": "2015-09-24",
+    "IndexInvested": 589.2792811038747,
+    "MainIndexValue": 654.8755760516032,
+    "2xIndexValue": 38.99179355175824,
+    "FactorTransferred": 9.747948387939562,
+    "TotalValue": 693.8673696033615,
+    "ROIC": 0.17748475443352735
+  },
+  {
+    "Date": "2015-10-20",
+    "IndexInvested": 597.0776398142264,
+    "MainIndexValue": 696.0677629139258,
+    "2xIndexValue": 31.193434841406596,
+    "FactorTransferred": 7.798358710351649,
+    "TotalValue": 727.2611977553323,
+    "ROIC": 0.2180345557432213
+  },
+  {
+    "Date": "2015-11-04",
+    "IndexInvested": 603.3163267825078,
+    "MainIndexValue": 726.8275368388109,
+    "2xIndexValue": 24.954747873125275,
+    "FactorTransferred": 6.2386869682813195,
+    "TotalValue": 751.7822847119362,
+    "ROIC": 0.24608310986907803
+  },
+  {
+    "Date": "2015-12-01",
+    "IndexInvested": 608.3072763571328,
+    "MainIndexValue": 731.9291193894427,
+    "2xIndexValue": 19.963798298500222,
+    "FactorTransferred": 4.990949574625056,
+    "TotalValue": 751.8929176879429,
+    "ROIC": 0.236041301676806
+  },
+  {
+    "Date": "2016-01-04",
+    "IndexInvested": 609.3072763571328,
+    "MainIndexValue": 700.6104076467831,
+    "2xIndexValue": 20.963798298500222,
+    "FactorTransferred": 0.0,
+    "TotalValue": 721.5742059452833,
+    "ROIC": 0.18425338732102658
+  },
+  {
+    "Date": "2016-02-03",
+    "IndexInvested": 613.5000360168328,
+    "MainIndexValue": 669.947742089272,
+    "2xIndexValue": 16.771038638800178,
+    "FactorTransferred": 4.1927596597000445,
+    "TotalValue": 686.7187807280721,
+    "ROIC": 0.11934595014307445
+  },
+  {
+    "Date": "2016-03-24",
+    "IndexInvested": 616.8542437445928,
+    "MainIndexValue": 716.5317296642695,
+    "2xIndexValue": 13.416830911040142,
+    "FactorTransferred": 3.354207727760036,
+    "TotalValue": 729.9485605753097,
+    "ROIC": 0.18334042114095153
+  },
+  {
+    "Date": "2016-04-14",
+    "IndexInvested": 619.5376099268009,
+    "MainIndexValue": 735.7000346057113,
+    "2xIndexValue": 10.733464728832113,
+    "FactorTransferred": 2.6833661822080286,
+    "TotalValue": 746.4334993345434,
+    "ROIC": 0.204823544809064
+  },
+  {
+    "Date": "2016-05-04",
+    "IndexInvested": 620.5376099268009,
+    "MainIndexValue": 724.5167780468731,
+    "2xIndexValue": 11.733464728832114,
+    "FactorTransferred": 0.0,
+    "TotalValue": 736.2502427757053,
+    "ROIC": 0.18647158689149226
+  },
+  {
+    "Date": "2016-06-10",
+    "IndexInvested": 621.5376099268009,
+    "MainIndexValue": 740.3944591056152,
+    "2xIndexValue": 12.733464728832114,
+    "FactorTransferred": 0.0,
+    "TotalValue": 753.1279238344473,
+    "ROIC": 0.2117173792960718
+  },
+  {
+    "Date": "2016-07-21",
+    "IndexInvested": 622.5376099268009,
+    "MainIndexValue": 764.80264066644,
+    "2xIndexValue": 13.733464728832113,
+    "FactorTransferred": 0.0,
+    "TotalValue": 778.5361053952721,
+    "ROIC": 0.25058485299677524
+  },
+  {
+    "Date": "2016-08-24",
+    "IndexInvested": 623.5376099268009,
+    "MainIndexValue": 768.4303110662904,
+    "2xIndexValue": 14.733464728832113,
+    "FactorTransferred": 0.0,
+    "TotalValue": 783.1637757951225,
+    "ROIC": 0.25600086238111713
+  },
+  {
+    "Date": "2016-09-22",
+    "IndexInvested": 624.5376099268009,
+    "MainIndexValue": 769.0449309782417,
+    "2xIndexValue": 15.73346472883211,
+    "FactorTransferred": 0.0,
+    "TotalValue": 784.7783957070739,
+    "ROIC": 0.2565750776787551
+  },
+  {
+    "Date": "2016-10-04",
+    "IndexInvested": 625.5376099268009,
+    "MainIndexValue": 759.6172266966438,
+    "2xIndexValue": 16.73346472883211,
+    "FactorTransferred": 0.0,
+    "TotalValue": 776.3506914254759,
+    "ROIC": 0.24109354754276546
+  },
+  {
+    "Date": "2016-11-14",
+    "IndexInvested": 626.5376099268009,
+    "MainIndexValue": 764.4600077270187,
+    "2xIndexValue": 17.73346472883211,
+    "FactorTransferred": 0.0,
+    "TotalValue": 782.1934724558508,
+    "ROIC": 0.24843817843151572
+  },
+  {
+    "Date": "2016-12-02",
+    "IndexInvested": 627.5376099268009,
+    "MainIndexValue": 774.2621356331387,
+    "2xIndexValue": 18.73346472883211,
+    "FactorTransferred": 0.0,
+    "TotalValue": 792.9956003619708,
+    "ROIC": 0.2636622695083881
+  }
+]

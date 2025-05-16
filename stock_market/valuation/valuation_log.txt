@@ -1,0 +1,5 @@
+Time-Averaged Valuations for AMZN (2000-2024):
+Lynch: 84.33 USD
+Fcv: No valid data
+Simple Dcf: 28.09 USD
+Enhanced Dcf: 26.35 USD

@@ -1,0 +1,2270 @@
+[
+  {
+    "Date": "1990-01-10",
+    "NetCapitalInvested": 1.0,
+    "NetValuation": 1.0,
+    "ROIC": 0.0,
+    "Savings": 0.0
+  },
+  {
+    "Date": "1990-02-22",
+    "NetCapitalInvested": 2.0,
+    "NetValuation": 1.937778929486626,
+    "ROIC": -0.031110535256687055,
+    "Savings": 0.0
+  },
+  {
+    "Date": "1990-03-15",
+    "NetCapitalInvested": 3.0,
+    "NetValuation": 3.011375261564457,
+    "ROIC": 0.0037917538548189653,
+    "Savings": 0.0
+  },
+  {
+    "Date": "1990-04-11",
+    "NetCapitalInvested": 4.0,
+    "NetValuation": 4.045669327163366,
+    "ROIC": 0.011417331790841478,
+    "Savings": 0.0
+  },
+  {
+    "Date": "1990-05-30",
+    "NetCapitalInvested": 5.0,
+    "NetValuation": 5.2697713892143545,
+    "ROIC": 0.0539542778428709,
+    "Savings": 0.0
+  },
+  {
+    "Date": "1990-06-11",
+    "NetCapitalInvested": 6.0,
+    "NetValuation": 6.281015982601527,
+    "ROIC": 0.046835997100254545,
+    "Savings": 0.0
+  },
+  {
+    "Date": "1990-07-27",
+    "NetCapitalInvested": 7.0,
+    "NetValuation": 7.1387669410466055,
+    "ROIC": 0.01982384872094364,
+    "Savings": 0.0
+  },
+  {
+    "Date": "1990-08-31",
+    "NetCapitalInvested": 8.0,
+    "NetValuation": 7.515053939859645,
+    "ROIC": -0.06061825751754435,
+    "Savings": 0.0
+  },
+  {
+    "Date": "1990-09-18",
+    "NetCapitalInvested": 9.0,
+    "NetValuation": 8.42279323300869,
+    "ROIC": -0.06413408522125666,
+    "Savings": 0.0
+  },
+  {
+    "Date": "1990-10-15",
+    "NetCapitalInvested": 9.0,
+    "NetValuation": 8.036814635388078,
+    "ROIC": -0.10702059606799136,
+    "Savings": 1.0
+  },
+  {
+    "Date": "1990-11-30",
+    "NetCapitalInvested": 9.0,
+    "NetValuation": 8.518494775706404,
+    "ROIC": -0.05350058047706617,
+    "Savings": 2.0
+  },
+  {
+    "Date": "1990-12-06",
+    "NetCapitalInvested": 9.0,
+    "NetValuation": 8.7299898976903,
+    "ROIC": -0.030001122478855495,
+    "Savings": 3.0
+  },
+  {
+    "Date": "1991-01-11",
+    "NetCapitalInvested": 9.0,
+    "NetValuation": 9.092439662990204,
+    "ROIC": 0.010271073665578199,
+    "Savings": 4.0
+  },
+  {
+    "Date": "1991-02-05",
+    "NetCapitalInvested": 9.0,
+    "NetValuation": 9.704189303328626,
+    "ROIC": 0.07824325592540286,
+    "Savings": 5.0
+  },
+  {
+    "Date": "1991-03-04",
+    "NetCapitalInvested": 10.75,
+    "NetValuation": 11.513936675289075,
+    "ROIC": 0.07106387677107678,
+    "Savings": 4.25
+  },
+  {
+    "Date": "1991-04-16",
+    "NetCapitalInvested": 12.3875,
+    "NetValuation": 13.721631086225198,
+    "ROIC": 0.10769978496268003,
+    "Savings": 3.6125
+  },
+  {
+    "Date": "1991-05-08",
+    "NetCapitalInvested": 13.929375,
+    "NetValuation": 14.941014833979413,
+    "ROIC": 0.07262636220070263,
+    "Savings": 3.0706249999999997
+  },
+  {
+    "Date": "1991-06-04",
+    "NetCapitalInvested": 15.38996875,
+    "NetValuation": 16.765946558980417,
+    "ROIC": 0.08940744658629782,
+    "Savings": 2.6100312499999996
+  },
+  {
+    "Date": "1991-07-30",
+    "NetCapitalInvested": 16.7814734375,
+    "NetValuation": 18.112049059739487,
+    "ROIC": 0.0792883668525895,
+    "Savings": 2.2185265624999997
+  },
+  {
+    "Date": "1991-08-01",
+    "NetCapitalInvested": 20.0,
+    "NetValuation": 21.350716254517764,
+    "ROIC": 0.06753581272588818,
+    "Savings": 0.0
+  },
+  {
+    "Date": "1991-09-18",
+    "NetCapitalInvested": 21.0,
+    "NetValuation": 22.34078876710866,
+    "ROIC": 0.06384708414803139,
+    "Savings": 0.0
+  },
+  {
+    "Date": "1991-10-30",
+    "NetCapitalInvested": 22.0,
+    "NetValuation": 23.688366035878992,
+    "ROIC": 0.07674391072177239,
+    "Savings": 0.0
+  },
+  {
+    "Date": "1991-11-18",
+    "NetCapitalInvested": 23.0,
+    "NetValuation": 24.222989952315817,
+    "ROIC": 0.05317347618764424,
+    "Savings": 0.0
+  },
+  {
+    "Date": "1991-12-24",
+    "NetCapitalInvested": 24.0,
+    "NetValuation": 26.108936189539705,
+    "ROIC": 0.08787234123082104,
+    "Savings": 0.0
+  },
+  {
+    "Date": "1992-01-15",
+    "NetCapitalInvested": 25.0,
+    "NetValuation": 28.510723162478705,
+    "ROIC": 0.14042892649914818,
+    "Savings": 0.0
+  },
+  {
+    "Date": "1992-02-25",
+    "NetCapitalInvested": 26.0,
+    "NetValuation": 28.811455954653102,
+    "ROIC": 0.10813292133281162,
+    "Savings": 0.0
+  },
+  {
+    "Date": "1992-03-20",
+    "NetCapitalInvested": 27.0,
+    "NetValuation": 29.8711215352633,
+    "ROIC": 0.10633783463938144,
+    "Savings": 0.0
+  },
+  {
+    "Date": "1992-04-22",
+    "NetCapitalInvested": 28.0,
+    "NetValuation": 30.76290862233468,
+    "ROIC": 0.09867530794052433,
+    "Savings": 0.0
+  },
+  {
+    "Date": "1992-05-28",
+    "NetCapitalInvested": 29.0,
+    "NetValuation": 32.283117882120386,
+    "ROIC": 0.11321096145242712,
+    "Savings": 0.0
+  },
+  {
+    "Date": "1992-06-16",
+    "NetCapitalInvested": 30.0,
+    "NetValuation": 32.63085543414933,
+    "ROIC": 0.08769518113831107,
+    "Savings": 0.0
+  },
+  {
+    "Date": "1992-07-29",
+    "NetCapitalInvested": 31.0,
+    "NetValuation": 34.74247181122863,
+    "ROIC": 0.12072489713640751,
+    "Savings": 0.0
+  },
+  {
+    "Date": "1992-08-05",
+    "NetCapitalInvested": 32.0,
+    "NetValuation": 35.7391804797921,
+    "ROIC": 0.11684938999350303,
+    "Savings": 0.0
+  },
+  {
+    "Date": "1992-09-08",
+    "NetCapitalInvested": 33.0,
+    "NetValuation": 36.08312834990179,
+    "ROIC": 0.0934281318152058,
+    "Savings": 0.0
+  },
+  {
+    "Date": "1992-10-27",
+    "NetCapitalInvested": 34.0,
+    "NetValuation": 37.43574071795773,
+    "ROIC": 0.10105119758699199,
+    "Savings": 0.0
+  },
+  {
+    "Date": "1992-11-10",
+    "NetCapitalInvested": 35.0,
+    "NetValuation": 38.44736978028498,
+    "ROIC": 0.09849627943671371,
+    "Savings": 0.0
+  },
+  {
+    "Date": "1992-12-30",
+    "NetCapitalInvested": 36.0,
+    "NetValuation": 41.30260094353985,
+    "ROIC": 0.14729447065388473,
+    "Savings": 0.0
+  },
+  {
+    "Date": "1993-01-14",
+    "NetCapitalInvested": 37.0,
+    "NetValuation": 42.03152968261876,
+    "ROIC": 0.13598728871942595,
+    "Savings": 0.0
+  },
+  {
+    "Date": "1993-02-09",
+    "NetCapitalInvested": 38.0,
+    "NetValuation": 43.93687460100154,
+    "ROIC": 0.15623354213161952,
+    "Savings": 0.0
+  },
+  {
+    "Date": "1993-03-24",
+    "NetCapitalInvested": 39.0,
+    "NetValuation": 45.20720679601815,
+    "ROIC": 0.15915914861584995,
+    "Savings": 0.0
+  },
+  {
+    "Date": "1993-04-06",
+    "NetCapitalInvested": 40.0,
+    "NetValuation": 45.510034927871466,
+    "ROIC": 0.13775087319678664,
+    "Savings": 0.0
+  },
+  {
+    "Date": "1993-05-20",
+    "NetCapitalInvested": 41.0,
+    "NetValuation": 47.48283307224046,
+    "ROIC": 0.15811787981074293,
+    "Savings": 0.0
+  },
+  {
+    "Date": "1993-06-24",
+    "NetCapitalInvested": 42.0,
+    "NetValuation": 48.064477477804736,
+    "ROIC": 0.14439232090011278,
+    "Savings": 0.0
+  },
+  {
+    "Date": "1993-07-14",
+    "NetCapitalInvested": 43.0,
+    "NetValuation": 49.436836736398625,
+    "ROIC": 0.1496938775906657,
+    "Savings": 0.0
+  },
+  {
+    "Date": "1993-08-30",
+    "NetCapitalInvested": 44.0,
+    "NetValuation": 51.73514683732342,
+    "ROIC": 0.17579879175735044,
+    "Savings": 0.0
+  },
+  {
+    "Date": "1993-09-02",
+    "NetCapitalInvested": 45.0,
+    "NetValuation": 52.6679437888229,
+    "ROIC": 0.17039875086273118,
+    "Savings": 0.0
+  },
+  {
+    "Date": "1993-10-28",
+    "NetCapitalInvested": 46.0,
+    "NetValuation": 54.402075327002244,
+    "ROIC": 0.18265381145657053,
+    "Savings": 0.0
+  },
+  {
+    "Date": "1993-11-19",
+    "NetCapitalInvested": 47.0,
+    "NetValuation": 54.805400650527524,
+    "ROIC": 0.16607235426654307,
+    "Savings": 0.0
+  },
+  {
+    "Date": "1993-12-09",
+    "NetCapitalInvested": 48.0,
+    "NetValuation": 55.99258727618216,
+    "ROIC": 0.1665122349204616,
+    "Savings": 0.0
+  },
+  {
+    "Date": "1994-01-18",
+    "NetCapitalInvested": 49.0,
+    "NetValuation": 58.207300003725685,
+    "ROIC": 0.18790408170868744,
+    "Savings": 0.0
+  },
+  {
+    "Date": "1994-02-10",
+    "NetCapitalInvested": 50.0,
+    "NetValuation": 58.55434726567651,
+    "ROIC": 0.17108694531353025,
+    "Savings": 0.0
+  },
+  {
+    "Date": "1994-03-21",
+    "NetCapitalInvested": 51.0,
+    "NetValuation": 59.50564874898188,
+    "ROIC": 0.16677742645062515,
+    "Savings": 0.0
+  },
+  {
+    "Date": "1994-04-06",
+    "NetCapitalInvested": 52.0,
+    "NetValuation": 57.903372010887715,
+    "ROIC": 0.11352638482476375,
+    "Savings": 0.0
+  },
+  {
+    "Date": "1994-05-19",
+    "NetCapitalInvested": 52.0,
+    "NetValuation": 58.99540078779208,
+    "ROIC": 0.13452693822677075,
+    "Savings": 1.0
+  },
+  {
+    "Date": "1994-06-23",
+    "NetCapitalInvested": 52.0,
+    "NetValuation": 57.414866830213334,
+    "ROIC": 0.10413205442717952,
+    "Savings": 2.0
+  },
+  {
+    "Date": "1994-07-07",
+    "NetCapitalInvested": 52.0,
+    "NetValuation": 59.222852935407666,
+    "ROIC": 0.13890101798860896,
+    "Savings": 3.0
+  },
+  {
+    "Date": "1994-08-24",
+    "NetCapitalInvested": 52.0,
+    "NetValuation": 61.44955776689432,
+    "ROIC": 0.18172226474796774,
+    "Savings": 4.0
+  },
+  {
+    "Date": "1994-09-13",
+    "NetCapitalInvested": 52.0,
+    "NetValuation": 59.7979450131857,
+    "ROIC": 0.149960481022802,
+    "Savings": 5.0
+  },
+  {
+    "Date": "1994-10-06",
+    "NetCapitalInvested": 53.75,
+    "NetValuation": 60.21037130419633,
+    "ROIC": 0.12019295449667589,
+    "Savings": 4.25
+  },
+  {
+    "Date": "1994-11-02",
+    "NetCapitalInvested": 55.3875,
+    "NetValuation": 63.731275570608865,
+    "ROIC": 0.15064365733439605,
+    "Savings": 3.6125
+  },
+  {
+    "Date": "1994-12-08",
+    "NetCapitalInvested": 56.929375,
+    "NetValuation": 62.39608327619498,
+    "ROIC": 0.09602614250015881,
+    "Savings": 3.0706249999999997
+  },
+  {
+    "Date": "1995-01-16",
+    "NetCapitalInvested": 58.38996875,
+    "NetValuation": 67.20865429143092,
+    "ROIC": 0.15103083166885437,
+    "Savings": 2.6100312499999996
+  },
+  {
+    "Date": "1995-02-06",
+    "NetCapitalInvested": 59.781473437500004,
+    "NetValuation": 70.28402657973885,
+    "ROIC": 0.17568240691188375,
+    "Savings": 2.2185265624999997
+  },
+  {
+    "Date": "1995-03-30",
+    "NetCapitalInvested": 63.0,
+    "NetValuation": 76.5818799084626,
+    "ROIC": 0.21558539537242216,
+    "Savings": 0.0
+  },
+  {
+    "Date": "1995-04-27",
+    "NetCapitalInvested": 64.0,
+    "NetValuation": 79.30955443230249,
+    "ROIC": 0.23921178800472642,
+    "Savings": 0.0
+  },
+  {
+    "Date": "1995-05-16",
+    "NetCapitalInvested": 65.0,
+    "NetValuation": 82.57046744347748,
+    "ROIC": 0.2703148837458074,
+    "Savings": 0.0
+  },
+  {
+    "Date": "1995-06-02",
+    "NetCapitalInvested": 66.0,
+    "NetValuation": 84.24580097753875,
+    "ROIC": 0.27645152996270833,
+    "Savings": 0.0
+  },
+  {
+    "Date": "1995-07-17",
+    "NetCapitalInvested": 67.0,
+    "NetValuation": 90.02517722874802,
+    "ROIC": 0.3436593616231048,
+    "Savings": 0.0
+  },
+  {
+    "Date": "1995-08-04",
+    "NetCapitalInvested": 68.0,
+    "NetValuation": 90.42044455543862,
+    "ROIC": 0.3297124199329209,
+    "Savings": 0.0
+  },
+  {
+    "Date": "1995-09-21",
+    "NetCapitalInvested": 69.0,
+    "NetValuation": 95.31266178090799,
+    "ROIC": 0.3813429243609853,
+    "Savings": 0.0
+  },
+  {
+    "Date": "1995-10-23",
+    "NetCapitalInvested": 70.0,
+    "NetValuation": 96.64944408497088,
+    "ROIC": 0.38070634407101256,
+    "Savings": 0.0
+  },
+  {
+    "Date": "1995-11-21",
+    "NetCapitalInvested": 71.0,
+    "NetValuation": 100.15711605230733,
+    "ROIC": 0.4106636063705258,
+    "Savings": 0.0
+  },
+  {
+    "Date": "1995-12-12",
+    "NetCapitalInvested": 72.0,
+    "NetValuation": 104.250733491348,
+    "ROIC": 0.4479268540465,
+    "Savings": 0.0
+  },
+  {
+    "Date": "1996-01-19",
+    "NetCapitalInvested": 73.0,
+    "NetValuation": 104.07981232750163,
+    "ROIC": 0.42575085380139216,
+    "Savings": 0.0
+  },
+  {
+    "Date": "1996-02-12",
+    "NetCapitalInvested": 74.0,
+    "NetValuation": 113.52078496318576,
+    "ROIC": 0.5340646616646725,
+    "Savings": 0.0
+  },
+  {
+    "Date": "1996-03-29",
+    "NetCapitalInvested": 75.0,
+    "NetValuation": 111.78337998901868,
+    "ROIC": 0.4904450665202491,
+    "Savings": 0.0
+  },
+  {
+    "Date": "1996-04-23",
+    "NetCapitalInvested": 76.0,
+    "NetValuation": 113.83627379278822,
+    "ROIC": 0.497845707799845,
+    "Savings": 0.0
+  },
+  {
+    "Date": "1996-05-17",
+    "NetCapitalInvested": 77.0,
+    "NetValuation": 117.86396436774297,
+    "ROIC": 0.5307008359447138,
+    "Savings": 0.0
+  },
+  {
+    "Date": "1996-06-26",
+    "NetCapitalInvested": 78.0,
+    "NetValuation": 118.06752670207464,
+    "ROIC": 0.5136862397701878,
+    "Savings": 0.0
+  },
+  {
+    "Date": "1996-07-22",
+    "NetCapitalInvested": 79.0,
+    "NetValuation": 113.62610273781038,
+    "ROIC": 0.43830509794696687,
+    "Savings": 0.0
+  },
+  {
+    "Date": "1996-08-29",
+    "NetCapitalInvested": 80.0,
+    "NetValuation": 118.86263145910432,
+    "ROIC": 0.485782893238804,
+    "Savings": 0.0
+  },
+  {
+    "Date": "1996-09-19",
+    "NetCapitalInvested": 81.0,
+    "NetValuation": 124.49129492937064,
+    "ROIC": 0.5369295670292672,
+    "Savings": 0.0
+  },
+  {
+    "Date": "1996-10-11",
+    "NetCapitalInvested": 82.0,
+    "NetValuation": 128.7102060105605,
+    "ROIC": 0.569636658665372,
+    "Savings": 0.0
+  },
+  {
+    "Date": "1996-11-21",
+    "NetCapitalInvested": 83.0,
+    "NetValuation": 137.44207677667316,
+    "ROIC": 0.6559286358635321,
+    "Savings": 0.0
+  },
+  {
+    "Date": "1996-12-18",
+    "NetCapitalInvested": 84.0,
+    "NetValuation": 136.36772379024904,
+    "ROIC": 0.6234252832172505,
+    "Savings": 0.0
+  },
+  {
+    "Date": "1997-01-02",
+    "NetCapitalInvested": 85.0,
+    "NetValuation": 138.3873966025801,
+    "ROIC": 0.6280870188538836,
+    "Savings": 0.0
+  },
+  {
+    "Date": "1997-02-11",
+    "NetCapitalInvested": 86.0,
+    "NetValuation": 149.26027392224154,
+    "ROIC": 0.7355845804911807,
+    "Savings": 0.0
+  },
+  {
+    "Date": "1997-03-13",
+    "NetCapitalInvested": 87.0,
+    "NetValuation": 150.2546028673679,
+    "ROIC": 0.7270644007743438,
+    "Savings": 0.0
+  },
+  {
+    "Date": "1997-04-01",
+    "NetCapitalInvested": 88.0,
+    "NetValuation": 145.56077628320503,
+    "ROIC": 0.6540997304909663,
+    "Savings": 0.0
+  },
+  {
+    "Date": "1997-05-16",
+    "NetCapitalInvested": 89.0,
+    "NetValuation": 159.9951215325541,
+    "ROIC": 0.7976979947477988,
+    "Savings": 0.0
+  },
+  {
+    "Date": "1997-06-11",
+    "NetCapitalInvested": 90.0,
+    "NetValuation": 168.67334477982894,
+    "ROIC": 0.8741482753314327,
+    "Savings": 0.0
+  },
+  {
+    "Date": "1997-07-16",
+    "NetCapitalInvested": 91.0,
+    "NetValuation": 182.67343398155407,
+    "ROIC": 1.0074003734236712,
+    "Savings": 0.0
+  },
+  {
+    "Date": "1997-08-27",
+    "NetCapitalInvested": 92.0,
+    "NetValuation": 179.208945887684,
+    "ROIC": 0.9479233248661304,
+    "Savings": 0.0
+  },
+  {
+    "Date": "1997-09-24",
+    "NetCapitalInvested": 93.0,
+    "NetValuation": 186.24599454087752,
+    "ROIC": 1.0026451025900809,
+    "Savings": 0.0
+  },
+  {
+    "Date": "1997-10-10",
+    "NetCapitalInvested": 94.0,
+    "NetValuation": 191.6828644345436,
+    "ROIC": 1.0391794088781234,
+    "Savings": 0.0
+  },
+  {
+    "Date": "1997-11-05",
+    "NetCapitalInvested": 95.0,
+    "NetValuation": 187.8817734330703,
+    "ROIC": 0.9777028782428452,
+    "Savings": 0.0
+  },
+  {
+    "Date": "1997-12-03",
+    "NetCapitalInvested": 96.0,
+    "NetValuation": 195.65959505729992,
+    "ROIC": 1.0381207818468743,
+    "Savings": 0.0
+  },
+  {
+    "Date": "1998-01-02",
+    "NetCapitalInvested": 97.0,
+    "NetValuation": 196.31305380454938,
+    "ROIC": 1.0238459155108184,
+    "Savings": 0.0
+  },
+  {
+    "Date": "1998-02-06",
+    "NetCapitalInvested": 98.0,
+    "NetValuation": 204.84713904553053,
+    "ROIC": 1.0902769290360257,
+    "Savings": 0.0
+  },
+  {
+    "Date": "1998-03-13",
+    "NetCapitalInvested": 99.0,
+    "NetValuation": 217.20775265733397,
+    "ROIC": 1.194017703609434,
+    "Savings": 0.0
+  },
+  {
+    "Date": "1998-04-09",
+    "NetCapitalInvested": 100.0,
+    "NetValuation": 226.75695028487584,
+    "ROIC": 1.2675695028487584,
+    "Savings": 0.0
+  },
+  {
+    "Date": "1998-05-13",
+    "NetCapitalInvested": 101.0,
+    "NetValuation": 229.4290395848777,
+    "ROIC": 1.2715746493552247,
+    "Savings": 0.0
+  },
+  {
+    "Date": "1998-06-09",
+    "NetCapitalInvested": 102.0,
+    "NetValuation": 230.33676435132466,
+    "ROIC": 1.2582035720718103,
+    "Savings": 0.0
+  },
+  {
+    "Date": "1998-07-14",
+    "NetCapitalInvested": 103.0,
+    "NetValuation": 243.52283774718828,
+    "ROIC": 1.3642993956037697,
+    "Savings": 0.0
+  },
+  {
+    "Date": "1998-08-12",
+    "NetCapitalInvested": 104.0,
+    "NetValuation": 225.21604573978541,
+    "ROIC": 1.1655389013440904,
+    "Savings": 0.0
+  },
+  {
+    "Date": "1998-09-17",
+    "NetCapitalInvested": 105.0,
+    "NetValuation": 212.641431188223,
+    "ROIC": 1.0251564875068857,
+    "Savings": 0.0
+  },
+  {
+    "Date": "1998-10-02",
+    "NetCapitalInvested": 105.0,
+    "NetValuation": 229.2959466895335,
+    "ROIC": 1.1837709208527,
+    "Savings": 1.0
+  },
+  {
+    "Date": "1998-11-02",
+    "NetCapitalInvested": 105.0,
+    "NetValuation": 242.85330667656518,
+    "ROIC": 1.3128886350149065,
+    "Savings": 2.0
+  },
+  {
+    "Date": "1998-12-22",
+    "NetCapitalInvested": 106.3,
+    "NetValuation": 252.48891255529122,
+    "ROIC": 1.375248471827763,
+    "Savings": 1.7
+  },
+  {
+    "Date": "1999-01-08",
+    "NetCapitalInvested": 107.55499999999999,
+    "NetValuation": 268.74761572665176,
+    "ROIC": 1.4986994163604832,
+    "Savings": 1.4449999999999998
+  },
+  {
+    "Date": "1999-02-03",
+    "NetCapitalInvested": 108.77175,
+    "NetValuation": 269.32784767734194,
+    "ROIC": 1.47608269313808,
+    "Savings": 1.2282499999999998
+  },
+  {
+    "Date": "1999-03-16",
+    "NetCapitalInvested": 109.95598749999999,
+    "NetValuation": 277.7763382874771,
+    "ROIC": 1.5262502261414104,
+    "Savings": 1.0440124999999998
+  },
+  {
+    "Date": "1999-04-13",
+    "NetCapitalInvested": 111.112589375,
+    "NetValuation": 288.16961259715,
+    "ROIC": 1.5934920085841082,
+    "Savings": 0.8874106249999998
+  },
+  {
+    "Date": "1999-05-05",
+    "NetCapitalInvested": 113.0,
+    "NetValuation": 289.52116975456255,
+    "ROIC": 1.5621342456155978,
+    "Savings": 0.0
+  },
+  {
+    "Date": "1999-06-01",
+    "NetCapitalInvested": 114.0,
+    "NetValuation": 279.12134487722955,
+    "ROIC": 1.4484328498002592,
+    "Savings": 0.0
+  },
+  {
+    "Date": "1999-07-06",
+    "NetCapitalInvested": 115.0,
+    "NetValuation": 300.36328191474655,
+    "ROIC": 1.6118546253456223,
+    "Savings": 0.0
+  },
+  {
+    "Date": "1999-08-06",
+    "NetCapitalInvested": 116.0,
+    "NetValuation": 282.3585077953821,
+    "ROIC": 1.4341250672015697,
+    "Savings": 0.0
+  },
+  {
+    "Date": "1999-09-22",
+    "NetCapitalInvested": 117.0,
+    "NetValuation": 285.577784994829,
+    "ROIC": 1.4408357691865727,
+    "Savings": 0.0
+  },
+  {
+    "Date": "1999-10-20",
+    "NetCapitalInvested": 118.0,
+    "NetValuation": 281.98416899213464,
+    "ROIC": 1.3896963473909716,
+    "Savings": 0.0
+  },
+  {
+    "Date": "1999-11-03",
+    "NetCapitalInvested": 119.0,
+    "NetValuation": 297.30829908759137,
+    "ROIC": 1.4983890679629526,
+    "Savings": 0.0
+  },
+  {
+    "Date": "1999-12-01",
+    "NetCapitalInvested": 120.0,
+    "NetValuation": 307.6975827538753,
+    "ROIC": 1.5641465229489606,
+    "Savings": 0.0
+  },
+  {
+    "Date": "2000-01-07",
+    "NetCapitalInvested": 121.0,
+    "NetValuation": 318.32881736844905,
+    "ROIC": 1.6308166724665212,
+    "Savings": 0.0
+  },
+  {
+    "Date": "2000-02-18",
+    "NetCapitalInvested": 122.0,
+    "NetValuation": 298.2654566321155,
+    "ROIC": 1.4447988248534058,
+    "Savings": 0.0
+  },
+  {
+    "Date": "2000-03-09",
+    "NetCapitalInvested": 123.0,
+    "NetValuation": 311.58525648854834,
+    "ROIC": 1.5332134673865718,
+    "Savings": 0.0
+  },
+  {
+    "Date": "2000-04-13",
+    "NetCapitalInvested": 124.0,
+    "NetValuation": 321.2146536140792,
+    "ROIC": 1.590440754952252,
+    "Savings": 0.0
+  },
+  {
+    "Date": "2000-05-19",
+    "NetCapitalInvested": 125.0,
+    "NetValuation": 314.73121804244937,
+    "ROIC": 1.5178497443395949,
+    "Savings": 0.0
+  },
+  {
+    "Date": "2000-06-21",
+    "NetCapitalInvested": 126.0,
+    "NetValuation": 331.87770463991484,
+    "ROIC": 1.6339500368247208,
+    "Savings": 0.0
+  },
+  {
+    "Date": "2000-07-17",
+    "NetCapitalInvested": 127.0,
+    "NetValuation": 339.9140603473291,
+    "ROIC": 1.6764886641521977,
+    "Savings": 0.0
+  },
+  {
+    "Date": "2000-08-17",
+    "NetCapitalInvested": 128.0,
+    "NetValuation": 337.6690466430288,
+    "ROIC": 1.6380394268986627,
+    "Savings": 0.0
+  },
+  {
+    "Date": "2000-09-28",
+    "NetCapitalInvested": 129.0,
+    "NetValuation": 330.14194792293307,
+    "ROIC": 1.559239906379326,
+    "Savings": 0.0
+  },
+  {
+    "Date": "2000-10-10",
+    "NetCapitalInvested": 130.0,
+    "NetValuation": 315.0071485150873,
+    "ROIC": 1.4231319116545176,
+    "Savings": 0.0
+  },
+  {
+    "Date": "2000-11-24",
+    "NetCapitalInvested": 130.0,
+    "NetValuation": 298.63927696782605,
+    "ROIC": 1.2972252074448158,
+    "Savings": 1.0
+  },
+  {
+    "Date": "2000-12-29",
+    "NetCapitalInvested": 130.0,
+    "NetValuation": 299.8497772501474,
+    "ROIC": 1.3065367480780568,
+    "Savings": 2.0
+  },
+  {
+    "Date": "2001-01-05",
+    "NetCapitalInvested": 130.0,
+    "NetValuation": 310.2355517174189,
+    "ROIC": 1.3864273209032223,
+    "Savings": 3.0
+  },
+  {
+    "Date": "2001-02-07",
+    "NetCapitalInvested": 130.0,
+    "NetValuation": 281.6036998239372,
+    "ROIC": 1.1661823063379784,
+    "Savings": 4.0
+  },
+  {
+    "Date": "2001-03-09",
+    "NetCapitalInvested": 130.0,
+    "NetValuation": 263.52341324314807,
+    "ROIC": 1.0271031787934466,
+    "Savings": 5.0
+  },
+  {
+    "Date": "2001-04-19",
+    "NetCapitalInvested": 130.0,
+    "NetValuation": 283.7657941368264,
+    "ROIC": 1.1828138010525109,
+    "Savings": 6.0
+  },
+  {
+    "Date": "2001-05-21",
+    "NetCapitalInvested": 130.0,
+    "NetValuation": 285.2102184887146,
+    "ROIC": 1.1939247576054968,
+    "Savings": 7.0
+  },
+  {
+    "Date": "2001-06-15",
+    "NetCapitalInvested": 130.0,
+    "NetValuation": 278.06985659824846,
+    "ROIC": 1.1389988969096037,
+    "Savings": 8.0
+  },
+  {
+    "Date": "2001-07-06",
+    "NetCapitalInvested": 130.0,
+    "NetValuation": 275.08335027319663,
+    "ROIC": 1.1160257713322819,
+    "Savings": 9.0
+  },
+  {
+    "Date": "2001-08-17",
+    "NetCapitalInvested": 130.0,
+    "NetValuation": 257.4482007568259,
+    "ROIC": 0.9803707750525068,
+    "Savings": 10.0
+  },
+  {
+    "Date": "2001-09-18",
+    "NetCapitalInvested": 130.0,
+    "NetValuation": 236.40866114064323,
+    "ROIC": 0.8185281626203326,
+    "Savings": 11.0
+  },
+  {
+    "Date": "2001-10-25",
+    "NetCapitalInvested": 130.0,
+    "NetValuation": 240.68742761699124,
+    "ROIC": 0.8514417508999327,
+    "Savings": 12.0
+  },
+  {
+    "Date": "2001-11-02",
+    "NetCapitalInvested": 130.0,
+    "NetValuation": 258.7813408426095,
+    "ROIC": 0.9906256987893038,
+    "Savings": 13.0
+  },
+  {
+    "Date": "2001-12-14",
+    "NetCapitalInvested": 130.0,
+    "NetValuation": 260.7413065905332,
+    "ROIC": 1.005702358388717,
+    "Savings": 14.0
+  },
+  {
+    "Date": "2002-01-18",
+    "NetCapitalInvested": 130.0,
+    "NetValuation": 256.6805664314514,
+    "ROIC": 0.9744658956265491,
+    "Savings": 15.0
+  },
+  {
+    "Date": "2002-02-08",
+    "NetCapitalInvested": 130.0,
+    "NetValuation": 251.3502771957885,
+    "ROIC": 0.9334636707368346,
+    "Savings": 16.0
+  },
+  {
+    "Date": "2002-03-18",
+    "NetCapitalInvested": 130.0,
+    "NetValuation": 260.58460017499823,
+    "ROIC": 1.0044969244230633,
+    "Savings": 17.0
+  },
+  {
+    "Date": "2002-04-16",
+    "NetCapitalInvested": 130.0,
+    "NetValuation": 244.5801058231805,
+    "ROIC": 0.8813854294090808,
+    "Savings": 18.0
+  },
+  {
+    "Date": "2002-05-29",
+    "NetCapitalInvested": 130.0,
+    "NetValuation": 242.3589627160317,
+    "ROIC": 0.8642997132002438,
+    "Savings": 19.0
+  },
+  {
+    "Date": "2002-06-17",
+    "NetCapitalInvested": 130.0,
+    "NetValuation": 224.7987597462212,
+    "ROIC": 0.7292212288170862,
+    "Savings": 20.0
+  },
+  {
+    "Date": "2002-07-10",
+    "NetCapitalInvested": 130.0,
+    "NetValuation": 207.03869931891674,
+    "ROIC": 0.5926053793762827,
+    "Savings": 21.0
+  },
+  {
+    "Date": "2002-08-01",
+    "NetCapitalInvested": 130.0,
+    "NetValuation": 208.04934214374416,
+    "ROIC": 0.6003795549518781,
+    "Savings": 22.0
+  },
+  {
+    "Date": "2002-09-03",
+    "NetCapitalInvested": 130.0,
+    "NetValuation": 185.1588499382708,
+    "ROIC": 0.4242988456790062,
+    "Savings": 23.0
+  },
+  {
+    "Date": "2002-10-28",
+    "NetCapitalInvested": 130.0,
+    "NetValuation": 201.16561539756003,
+    "ROIC": 0.5474278107504618,
+    "Savings": 24.0
+  },
+  {
+    "Date": "2002-11-19",
+    "NetCapitalInvested": 130.0,
+    "NetValuation": 212.6460636661053,
+    "ROIC": 0.6357389512777332,
+    "Savings": 25.0
+  },
+  {
+    "Date": "2002-12-12",
+    "NetCapitalInvested": 130.0,
+    "NetValuation": 199.8165775594758,
+    "ROIC": 0.5370505966113523,
+    "Savings": 26.0
+  },
+  {
+    "Date": "2003-01-06",
+    "NetCapitalInvested": 130.0,
+    "NetValuation": 194.338666338164,
+    "ROIC": 0.49491281798587683,
+    "Savings": 27.0
+  },
+  {
+    "Date": "2003-02-11",
+    "NetCapitalInvested": 130.0,
+    "NetValuation": 191.03420496709901,
+    "ROIC": 0.4694938843623001,
+    "Savings": 28.0
+  },
+  {
+    "Date": "2003-03-10",
+    "NetCapitalInvested": 130.0,
+    "NetValuation": 192.63079351957919,
+    "ROIC": 0.4817753347659937,
+    "Savings": 29.0
+  },
+  {
+    "Date": "2003-04-10",
+    "NetCapitalInvested": 130.0,
+    "NetValuation": 208.24238627882355,
+    "ROIC": 0.6018645098371042,
+    "Savings": 30.0
+  },
+  {
+    "Date": "2003-05-13",
+    "NetCapitalInvested": 130.0,
+    "NetValuation": 218.84164484841818,
+    "ROIC": 0.6833972680647553,
+    "Savings": 31.0
+  },
+  {
+    "Date": "2003-06-06",
+    "NetCapitalInvested": 135.65,
+    "NetValuation": 229.9809116070876,
+    "ROIC": 0.6953992746560087,
+    "Savings": 26.35
+  },
+  {
+    "Date": "2003-07-01",
+    "NetCapitalInvested": 140.60250000000002,
+    "NetValuation": 233.66681227208463,
+    "ROIC": 0.6618965684968944,
+    "Savings": 22.3975
+  },
+  {
+    "Date": "2003-08-27",
+    "NetCapitalInvested": 144.96212500000001,
+    "NetValuation": 241.46845084564217,
+    "ROIC": 0.6657347624121965,
+    "Savings": 19.037875
+  },
+  {
+    "Date": "2003-09-15",
+    "NetCapitalInvested": 148.81780625000002,
+    "NetValuation": 249.689406109465,
+    "ROIC": 0.6778194249820491,
+    "Savings": 16.18219375
+  },
+  {
+    "Date": "2003-10-16",
+    "NetCapitalInvested": 152.24513531250003,
+    "NetValuation": 261.79229853793476,
+    "ROIC": 0.7195445884072226,
+    "Savings": 13.7548646875
+  },
+  {
+    "Date": "2003-11-21",
+    "NetCapitalInvested": 167.0,
+    "NetValuation": 272.8598775250756,
+    "ROIC": 0.6338914821860815,
+    "Savings": 0.0
+  },
+  {
+    "Date": "2003-12-31",
+    "NetCapitalInvested": 168.0,
+    "NetValuation": 294.0592255406094,
+    "ROIC": 0.750352532979818,
+    "Savings": 0.0
+  },
+  {
+    "Date": "2004-01-14",
+    "NetCapitalInvested": 169.0,
+    "NetValuation": 299.97819596568974,
+    "ROIC": 0.7750189110395842,
+    "Savings": 0.0
+  },
+  {
+    "Date": "2004-02-25",
+    "NetCapitalInvested": 170.0,
+    "NetValuation": 304.4674869795142,
+    "ROIC": 0.7909852175265542,
+    "Savings": 0.0
+  },
+  {
+    "Date": "2004-03-23",
+    "NetCapitalInvested": 171.0,
+    "NetValuation": 292.2310433789813,
+    "ROIC": 0.7089534700525224,
+    "Savings": 0.0
+  },
+  {
+    "Date": "2004-04-29",
+    "NetCapitalInvested": 172.0,
+    "NetValuation": 298.55769176782627,
+    "ROIC": 0.7358005335338736,
+    "Savings": 0.0
+  },
+  {
+    "Date": "2004-05-18",
+    "NetCapitalInvested": 173.0,
+    "NetValuation": 293.5537844739289,
+    "ROIC": 0.6968426848203981,
+    "Savings": 0.0
+  },
+  {
+    "Date": "2004-06-09",
+    "NetCapitalInvested": 174.0,
+    "NetValuation": 305.26866301009625,
+    "ROIC": 0.7544176035063003,
+    "Savings": 0.0
+  },
+  {
+    "Date": "2004-07-02",
+    "NetCapitalInvested": 175.0,
+    "NetValuation": 304.663164574706,
+    "ROIC": 0.74093236899832,
+    "Savings": 0.0
+  },
+  {
+    "Date": "2004-08-04",
+    "NetCapitalInvested": 176.0,
+    "NetValuation": 298.42139765831035,
+    "ROIC": 0.6955761230585815,
+    "Savings": 0.0
+  },
+  {
+    "Date": "2004-09-24",
+    "NetCapitalInvested": 176.0,
+    "NetValuation": 302.75390386390274,
+    "ROIC": 0.7201926355903564,
+    "Savings": 1.0
+  },
+  {
+    "Date": "2004-10-07",
+    "NetCapitalInvested": 176.0,
+    "NetValuation": 306.9967720100692,
+    "ROIC": 0.7442998409663023,
+    "Savings": 2.0
+  },
+  {
+    "Date": "2004-11-23",
+    "NetCapitalInvested": 177.3,
+    "NetValuation": 320.99278079059536,
+    "ROIC": 0.810449976258293,
+    "Savings": 1.7
+  },
+  {
+    "Date": "2004-12-23",
+    "NetCapitalInvested": 178.555,
+    "NetValuation": 331.2998568475225,
+    "ROIC": 0.8554498997369018,
+    "Savings": 1.4449999999999998
+  },
+  {
+    "Date": "2005-01-26",
+    "NetCapitalInvested": 179.77175,
+    "NetValuation": 322.6443841624212,
+    "ROIC": 0.7947446368098503,
+    "Savings": 1.2282499999999998
+  },
+  {
+    "Date": "2005-02-02",
+    "NetCapitalInvested": 180.9559875,
+    "NetValuation": 329.0829596705345,
+    "ROIC": 0.8185801100974042,
+    "Savings": 1.0440124999999998
+  },
+  {
+    "Date": "2005-03-02",
+    "NetCapitalInvested": 182.112589375,
+    "NetValuation": 334.8978399327446,
+    "ROIC": 0.8389603985210186,
+    "Savings": 0.8874106249999998
+  },
+  {
+    "Date": "2005-04-07",
+    "NetCapitalInvested": 184.0,
+    "NetValuation": 331.54347721356396,
+    "ROIC": 0.8018667239867606,
+    "Savings": 0.0
+  },
+  {
+    "Date": "2005-05-02",
+    "NetCapitalInvested": 185.0,
+    "NetValuation": 324.4771458254408,
+    "ROIC": 0.7539305179753557,
+    "Savings": 0.0
+  },
+  {
+    "Date": "2005-06-01",
+    "NetCapitalInvested": 186.0,
+    "NetValuation": 336.66196931081896,
+    "ROIC": 0.8100105876925751,
+    "Savings": 0.0
+  },
+  {
+    "Date": "2005-07-28",
+    "NetCapitalInvested": 187.0,
+    "NetValuation": 349.2833628381259,
+    "ROIC": 0.8678254697225986,
+    "Savings": 0.0
+  },
+  {
+    "Date": "2005-08-02",
+    "NetCapitalInvested": 188.0,
+    "NetValuation": 350.39569788551216,
+    "ROIC": 0.8638069036463413,
+    "Savings": 0.0
+  },
+  {
+    "Date": "2005-09-30",
+    "NetCapitalInvested": 189.0,
+    "NetValuation": 347.0837680599108,
+    "ROIC": 0.8364220532270414,
+    "Savings": 0.0
+  },
+  {
+    "Date": "2005-10-18",
+    "NetCapitalInvested": 190.0,
+    "NetValuation": 333.77176333371585,
+    "ROIC": 0.7566934912300834,
+    "Savings": 0.0
+  },
+  {
+    "Date": "2005-11-08",
+    "NetCapitalInvested": 191.0,
+    "NetValuation": 346.231409748275,
+    "ROIC": 0.8127298939700262,
+    "Savings": 0.0
+  },
+  {
+    "Date": "2005-12-06",
+    "NetCapitalInvested": 192.0,
+    "NetValuation": 360.0482709515876,
+    "ROIC": 0.8752514112061854,
+    "Savings": 0.0
+  },
+  {
+    "Date": "2006-01-18",
+    "NetCapitalInvested": 193.0,
+    "NetValuation": 365.1026247504648,
+    "ROIC": 0.8917234443029266,
+    "Savings": 0.0
+  },
+  {
+    "Date": "2006-02-24",
+    "NetCapitalInvested": 194.0,
+    "NetValuation": 369.38815696633765,
+    "ROIC": 0.9040626647749364,
+    "Savings": 0.0
+  },
+  {
+    "Date": "2006-03-08",
+    "NetCapitalInvested": 195.0,
+    "NetValuation": 367.2484020355922,
+    "ROIC": 0.8833251386440627,
+    "Savings": 0.0
+  },
+  {
+    "Date": "2006-04-07",
+    "NetCapitalInvested": 196.0,
+    "NetValuation": 373.1403746956203,
+    "ROIC": 0.9037774219164302,
+    "Savings": 0.0
+  },
+  {
+    "Date": "2006-05-26",
+    "NetCapitalInvested": 197.0,
+    "NetValuation": 369.7220239832847,
+    "ROIC": 0.876761543062359,
+    "Savings": 0.0
+  },
+  {
+    "Date": "2006-06-02",
+    "NetCapitalInvested": 198.0,
+    "NetValuation": 373.04982637775515,
+    "ROIC": 0.8840900322108846,
+    "Savings": 0.0
+  },
+  {
+    "Date": "2006-07-11",
+    "NetCapitalInvested": 199.0,
+    "NetValuation": 369.4772714115966,
+    "ROIC": 0.8566697055859125,
+    "Savings": 0.0
+  },
+  {
+    "Date": "2006-08-30",
+    "NetCapitalInvested": 199.0,
+    "NetValuation": 378.59202943334236,
+    "ROIC": 0.9024725097152883,
+    "Savings": 1.0
+  },
+  {
+    "Date": "2006-09-18",
+    "NetCapitalInvested": 200.15,
+    "NetValuation": 384.78287681332034,
+    "ROIC": 0.9224725296693497,
+    "Savings": 0.85
+  },
+  {
+    "Date": "2006-10-23",
+    "NetCapitalInvested": 201.2775,
+    "NetValuation": 402.17332042528517,
+    "ROIC": 0.9981037146491046,
+    "Savings": 0.7224999999999999
+  },
+  {
+    "Date": "2006-11-22",
+    "NetCapitalInvested": 202.385875,
+    "NetValuation": 411.77189776422216,
+    "ROIC": 1.034588124117961,
+    "Savings": 0.6141249999999999
+  },
+  {
+    "Date": "2006-12-01",
+    "NetCapitalInvested": 203.47799375,
+    "NetValuation": 410.11709391251935,
+    "ROIC": 1.0155353724216645,
+    "Savings": 0.5220062499999999
+  },
+  {
+    "Date": "2007-01-16",
+    "NetCapitalInvested": 204.55629468749999,
+    "NetValuation": 421.5282631868835,
+    "ROIC": 1.0606956331060402,
+    "Savings": 0.4437053124999999
+  },
+  {
+    "Date": "2007-02-08",
+    "NetCapitalInvested": 206.0,
+    "NetValuation": 427.8028078030338,
+    "ROIC": 1.076712659238028,
+    "Savings": 0.0
+  },
+  {
+    "Date": "2007-03-22",
+    "NetCapitalInvested": 207.0,
+    "NetValuation": 424.73541569537184,
+    "ROIC": 1.0518619115718446,
+    "Savings": 0.0
+  },
+  {
+    "Date": "2007-04-04",
+    "NetCapitalInvested": 208.0,
+    "NetValuation": 427.16547136325744,
+    "ROIC": 1.0536801507848916,
+    "Savings": 0.0
+  },
+  {
+    "Date": "2007-05-29",
+    "NetCapitalInvested": 209.0,
+    "NetValuation": 451.5333400941209,
+    "ROIC": 1.1604466033211527,
+    "Savings": 0.0
+  },
+  {
+    "Date": "2007-06-06",
+    "NetCapitalInvested": 210.0,
+    "NetValuation": 452.31621528875854,
+    "ROIC": 1.1538867394702788,
+    "Savings": 0.0
+  },
+  {
+    "Date": "2007-07-27",
+    "NetCapitalInvested": 211.0,
+    "NetValuation": 435.8988007588964,
+    "ROIC": 1.0658710936440587,
+    "Savings": 0.0
+  },
+  {
+    "Date": "2007-08-03",
+    "NetCapitalInvested": 212.0,
+    "NetValuation": 429.1634980057878,
+    "ROIC": 1.0243561226688105,
+    "Savings": 0.0
+  },
+  {
+    "Date": "2007-09-28",
+    "NetCapitalInvested": 213.0,
+    "NetValuation": 458.2211704885605,
+    "ROIC": 1.1512731008852606,
+    "Savings": 0.0
+  },
+  {
+    "Date": "2007-10-26",
+    "NetCapitalInvested": 214.0,
+    "NetValuation": 461.7812664992154,
+    "ROIC": 1.1578563855103523,
+    "Savings": 0.0
+  },
+  {
+    "Date": "2007-11-09",
+    "NetCapitalInvested": 215.0,
+    "NetValuation": 438.24364748443895,
+    "ROIC": 1.0383425464392508,
+    "Savings": 0.0
+  },
+  {
+    "Date": "2007-12-31",
+    "NetCapitalInvested": 215.0,
+    "NetValuation": 442.66316449078266,
+    "ROIC": 1.0588984394920125,
+    "Savings": 1.0
+  },
+  {
+    "Date": "2008-01-14",
+    "NetCapitalInvested": 215.0,
+    "NetValuation": 415.5883471415514,
+    "ROIC": 0.9329690564723322,
+    "Savings": 2.0
+  },
+  {
+    "Date": "2008-02-01",
+    "NetCapitalInvested": 215.0,
+    "NetValuation": 401.14201324359846,
+    "ROIC": 0.8657768057841788,
+    "Savings": 3.0
+  },
+  {
+    "Date": "2008-03-12",
+    "NetCapitalInvested": 215.0,
+    "NetValuation": 398.7513740989664,
+    "ROIC": 0.8546575539486808,
+    "Savings": 4.0
+  },
+  {
+    "Date": "2008-04-09",
+    "NetCapitalInvested": 215.0,
+    "NetValuation": 417.71068000135085,
+    "ROIC": 0.9428403720993063,
+    "Savings": 5.0
+  },
+  {
+    "Date": "2008-05-27",
+    "NetCapitalInvested": 215.0,
+    "NetValuation": 422.1693878133444,
+    "ROIC": 0.9635785479690436,
+    "Savings": 6.0
+  },
+  {
+    "Date": "2008-06-11",
+    "NetCapitalInvested": 215.0,
+    "NetValuation": 385.8787017817169,
+    "ROIC": 0.7947846594498462,
+    "Savings": 7.0
+  },
+  {
+    "Date": "2008-07-01",
+    "NetCapitalInvested": 215.0,
+    "NetValuation": 382.07417895633785,
+    "ROIC": 0.777089204448083,
+    "Savings": 8.0
+  },
+  {
+    "Date": "2008-08-15",
+    "NetCapitalInvested": 215.0,
+    "NetValuation": 386.7318554739374,
+    "ROIC": 0.7987528161578483,
+    "Savings": 9.0
+  },
+  {
+    "Date": "2008-09-25",
+    "NetCapitalInvested": 215.0,
+    "NetValuation": 351.61990828915884,
+    "ROIC": 0.6354414339030644,
+    "Savings": 10.0
+  },
+  {
+    "Date": "2008-10-31",
+    "NetCapitalInvested": 215.0,
+    "NetValuation": 292.0468690242486,
+    "ROIC": 0.3583575303453424,
+    "Savings": 11.0
+  },
+  {
+    "Date": "2008-11-14",
+    "NetCapitalInvested": 215.0,
+    "NetValuation": 270.1874435037859,
+    "ROIC": 0.2566857837385391,
+    "Savings": 12.0
+  },
+  {
+    "Date": "2008-12-03",
+    "NetCapitalInvested": 215.0,
+    "NetValuation": 272.30073233151234,
+    "ROIC": 0.2665150341000574,
+    "Savings": 13.0
+  },
+  {
+    "Date": "2009-01-12",
+    "NetCapitalInvested": 215.0,
+    "NetValuation": 248.97617361522217,
+    "ROIC": 0.15802871448940542,
+    "Savings": 14.0
+  },
+  {
+    "Date": "2009-02-24",
+    "NetCapitalInvested": 215.0,
+    "NetValuation": 221.6059178849393,
+    "ROIC": 0.0307251994648339,
+    "Savings": 15.0
+  },
+  {
+    "Date": "2009-03-23",
+    "NetCapitalInvested": 215.0,
+    "NetValuation": 240.53206233638943,
+    "ROIC": 0.11875377830878804,
+    "Savings": 16.0
+  },
+  {
+    "Date": "2009-04-29",
+    "NetCapitalInvested": 215.0,
+    "NetValuation": 263.1240544547659,
+    "ROIC": 0.22383281141751574,
+    "Savings": 17.0
+  },
+  {
+    "Date": "2009-05-26",
+    "NetCapitalInvested": 215.0,
+    "NetValuation": 277.09105465284944,
+    "ROIC": 0.28879560303650903,
+    "Savings": 18.0
+  },
+  {
+    "Date": "2009-06-02",
+    "NetCapitalInvested": 215.0,
+    "NetValuation": 277.14531884528753,
+    "ROIC": 0.28904799462924435,
+    "Savings": 19.0
+  },
+  {
+    "Date": "2009-07-01",
+    "NetCapitalInvested": 218.85,
+    "NetValuation": 282.204204465713,
+    "ROIC": 0.28948688355363505,
+    "Savings": 16.15
+  },
+  {
+    "Date": "2009-08-24",
+    "NetCapitalInvested": 222.2725,
+    "NetValuation": 316.87507489077717,
+    "ROIC": 0.4256152915487843,
+    "Savings": 13.7275
+  },
+  {
+    "Date": "2009-09-17",
+    "NetCapitalInvested": 225.331625,
+    "NetValuation": 332.26846570358356,
+    "ROIC": 0.4745753761975646,
+    "Savings": 11.668375
+  },
+  {
+    "Date": "2009-10-07",
+    "NetCapitalInvested": 228.08188125,
+    "NetValuation": 332.55202253480405,
+    "ROIC": 0.4580378796959087,
+    "Savings": 9.91811875
+  },
+  {
+    "Date": "2009-11-06",
+    "NetCapitalInvested": 230.5695990625,
+    "NetValuation": 338.72504992587767,
+    "ROIC": 0.46907940727285646,
+    "Savings": 8.4304009375
+  },
+  {
+    "Date": "2009-12-11",
+    "NetCapitalInvested": 240.0,
+    "NetValuation": 359.9108858233977,
+    "ROIC": 0.4996286909308237,
+    "Savings": 0.0
+  },
+  {
+    "Date": "2010-01-14",
+    "NetCapitalInvested": 241.0,
+    "NetValuation": 374.5895878858102,
+    "ROIC": 0.5543136426797104,
+    "Savings": 0.0
+  },
+  {
+    "Date": "2010-02-03",
+    "NetCapitalInvested": 242.0,
+    "NetValuation": 358.8963681759415,
+    "ROIC": 0.48304284370223766,
+    "Savings": 0.0
+  },
+  {
+    "Date": "2010-03-25",
+    "NetCapitalInvested": 243.0,
+    "NetValuation": 382.28487102083363,
+    "ROIC": 0.5731887696330602,
+    "Savings": 0.0
+  },
+  {
+    "Date": "2010-04-23",
+    "NetCapitalInvested": 244.0,
+    "NetValuation": 400.1899734897793,
+    "ROIC": 0.6401228421712265,
+    "Savings": 0.0
+  },
+  {
+    "Date": "2010-05-24",
+    "NetCapitalInvested": 245.0,
+    "NetValuation": 353.9705285861113,
+    "ROIC": 0.4447776676984135,
+    "Savings": 0.0
+  },
+  {
+    "Date": "2010-06-03",
+    "NetCapitalInvested": 246.0,
+    "NetValuation": 364.5908518051703,
+    "ROIC": 0.4820766333543508,
+    "Savings": 0.0
+  },
+  {
+    "Date": "2010-07-29",
+    "NetCapitalInvested": 246.0,
+    "NetValuation": 364.1842190986603,
+    "ROIC": 0.4804236548726029,
+    "Savings": 1.0
+  },
+  {
+    "Date": "2010-08-31",
+    "NetCapitalInvested": 246.0,
+    "NetValuation": 346.90398205046955,
+    "ROIC": 0.410178788823047,
+    "Savings": 2.0
+  },
+  {
+    "Date": "2010-09-01",
+    "NetCapitalInvested": 246.0,
+    "NetValuation": 377.2758086741024,
+    "ROIC": 0.5336414986752129,
+    "Savings": 3.0
+  },
+  {
+    "Date": "2010-10-28",
+    "NetCapitalInvested": 247.45,
+    "NetValuation": 392.8025734246661,
+    "ROIC": 0.5874017919768281,
+    "Savings": 2.55
+  },
+  {
+    "Date": "2010-11-15",
+    "NetCapitalInvested": 248.83249999999998,
+    "NetValuation": 398.8206070126154,
+    "ROIC": 0.6027673515823514,
+    "Savings": 2.1675
+  },
+  {
+    "Date": "2010-12-23",
+    "NetCapitalInvested": 250.157625,
+    "NetValuation": 419.79790669504877,
+    "ROIC": 0.6781335635683652,
+    "Savings": 1.842375
+  },
+  {
+    "Date": "2011-01-12",
+    "NetCapitalInvested": 251.43398125,
+    "NetValuation": 430.8245759668654,
+    "ROIC": 0.7134699686376039,
+    "Savings": 1.56601875
+  },
+  {
+    "Date": "2011-02-04",
+    "NetCapitalInvested": 252.66888406249998,
+    "NetValuation": 440.40487069461517,
+    "ROIC": 0.7430118960974907,
+    "Savings": 1.3311159375
+  },
+  {
+    "Date": "2011-03-08",
+    "NetCapitalInvested": 254.99999999999997,
+    "NetValuation": 446.41479027710363,
+    "ROIC": 0.7506462363807987,
+    "Savings": 0.0
+  },
+  {
+    "Date": "2011-04-12",
+    "NetCapitalInvested": 255.99999999999997,
+    "NetValuation": 444.8277986341246,
+    "ROIC": 0.7376085884145493,
+    "Savings": 0.0
+  },
+  {
+    "Date": "2011-05-27",
+    "NetCapitalInvested": 257.0,
+    "NetValuation": 451.5617906205357,
+    "ROIC": 0.7570497689515008,
+    "Savings": 0.0
+  },
+  {
+    "Date": "2011-06-03",
+    "NetCapitalInvested": 258.0,
+    "NetValuation": 442.06571834813,
+    "ROIC": 0.7134330168532171,
+    "Savings": 0.0
+  },
+  {
+    "Date": "2011-07-25",
+    "NetCapitalInvested": 259.0,
+    "NetValuation": 455.73784279653233,
+    "ROIC": 0.759605570642982,
+    "Savings": 0.0
+  },
+  {
+    "Date": "2011-08-03",
+    "NetCapitalInvested": 260.0,
+    "NetValuation": 430.46893130121316,
+    "ROIC": 0.6556497357738967,
+    "Savings": 0.0
+  },
+  {
+    "Date": "2011-09-27",
+    "NetCapitalInvested": 260.0,
+    "NetValuation": 386.43632531921435,
+    "ROIC": 0.48629355892005516,
+    "Savings": 1.0
+  },
+  {
+    "Date": "2011-10-20",
+    "NetCapitalInvested": 260.0,
+    "NetValuation": 428.0644203943463,
+    "ROIC": 0.646401616901332,
+    "Savings": 2.0
+  },
+  {
+    "Date": "2011-11-25",
+    "NetCapitalInvested": 260.0,
+    "NetValuation": 425.8989943787873,
+    "ROIC": 0.638073055303028,
+    "Savings": 3.0
+  },
+  {
+    "Date": "2011-12-02",
+    "NetCapitalInvested": 260.0,
+    "NetValuation": 429.53308472666555,
+    "ROIC": 0.6520503258717906,
+    "Savings": 4.0
+  },
+  {
+    "Date": "2012-01-05",
+    "NetCapitalInvested": 260.0,
+    "NetValuation": 448.2534317160649,
+    "ROIC": 0.7240516604464033,
+    "Savings": 5.0
+  },
+  {
+    "Date": "2012-02-23",
+    "NetCapitalInvested": 261.75,
+    "NetValuation": 467.4395512892967,
+    "ROIC": 0.7858244557375231,
+    "Savings": 4.25
+  },
+  {
+    "Date": "2012-03-13",
+    "NetCapitalInvested": 263.3875,
+    "NetValuation": 480.2157066377405,
+    "ROIC": 0.8232289179924654,
+    "Savings": 3.6125
+  },
+  {
+    "Date": "2012-04-05",
+    "NetCapitalInvested": 264.929375,
+    "NetValuation": 482.4903152278679,
+    "ROIC": 0.8212035385954007,
+    "Savings": 3.0706249999999997
+  },
+  {
+    "Date": "2012-05-01",
+    "NetCapitalInvested": 266.38996875,
+    "NetValuation": 486.62205443439666,
+    "ROIC": 0.8267281486529199,
+    "Savings": 2.6100312499999996
+  },
+  {
+    "Date": "2012-06-06",
+    "NetCapitalInvested": 267.7814734375,
+    "NetValuation": 456.62137938576024,
+    "ROIC": 0.7052015343859678,
+    "Savings": 2.2185265624999997
+  },
+  {
+    "Date": "2012-07-02",
+    "NetCapitalInvested": 271.0,
+    "NetValuation": 477.3321577358816,
+    "ROIC": 0.7613732757781608,
+    "Savings": 0.0
+  },
+  {
+    "Date": "2012-08-20",
+    "NetCapitalInvested": 272.0,
+    "NetValuation": 496.7261776552246,
+    "ROIC": 0.8261991825559728,
+    "Savings": 0.0
+  },
+  {
+    "Date": "2012-09-25",
+    "NetCapitalInvested": 273.0,
+    "NetValuation": 505.9434751722305,
+    "ROIC": 0.8532728028286831,
+    "Savings": 0.0
+  },
+  {
+    "Date": "2012-10-26",
+    "NetCapitalInvested": 274.0,
+    "NetValuation": 496.53744846640114,
+    "ROIC": 0.8121804688554787,
+    "Savings": 0.0
+  },
+  {
+    "Date": "2012-11-12",
+    "NetCapitalInvested": 275.0,
+    "NetValuation": 486.31564727048425,
+    "ROIC": 0.7684205355290337,
+    "Savings": 0.0
+  },
+  {
+    "Date": "2012-12-11",
+    "NetCapitalInvested": 276.0,
+    "NetValuation": 504.16365136894717,
+    "ROIC": 0.8266798962643014,
+    "Savings": 0.0
+  },
+  {
+    "Date": "2013-01-04",
+    "NetCapitalInvested": 277.0,
+    "NetValuation": 518.8037243829981,
+    "ROIC": 0.8729376331516177,
+    "Savings": 0.0
+  },
+  {
+    "Date": "2013-02-26",
+    "NetCapitalInvested": 278.0,
+    "NetValuation": 530.5833172024556,
+    "ROIC": 0.9085730834620707,
+    "Savings": 0.0
+  },
+  {
+    "Date": "2013-03-01",
+    "NetCapitalInvested": 279.0,
+    "NetValuation": 539.1188238518365,
+    "ROIC": 0.9323255335191273,
+    "Savings": 0.0
+  },
+  {
+    "Date": "2013-04-22",
+    "NetCapitalInvested": 280.0,
+    "NetValuation": 555.849929039978,
+    "ROIC": 0.9851783179999213,
+    "Savings": 0.0
+  },
+  {
+    "Date": "2013-05-16",
+    "NetCapitalInvested": 281.0,
+    "NetValuation": 588.1447247248719,
+    "ROIC": 1.0930417249995443,
+    "Savings": 0.0
+  },
+  {
+    "Date": "2013-06-27",
+    "NetCapitalInvested": 282.0,
+    "NetValuation": 575.86356609097,
+    "ROIC": 1.0420693833013122,
+    "Savings": 0.0
+  },
+  {
+    "Date": "2013-07-31",
+    "NetCapitalInvested": 283.0,
+    "NetValuation": 602.7545805024367,
+    "ROIC": 1.1298748427647942,
+    "Savings": 0.0
+  },
+  {
+    "Date": "2013-08-30",
+    "NetCapitalInvested": 284.0,
+    "NetValuation": 584.8895596110077,
+    "ROIC": 1.0594702803204497,
+    "Savings": 0.0
+  },
+  {
+    "Date": "2013-09-20",
+    "NetCapitalInvested": 285.0,
+    "NetValuation": 613.4475690762588,
+    "ROIC": 1.1524476107938906,
+    "Savings": 0.0
+  },
+  {
+    "Date": "2013-10-08",
+    "NetCapitalInvested": 286.0,
+    "NetValuation": 594.9094912757354,
+    "ROIC": 1.0801031163487251,
+    "Savings": 0.0
+  },
+  {
+    "Date": "2013-11-08",
+    "NetCapitalInvested": 287.0,
+    "NetValuation": 637.2938743832369,
+    "ROIC": 1.2205361476767838,
+    "Savings": 0.0
+  },
+  {
+    "Date": "2013-12-18",
+    "NetCapitalInvested": 288.0,
+    "NetValuation": 652.7054312649358,
+    "ROIC": 1.2663383030032493,
+    "Savings": 0.0
+  },
+  {
+    "Date": "2014-01-29",
+    "NetCapitalInvested": 289.0,
+    "NetValuation": 640.5658885760633,
+    "ROIC": 1.216490963931015,
+    "Savings": 0.0
+  },
+  {
+    "Date": "2014-02-12",
+    "NetCapitalInvested": 290.0,
+    "NetValuation": 657.8345724556921,
+    "ROIC": 1.268395077433421,
+    "Savings": 0.0
+  },
+  {
+    "Date": "2014-03-04",
+    "NetCapitalInvested": 291.0,
+    "NetValuation": 678.5957167587075,
+    "ROIC": 1.3319440438443555,
+    "Savings": 0.0
+  },
+  {
+    "Date": "2014-04-30",
+    "NetCapitalInvested": 292.0,
+    "NetValuation": 683.2314842161934,
+    "ROIC": 1.3398338500554567,
+    "Savings": 0.0
+  },
+  {
+    "Date": "2014-05-01",
+    "NetCapitalInvested": 293.0,
+    "NetValuation": 684.1335662774272,
+    "ROIC": 1.334926847363233,
+    "Savings": 0.0
+  },
+  {
+    "Date": "2014-06-20",
+    "NetCapitalInvested": 294.0,
+    "NetValuation": 713.8945751077537,
+    "ROIC": 1.4282128405025636,
+    "Savings": 0.0
+  },
+  {
+    "Date": "2014-07-01",
+    "NetCapitalInvested": 295.0,
+    "NetValuation": 718.6952334854741,
+    "ROIC": 1.436255028764319,
+    "Savings": 0.0
+  },
+  {
+    "Date": "2014-08-07",
+    "NetCapitalInvested": 296.0,
+    "NetValuation": 696.4770929230216,
+    "ROIC": 1.352963151766965,
+    "Savings": 0.0
+  },
+  {
+    "Date": "2014-09-23",
+    "NetCapitalInvested": 297.0,
+    "NetValuation": 724.1753146179399,
+    "ROIC": 1.4383007226193263,
+    "Savings": 0.0
+  },
+  {
+    "Date": "2014-10-27",
+    "NetCapitalInvested": 298.0,
+    "NetValuation": 717.4542646973625,
+    "ROIC": 1.4075646466354448,
+    "Savings": 0.0
+  },
+  {
+    "Date": "2014-11-06",
+    "NetCapitalInvested": 299.0,
+    "NetValuation": 743.9027273216303,
+    "ROIC": 1.4879689876977602,
+    "Savings": 0.0
+  },
+  {
+    "Date": "2014-12-03",
+    "NetCapitalInvested": 300.0,
+    "NetValuation": 760.6948342933903,
+    "ROIC": 1.5356494476446343,
+    "Savings": 0.0
+  },
+  {
+    "Date": "2015-01-27",
+    "NetCapitalInvested": 301.0,
+    "NetValuation": 745.2731874581914,
+    "ROIC": 1.4759906560072804,
+    "Savings": 0.0
+  },
+  {
+    "Date": "2015-02-25",
+    "NetCapitalInvested": 302.0,
+    "NetValuation": 777.2327511223535,
+    "ROIC": 1.573618381199846,
+    "Savings": 0.0
+  },
+  {
+    "Date": "2015-03-17",
+    "NetCapitalInvested": 303.0,
+    "NetValuation": 763.6798137048223,
+    "ROIC": 1.5203954247683904,
+    "Savings": 0.0
+  },
+  {
+    "Date": "2015-04-21",
+    "NetCapitalInvested": 304.0,
+    "NetValuation": 773.1513182815178,
+    "ROIC": 1.5432609153997294,
+    "Savings": 0.0
+  },
+  {
+    "Date": "2015-05-08",
+    "NetCapitalInvested": 305.0,
+    "NetValuation": 781.0854934775447,
+    "ROIC": 1.560936044188671,
+    "Savings": 0.0
+  },
+  {
+    "Date": "2015-06-03",
+    "NetCapitalInvested": 306.0,
+    "NetValuation": 781.3361888361009,
+    "ROIC": 1.5533862380264734,
+    "Savings": 0.0
+  },
+  {
+    "Date": "2015-07-14",
+    "NetCapitalInvested": 307.0,
+    "NetValuation": 780.4438951623619,
+    "ROIC": 1.5421625249588333,
+    "Savings": 0.0
+  },
+  {
+    "Date": "2015-08-07",
+    "NetCapitalInvested": 308.0,
+    "NetValuation": 769.8313251961728,
+    "ROIC": 1.4994523545330285,
+    "Savings": 0.0
+  },
+  {
+    "Date": "2015-09-24",
+    "NetCapitalInvested": 308.0,
+    "NetValuation": 711.4558062141865,
+    "ROIC": 1.3099214487473587,
+    "Savings": 1.0
+  },
+  {
+    "Date": "2015-10-20",
+    "NetCapitalInvested": 308.0,
+    "NetValuation": 770.4945991518523,
+    "ROIC": 1.5016058414021178,
+    "Savings": 2.0
+  },
+  {
+    "Date": "2015-11-04",
+    "NetCapitalInvested": 308.0,
+    "NetValuation": 770.8836704666363,
+    "ROIC": 1.5028690599566115,
+    "Savings": 3.0
+  },
+  {
+    "Date": "2015-12-01",
+    "NetCapitalInvested": 308.0,
+    "NetValuation": 757.3699267998023,
+    "ROIC": 1.458993268830527,
+    "Savings": 4.0
+  },
+  {
+    "Date": "2016-01-04",
+    "NetCapitalInvested": 309.6,
+    "NetValuation": 747.3793070603297,
+    "ROIC": 1.4140158496780673,
+    "Savings": 3.4
+  },
+  {
+    "Date": "2016-02-03",
+    "NetCapitalInvested": 309.6,
+    "NetValuation": 717.5125050834123,
+    "ROIC": 1.317546851044613,
+    "Savings": 4.4
+  },
+  {
+    "Date": "2016-03-24",
+    "NetCapitalInvested": 309.6,
+    "NetValuation": 764.8619508135716,
+    "ROIC": 1.4704843372531382,
+    "Savings": 5.4
+  },
+  {
+    "Date": "2016-04-14",
+    "NetCapitalInvested": 309.6,
+    "NetValuation": 766.9265960826463,
+    "ROIC": 1.4771530881222423,
+    "Savings": 6.4
+  },
+  {
+    "Date": "2016-05-04",
+    "NetCapitalInvested": 311.56,
+    "NetValuation": 763.6210079683519,
+    "ROIC": 1.4509597123133648,
+    "Savings": 5.44
+  },
+  {
+    "Date": "2016-06-10",
+    "NetCapitalInvested": 313.376,
+    "NetValuation": 782.1716526055149,
+    "ROIC": 1.4959526339142593,
+    "Savings": 4.6240000000000006
+  },
+  {
+    "Date": "2016-07-21",
+    "NetCapitalInvested": 315.0696,
+    "NetValuation": 809.6506801890598,
+    "ROIC": 1.569751826863207,
+    "Savings": 3.9304000000000006
+  },
+  {
+    "Date": "2016-08-24",
+    "NetCapitalInvested": 316.65916,
+    "NetValuation": 815.0806372412735,
+    "ROIC": 1.5739998717904562,
+    "Savings": 3.3408400000000005
+  },
+  {
+    "Date": "2016-09-22",
+    "NetCapitalInvested": 318.160286,
+    "NetValuation": 817.2336958658458,
+    "ROIC": 1.5686225837307861,
+    "Savings": 2.8397140000000003
+  },
+  {
+    "Date": "2016-10-04",
+    "NetCapitalInvested": 322.0,
+    "NetValuation": 811.0549606137586,
+    "ROIC": 1.518804225508567,
+    "Savings": 0.0
+  },
+  {
+    "Date": "2016-11-14",
+    "NetCapitalInvested": 323.0,
+    "NetValuation": 817.2256721771764,
+    "ROIC": 1.5301104401770167,
+    "Savings": 0.0
+  },
+  {
+    "Date": "2016-12-02",
+    "NetCapitalInvested": 324.0,
+    "NetValuation": 828.7043767344802,
+    "ROIC": 1.5577295578224697,
+    "Savings": 0.0
+  }
+]

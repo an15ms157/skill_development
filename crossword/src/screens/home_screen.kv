@@ -1,0 +1,59 @@
+MDBoxLayout:
+    orientation: "vertical"
+    spacing: dp(10)
+    padding: dp(20)
+
+    MDTopAppBar:
+        title: "বাংলা ক্রসওয়ার্ড"
+        font_name: "BengaliFont"
+        right_action_items: [["theme-light-dark", lambda x: app.toggle_theme()]]
+        elevation: 4
+
+    MDBoxLayout:
+        orientation: "vertical"
+        adaptive_height: True
+        spacing: dp(20)
+        pos_hint: {"center_x": .5, "center_y": .5}
+
+        Image:
+            source: "assets/crossword_logo.png"
+            size_hint: None, None
+            size: "120dp", "120dp"
+            pos_hint: {"center_x": .5}
+            
+        MDLabel:
+            text: "বাংলা ক্রসওয়ার্ড"
+            font_name: "BengaliFont"
+            font_size: "34sp"
+            halign: "center"
+            
+        MDLabel:
+            text: "বাংলা অক্ষরে ক্রসওয়ার্ড খেলুন"
+            font_name: "BengaliFont"
+            font_size: "18sp"
+            halign: "center"
+            
+    MDBoxLayout:
+        orientation: "vertical"
+        adaptive_height: True
+        spacing: dp(10)
+        pos_hint: {"center_x": .5}
+
+        MDFillRoundFlatButton:
+            text: "নতুন খেলা"
+            font_name: "BengaliFont"
+            size_hint_x: 0.8
+            pos_hint: {"center_x": .5}
+            on_release: app.screen_manager.current = "game"
+            
+        MDFillRoundFlatButton:
+            text: "কঠিনতা নির্বাচন করুন"
+            font_name: "BengaliFont"
+            size_hint_x: 0.8
+            pos_hint: {"center_x": .5}
+            
+        MDFillRoundFlatButton:
+            text: "নির্দেশাবলী"
+            font_name: "BengaliFont"
+            size_hint_x: 0.8
+            pos_hint: {"center_x": .5}

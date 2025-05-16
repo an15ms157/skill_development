@@ -1,0 +1,4 @@
+kivy
+kivymd
+fonttools
+python-bidi

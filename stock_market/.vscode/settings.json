@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "plotHistos.C": "cpp",
+        "plot_eta.C": "cpp"
+    }
+}
