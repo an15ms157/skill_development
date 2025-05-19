@@ -1,0 +1,2234 @@
+[
+  {
+    "Date": "1950-01-10",
+    "NetCapitalInvested": 1,
+    "NetValuation": 1.001174398120963,
+    "ROIC": 0.0011743981209630938
+  },
+  {
+    "Date": "1950-02-25",
+    "NetCapitalInvested": 2,
+    "NetValuation": 2.0088392850460197,
+    "ROIC": 0.004419642523009859
+  },
+  {
+    "Date": "1950-03-17",
+    "NetCapitalInvested": 3,
+    "NetValuation": 3.0078362439586046,
+    "ROIC": 0.0026120813195348682
+  },
+  {
+    "Date": "1950-04-14",
+    "NetCapitalInvested": 4,
+    "NetValuation": 4.149652826191879,
+    "ROIC": 0.03741320654796976
+  },
+  {
+    "Date": "1950-05-09",
+    "NetCapitalInvested": 5,
+    "NetValuation": 5.340614120257842,
+    "ROIC": 0.06812282405156847
+  },
+  {
+    "Date": "1950-06-29",
+    "NetCapitalInvested": 6,
+    "NetValuation": 6.04497723657921,
+    "ROIC": 0.00749620609653497
+  },
+  {
+    "Date": "1950-07-12",
+    "NetCapitalInvested": 7,
+    "NetValuation": 7.153733334392212,
+    "ROIC": 0.021961904913173087
+  },
+  {
+    "Date": "1950-08-25",
+    "NetCapitalInvested": 8,
+    "NetValuation": 8.379837374654771,
+    "ROIC": 0.047479671831846426
+  },
+  {
+    "Date": "1950-09-18",
+    "NetCapitalInvested": 9,
+    "NetValuation": 9.85254686991585,
+    "ROIC": 0.09472742999064998
+  },
+  {
+    "Date": "1950-10-14",
+    "NetCapitalInvested": 10,
+    "NetValuation": 10.883939064199502,
+    "ROIC": 0.08839390641995024
+  },
+  {
+    "Date": "1950-11-28",
+    "NetCapitalInvested": 11,
+    "NetValuation": 11.870236960043464,
+    "ROIC": 0.07911245091304214
+  },
+  {
+    "Date": "1950-12-05",
+    "NetCapitalInvested": 12,
+    "NetValuation": 13.474778545109045,
+    "ROIC": 0.1228982120924204
+  },
+  {
+    "Date": "1951-01-10",
+    "NetCapitalInvested": 13,
+    "NetValuation": 15.338883378828127,
+    "ROIC": 0.1799141060637021
+  },
+  {
+    "Date": "1951-02-03",
+    "NetCapitalInvested": 14,
+    "NetValuation": 16.425345509945046,
+    "ROIC": 0.17323896499607475
+  },
+  {
+    "Date": "1951-03-27",
+    "NetCapitalInvested": 15,
+    "NetValuation": 17.118849123012644,
+    "ROIC": 0.14125660820084296
+  },
+  {
+    "Date": "1951-04-25",
+    "NetCapitalInvested": 16,
+    "NetValuation": 18.96373137257463,
+    "ROIC": 0.18523321078591448
+  },
+  {
+    "Date": "1951-05-02",
+    "NetCapitalInvested": 17,
+    "NetValuation": 19.145730662004897,
+    "ROIC": 0.12621945070617044
+  },
+  {
+    "Date": "1951-06-18",
+    "NetCapitalInvested": 18,
+    "NetValuation": 19.59808151589721,
+    "ROIC": 0.08878230643873389
+  },
+  {
+    "Date": "1951-07-10",
+    "NetCapitalInvested": 19,
+    "NetValuation": 21.980113302643673,
+    "ROIC": 0.15684806856019332
+  },
+  {
+    "Date": "1951-08-02",
+    "NetCapitalInvested": 20,
+    "NetValuation": 23.86377551017304,
+    "ROIC": 0.19318877550865193
+  },
+  {
+    "Date": "1951-09-04",
+    "NetCapitalInvested": 21,
+    "NetValuation": 24.84241487829145,
+    "ROIC": 0.18297213706149762
+  },
+  {
+    "Date": "1951-10-15",
+    "NetCapitalInvested": 22,
+    "NetValuation": 25.462489631917634,
+    "ROIC": 0.15738589235989248
+  },
+  {
+    "Date": "1951-11-29",
+    "NetCapitalInvested": 23,
+    "NetValuation": 26.405155356628356,
+    "ROIC": 0.14805023289688504
+  },
+  {
+    "Date": "1951-12-14",
+    "NetCapitalInvested": 24,
+    "NetValuation": 28.449394930347275,
+    "ROIC": 0.18539145543113644
+  },
+  {
+    "Date": "1952-01-30",
+    "NetCapitalInvested": 25,
+    "NetValuation": 29.888519236190742,
+    "ROIC": 0.1955407694476297
+  },
+  {
+    "Date": "1952-02-21",
+    "NetCapitalInvested": 26,
+    "NetValuation": 29.803280400468214,
+    "ROIC": 0.14628001540262361
+  },
+  {
+    "Date": "1952-03-12",
+    "NetCapitalInvested": 27,
+    "NetValuation": 32.2525050482278,
+    "ROIC": 0.19453722400843715
+  },
+  {
+    "Date": "1952-04-19",
+    "NetCapitalInvested": 28,
+    "NetValuation": 31.854799650830092,
+    "ROIC": 0.13767141610107472
+  },
+  {
+    "Date": "1952-05-17",
+    "NetCapitalInvested": 29,
+    "NetValuation": 33.60516567931566,
+    "ROIC": 0.15879881652812625
+  },
+  {
+    "Date": "1952-06-20",
+    "NetCapitalInvested": 30,
+    "NetValuation": 36.169486639389135,
+    "ROIC": 0.2056495546463045
+  },
+  {
+    "Date": "1952-07-28",
+    "NetCapitalInvested": 31,
+    "NetValuation": 37.81502627718667,
+    "ROIC": 0.2198395573286022
+  },
+  {
+    "Date": "1952-08-18",
+    "NetCapitalInvested": 32,
+    "NetValuation": 38.26778612999779,
+    "ROIC": 0.19586831656243087
+  },
+  {
+    "Date": "1952-09-29",
+    "NetCapitalInvested": 33,
+    "NetValuation": 38.51296389200382,
+    "ROIC": 0.16705951187890355
+  },
+  {
+    "Date": "1952-10-03",
+    "NetCapitalInvested": 34,
+    "NetValuation": 39.482392309901996,
+    "ROIC": 0.16124683264417636
+  },
+  {
+    "Date": "1952-11-10",
+    "NetCapitalInvested": 35,
+    "NetValuation": 42.35396427535866,
+    "ROIC": 0.21011326501024752
+  },
+  {
+    "Date": "1952-12-26",
+    "NetCapitalInvested": 36,
+    "NetValuation": 44.86818544097145,
+    "ROIC": 0.24633848447142923
+  },
+  {
+    "Date": "1953-01-12",
+    "NetCapitalInvested": 37,
+    "NetValuation": 45.56744481777607,
+    "ROIC": 0.23155256264259652
+  },
+  {
+    "Date": "1953-02-13",
+    "NetCapitalInvested": 38,
+    "NetValuation": 45.74453370069668,
+    "ROIC": 0.20380351843938627
+  },
+  {
+    "Date": "1953-03-10",
+    "NetCapitalInvested": 39,
+    "NetValuation": 45.64322380619569,
+    "ROIC": 0.1703390719537357
+  },
+  {
+    "Date": "1953-04-27",
+    "NetCapitalInvested": 40,
+    "NetValuation": 45.44551595971824,
+    "ROIC": 0.13613789899295609
+  },
+  {
+    "Date": "1953-05-06",
+    "NetCapitalInvested": 41,
+    "NetValuation": 46.27944572101891,
+    "ROIC": 0.12876696880533925
+  },
+  {
+    "Date": "1953-06-18",
+    "NetCapitalInvested": 42,
+    "NetValuation": 46.53767842013972,
+    "ROIC": 0.10803996238427904
+  },
+  {
+    "Date": "1953-07-24",
+    "NetCapitalInvested": 43,
+    "NetValuation": 48.73511223730611,
+    "ROIC": 0.13337470319316538
+  },
+  {
+    "Date": "1953-08-13",
+    "NetCapitalInvested": 44,
+    "NetValuation": 46.86228998216453,
+    "ROIC": 0.06505204504919394
+  },
+  {
+    "Date": "1953-09-30",
+    "NetCapitalInvested": 45,
+    "NetValuation": 47.92257594697864,
+    "ROIC": 0.06494613215508088
+  },
+  {
+    "Date": "1953-10-02",
+    "NetCapitalInvested": 46,
+    "NetValuation": 51.405154116767456,
+    "ROIC": 0.1175033503645099
+  },
+  {
+    "Date": "1953-11-24",
+    "NetCapitalInvested": 47,
+    "NetValuation": 52.876611264097725,
+    "ROIC": 0.12503428221484522
+  },
+  {
+    "Date": "1953-12-09",
+    "NetCapitalInvested": 48,
+    "NetValuation": 53.98218182878118,
+    "ROIC": 0.12462878809960791
+  },
+  {
+    "Date": "1954-01-19",
+    "NetCapitalInvested": 49,
+    "NetValuation": 57.76105403840161,
+    "ROIC": 0.1787970211918696
+  },
+  {
+    "Date": "1954-02-10",
+    "NetCapitalInvested": 50,
+    "NetValuation": 58.91647009780958,
+    "ROIC": 0.1783294019561916
+  },
+  {
+    "Date": "1954-03-19",
+    "NetCapitalInvested": 51,
+    "NetValuation": 61.70120474709729,
+    "ROIC": 0.20982754406073123
+  },
+  {
+    "Date": "1954-04-05",
+    "NetCapitalInvested": 52,
+    "NetValuation": 65.7611101463075,
+    "ROIC": 0.26463673358283657
+  },
+  {
+    "Date": "1954-05-20",
+    "NetCapitalInvested": 53,
+    "NetValuation": 68.93806141963718,
+    "ROIC": 0.30071813999315433
+  },
+  {
+    "Date": "1954-06-23",
+    "NetCapitalInvested": 54,
+    "NetValuation": 69.98804175560743,
+    "ROIC": 0.29607484732606343
+  },
+  {
+    "Date": "1954-07-07",
+    "NetCapitalInvested": 55,
+    "NetValuation": 75.02080829310101,
+    "ROIC": 0.3640146962382002
+  },
+  {
+    "Date": "1954-08-25",
+    "NetCapitalInvested": 56,
+    "NetValuation": 73.44315278623687,
+    "ROIC": 0.31148487118280116
+  },
+  {
+    "Date": "1954-09-13",
+    "NetCapitalInvested": 57,
+    "NetValuation": 80.58729259527803,
+    "ROIC": 0.4138121507943514
+  },
+  {
+    "Date": "1954-10-06",
+    "NetCapitalInvested": 58,
+    "NetValuation": 79.98298559527214,
+    "ROIC": 0.3790169930219335
+  },
+  {
+    "Date": "1954-11-03",
+    "NetCapitalInvested": 59,
+    "NetValuation": 87.50174421154742,
+    "ROIC": 0.4830804103652105
+  },
+  {
+    "Date": "1954-12-08",
+    "NetCapitalInvested": 60,
+    "NetValuation": 92.98051510083997,
+    "ROIC": 0.5496752516806661
+  },
+  {
+    "Date": "1955-01-14",
+    "NetCapitalInvested": 61,
+    "NetValuation": 95.69852845631058,
+    "ROIC": 0.5688283353493538
+  },
+  {
+    "Date": "1955-02-04",
+    "NetCapitalInvested": 62,
+    "NetValuation": 97.03275161802517,
+    "ROIC": 0.5650443809358899
+  },
+  {
+    "Date": "1955-03-30",
+    "NetCapitalInvested": 63,
+    "NetValuation": 97.55926138443557,
+    "ROIC": 0.5485597045148504
+  },
+  {
+    "Date": "1955-04-27",
+    "NetCapitalInvested": 64,
+    "NetValuation": 102.23580055206763,
+    "ROIC": 0.5974343836260567
+  },
+  {
+    "Date": "1955-05-17",
+    "NetCapitalInvested": 65,
+    "NetValuation": 103.12656403292335,
+    "ROIC": 0.5865625235834362
+  },
+  {
+    "Date": "1955-06-02",
+    "NetCapitalInvested": 66,
+    "NetValuation": 112.69335207051667,
+    "ROIC": 0.7074750313714646
+  },
+  {
+    "Date": "1955-07-15",
+    "NetCapitalInvested": 67,
+    "NetValuation": 120.55882265244067,
+    "ROIC": 0.799385412722995
+  },
+  {
+    "Date": "1955-08-04",
+    "NetCapitalInvested": 68,
+    "NetValuation": 120.63631473526544,
+    "ROIC": 0.7740634519891977
+  },
+  {
+    "Date": "1955-09-21",
+    "NetCapitalInvested": 69,
+    "NetValuation": 122.96738327483544,
+    "ROIC": 0.7821359894903687
+  },
+  {
+    "Date": "1955-10-24",
+    "NetCapitalInvested": 70,
+    "NetValuation": 120.20904310299314,
+    "ROIC": 0.7172720443284734
+  },
+  {
+    "Date": "1955-11-22",
+    "NetCapitalInvested": 71,
+    "NetValuation": 130.20582093337092,
+    "ROIC": 0.8338848018784636
+  },
+  {
+    "Date": "1955-12-12",
+    "NetCapitalInvested": 72,
+    "NetValuation": 131.12131080949388,
+    "ROIC": 0.8211293167985261
+  },
+  {
+    "Date": "1956-01-20",
+    "NetCapitalInvested": 73,
+    "NetValuation": 127.34932308785712,
+    "ROIC": 0.7445112751761249
+  },
+  {
+    "Date": "1956-02-10",
+    "NetCapitalInvested": 74,
+    "NetValuation": 132.80568965584473,
+    "ROIC": 0.7946714818357397
+  },
+  {
+    "Date": "1956-03-29",
+    "NetCapitalInvested": 75,
+    "NetValuation": 143.00308413134871,
+    "ROIC": 0.9067077884179828
+  },
+  {
+    "Date": "1956-04-23",
+    "NetCapitalInvested": 76,
+    "NetValuation": 143.7234308149647,
+    "ROIC": 0.8910977738811144
+  },
+  {
+    "Date": "1956-05-17",
+    "NetCapitalInvested": 77,
+    "NetValuation": 135.24629037892944,
+    "ROIC": 0.7564453295964862
+  },
+  {
+    "Date": "1956-06-26",
+    "NetCapitalInvested": 78,
+    "NetValuation": 141.54779038797946,
+    "ROIC": 0.814715261384352
+  },
+  {
+    "Date": "1956-07-23",
+    "NetCapitalInvested": 79,
+    "NetValuation": 149.84186708107484,
+    "ROIC": 0.8967324946971499
+  },
+  {
+    "Date": "1956-08-29",
+    "NetCapitalInvested": 80,
+    "NetValuation": 145.1413957177205,
+    "ROIC": 0.8142674464715064
+  },
+  {
+    "Date": "1956-09-20",
+    "NetCapitalInvested": 81,
+    "NetValuation": 139.52406023786995,
+    "ROIC": 0.7225192621959252
+  },
+  {
+    "Date": "1956-10-11",
+    "NetCapitalInvested": 82,
+    "NetValuation": 141.20540307033372,
+    "ROIC": 0.7220171106138258
+  },
+  {
+    "Date": "1956-11-23",
+    "NetCapitalInvested": 83,
+    "NetValuation": 140.65508963500443,
+    "ROIC": 0.6946396341566798
+  },
+  {
+    "Date": "1956-12-19",
+    "NetCapitalInvested": 84,
+    "NetValuation": 146.62125232961031,
+    "ROIC": 0.7454910991620276
+  },
+  {
+    "Date": "1957-01-02",
+    "NetCapitalInvested": 85,
+    "NetValuation": 141.4629815278148,
+    "ROIC": 0.6642703709154683
+  },
+  {
+    "Date": "1957-02-11",
+    "NetCapitalInvested": 86,
+    "NetValuation": 137.86076541543196,
+    "ROIC": 0.6030321559933949
+  },
+  {
+    "Date": "1957-03-13",
+    "NetCapitalInvested": 87,
+    "NetValuation": 141.57113089904502,
+    "ROIC": 0.6272543781499427
+  },
+  {
+    "Date": "1957-04-01",
+    "NetCapitalInvested": 88,
+    "NetValuation": 147.83886737413948,
+    "ROIC": 0.679987129251585
+  },
+  {
+    "Date": "1957-05-16",
+    "NetCapitalInvested": 89,
+    "NetValuation": 154.30993262674767,
+    "ROIC": 0.7338194677162659
+  },
+  {
+    "Date": "1957-06-12",
+    "NetCapitalInvested": 90,
+    "NetValuation": 155.10057522080086,
+    "ROIC": 0.7233397246755652
+  },
+  {
+    "Date": "1957-07-16",
+    "NetCapitalInvested": 91,
+    "NetValuation": 157.848818324879,
+    "ROIC": 0.7346023991744945
+  },
+  {
+    "Date": "1957-08-27",
+    "NetCapitalInvested": 92,
+    "NetValuation": 149.99976391280728,
+    "ROIC": 0.6304322164435574
+  },
+  {
+    "Date": "1957-09-25",
+    "NetCapitalInvested": 93,
+    "NetValuation": 141.69882351865397,
+    "ROIC": 0.5236432636414405
+  },
+  {
+    "Date": "1957-10-10",
+    "NetCapitalInvested": 94,
+    "NetValuation": 138.15835120530545,
+    "ROIC": 0.4697696936734622
+  },
+  {
+    "Date": "1957-11-06",
+    "NetCapitalInvested": 95,
+    "NetValuation": 141.41102079140737,
+    "ROIC": 0.4885370609621828
+  },
+  {
+    "Date": "1957-12-04",
+    "NetCapitalInvested": 96,
+    "NetValuation": 136.50982754147822,
+    "ROIC": 0.42197737022373144
+  },
+  {
+    "Date": "1958-01-02",
+    "NetCapitalInvested": 97,
+    "NetValuation": 143.38105173205273,
+    "ROIC": 0.4781551724953889
+  },
+  {
+    "Date": "1958-02-07",
+    "NetCapitalInvested": 98,
+    "NetValuation": 141.40270485766177,
+    "ROIC": 0.4428847434455283
+  },
+  {
+    "Date": "1958-03-14",
+    "NetCapitalInvested": 99,
+    "NetValuation": 146.75984256661667,
+    "ROIC": 0.48242265218804714
+  },
+  {
+    "Date": "1958-04-10",
+    "NetCapitalInvested": 100,
+    "NetValuation": 152.4727850769907,
+    "ROIC": 0.524727850769907
+  },
+  {
+    "Date": "1958-05-13",
+    "NetCapitalInvested": 101,
+    "NetValuation": 155.76503578653816,
+    "ROIC": 0.5422280770944372
+  },
+  {
+    "Date": "1958-06-10",
+    "NetCapitalInvested": 102,
+    "NetValuation": 160.84494341832436,
+    "ROIC": 0.5769112099835721
+  },
+  {
+    "Date": "1958-07-14",
+    "NetCapitalInvested": 103,
+    "NetValuation": 168.8233293841158,
+    "ROIC": 0.6390614503312213
+  },
+  {
+    "Date": "1958-08-12",
+    "NetCapitalInvested": 104,
+    "NetValuation": 171.82716151342964,
+    "ROIC": 0.6521842453214389
+  },
+  {
+    "Date": "1958-09-17",
+    "NetCapitalInvested": 105,
+    "NetValuation": 181.15402484004264,
+    "ROIC": 0.7252764270480251
+  },
+  {
+    "Date": "1958-10-02",
+    "NetCapitalInvested": 106,
+    "NetValuation": 186.77294350153386,
+    "ROIC": 0.7620089009578666
+  },
+  {
+    "Date": "1958-11-03",
+    "NetCapitalInvested": 107,
+    "NetValuation": 191.97525756875007,
+    "ROIC": 0.7941612856892529
+  },
+  {
+    "Date": "1958-12-22",
+    "NetCapitalInvested": 108,
+    "NetValuation": 202.98970311024496,
+    "ROIC": 0.8795342880578237
+  },
+  {
+    "Date": "1959-01-08",
+    "NetCapitalInvested": 109,
+    "NetValuation": 204.87300970807712,
+    "ROIC": 0.8795688964043773
+  },
+  {
+    "Date": "1959-02-04",
+    "NetCapitalInvested": 110,
+    "NetValuation": 205.73157704307025,
+    "ROIC": 0.8702870640279113
+  },
+  {
+    "Date": "1959-03-17",
+    "NetCapitalInvested": 111,
+    "NetValuation": 206.82385564805807,
+    "ROIC": 0.863277978811334
+  },
+  {
+    "Date": "1959-04-10",
+    "NetCapitalInvested": 112,
+    "NetValuation": 215.86899060788264,
+    "ROIC": 0.9274017018560949
+  },
+  {
+    "Date": "1959-05-05",
+    "NetCapitalInvested": 113,
+    "NetValuation": 220.97082466135052,
+    "ROIC": 0.9554940235517745
+  },
+  {
+    "Date": "1959-06-01",
+    "NetCapitalInvested": 114,
+    "NetValuation": 221.1773002982319,
+    "ROIC": 0.9401517570020342
+  },
+  {
+    "Date": "1959-07-06",
+    "NetCapitalInvested": 115,
+    "NetValuation": 229.90852451637878,
+    "ROIC": 0.9992045610119894
+  },
+  {
+    "Date": "1959-08-07",
+    "NetCapitalInvested": 116,
+    "NetValuation": 227.44645802218852,
+    "ROIC": 0.9607453277774872
+  },
+  {
+    "Date": "1959-09-22",
+    "NetCapitalInvested": 117,
+    "NetValuation": 218.09790725229522,
+    "ROIC": 0.8640846773700446
+  },
+  {
+    "Date": "1959-10-20",
+    "NetCapitalInvested": 118,
+    "NetValuation": 221.56707040028832,
+    "ROIC": 0.877687037290579
+  },
+  {
+    "Date": "1959-11-05",
+    "NetCapitalInvested": 119,
+    "NetValuation": 225.51133888291017,
+    "ROIC": 0.8950532679236148
+  },
+  {
+    "Date": "1959-12-01",
+    "NetCapitalInvested": 120,
+    "NetValuation": 232.76142023364926,
+    "ROIC": 0.9396785019470771
+  },
+  {
+    "Date": "1960-01-08",
+    "NetCapitalInvested": 121,
+    "NetValuation": 217.0618981752253,
+    "ROIC": 0.7938999849192174
+  },
+  {
+    "Date": "1960-02-18",
+    "NetCapitalInvested": 122,
+    "NetValuation": 220.05831030368475,
+    "ROIC": 0.8037566418334815
+  },
+  {
+    "Date": "1960-03-09",
+    "NetCapitalInvested": 123,
+    "NetValuation": 218.02382268737594,
+    "ROIC": 0.7725514039624061
+  },
+  {
+    "Date": "1960-04-13",
+    "NetCapitalInvested": 124,
+    "NetValuation": 215.16801859281682,
+    "ROIC": 0.735225956393684
+  },
+  {
+    "Date": "1960-05-20",
+    "NetCapitalInvested": 125,
+    "NetValuation": 221.94772922015125,
+    "ROIC": 0.7755818337612099
+  },
+  {
+    "Date": "1960-06-21",
+    "NetCapitalInvested": 126,
+    "NetValuation": 227.27761070499048,
+    "ROIC": 0.8037905611507181
+  },
+  {
+    "Date": "1960-07-15",
+    "NetCapitalInvested": 127,
+    "NetValuation": 222.63794428025398,
+    "ROIC": 0.7530546793720786
+  },
+  {
+    "Date": "1960-08-17",
+    "NetCapitalInvested": 128,
+    "NetValuation": 229.4556746229777,
+    "ROIC": 0.7926224579920134
+  },
+  {
+    "Date": "1960-09-28",
+    "NetCapitalInvested": 129,
+    "NetValuation": 216.6179158411091,
+    "ROIC": 0.6792086499310782
+  },
+  {
+    "Date": "1960-10-11",
+    "NetCapitalInvested": 130,
+    "NetValuation": 217.07644324289822,
+    "ROIC": 0.6698187941761402
+  },
+  {
+    "Date": "1960-11-25",
+    "NetCapitalInvested": 131,
+    "NetValuation": 226.80753809155743,
+    "ROIC": 0.7313552526073086
+  },
+  {
+    "Date": "1960-12-29",
+    "NetCapitalInvested": 132,
+    "NetValuation": 238.3036270108959,
+    "ROIC": 0.8053305076583023
+  },
+  {
+    "Date": "1961-01-06",
+    "NetCapitalInvested": 133,
+    "NetValuation": 254.41182743910815,
+    "ROIC": 0.9128708830008132
+  },
+  {
+    "Date": "1961-02-07",
+    "NetCapitalInvested": 134,
+    "NetValuation": 262.27679034105984,
+    "ROIC": 0.957289480157163
+  },
+  {
+    "Date": "1961-03-09",
+    "NetCapitalInvested": 135,
+    "NetValuation": 269.9988415128248,
+    "ROIC": 0.9999914186135171
+  },
+  {
+    "Date": "1961-04-19",
+    "NetCapitalInvested": 136,
+    "NetValuation": 272.02874327428134,
+    "ROIC": 1.0002113476050098
+  },
+  {
+    "Date": "1961-05-19",
+    "NetCapitalInvested": 137,
+    "NetValuation": 278.22467982117234,
+    "ROIC": 1.0308370789866594
+  },
+  {
+    "Date": "1961-06-15",
+    "NetCapitalInvested": 138,
+    "NetValuation": 271.1829837351918,
+    "ROIC": 0.9650940850376216
+  },
+  {
+    "Date": "1961-07-07",
+    "NetCapitalInvested": 139,
+    "NetValuation": 281.09203256322184,
+    "ROIC": 1.0222448385843297
+  },
+  {
+    "Date": "1961-08-17",
+    "NetCapitalInvested": 140,
+    "NetValuation": 287.6071816868428,
+    "ROIC": 1.054337012048877
+  },
+  {
+    "Date": "1961-09-12",
+    "NetCapitalInvested": 141,
+    "NetValuation": 282.9273577653304,
+    "ROIC": 1.006577005427875
+  },
+  {
+    "Date": "1961-10-26",
+    "NetCapitalInvested": 142,
+    "NetValuation": 291.94307278015947,
+    "ROIC": 1.0559371322546443
+  },
+  {
+    "Date": "1961-11-02",
+    "NetCapitalInvested": 143,
+    "NetValuation": 304.462172565695,
+    "ROIC": 1.129106101858007
+  },
+  {
+    "Date": "1961-12-14",
+    "NetCapitalInvested": 144,
+    "NetValuation": 306.438059307871,
+    "ROIC": 1.128042078526882
+  },
+  {
+    "Date": "1962-01-18",
+    "NetCapitalInvested": 145,
+    "NetValuation": 295.8381103461547,
+    "ROIC": 1.0402628299734806
+  },
+  {
+    "Date": "1962-02-08",
+    "NetCapitalInvested": 146,
+    "NetValuation": 301.6424968710082,
+    "ROIC": 1.0660444991164943
+  },
+  {
+    "Date": "1962-03-16",
+    "NetCapitalInvested": 147,
+    "NetValuation": 300.85512949573,
+    "ROIC": 1.0466335339845578
+  },
+  {
+    "Date": "1962-04-17",
+    "NetCapitalInvested": 148,
+    "NetValuation": 283.1720202606207,
+    "ROIC": 0.91332446122041
+  },
+  {
+    "Date": "1962-05-28",
+    "NetCapitalInvested": 149,
+    "NetValuation": 259.89641883104247,
+    "ROIC": 0.7442712673224327
+  },
+  {
+    "Date": "1962-06-15",
+    "NetCapitalInvested": 150,
+    "NetValuation": 239.6066182364355,
+    "ROIC": 0.5973774549095701
+  },
+  {
+    "Date": "1962-07-11",
+    "NetCapitalInvested": 151,
+    "NetValuation": 255.84506977357768,
+    "ROIC": 0.6943382104210443
+  },
+  {
+    "Date": "1962-08-01",
+    "NetCapitalInvested": 152,
+    "NetValuation": 260.7791844758183,
+    "ROIC": 0.715652529446173
+  },
+  {
+    "Date": "1962-09-04",
+    "NetCapitalInvested": 153,
+    "NetValuation": 249.16868761074412,
+    "ROIC": 0.6285535137957132
+  },
+  {
+    "Date": "1962-10-26",
+    "NetCapitalInvested": 154,
+    "NetValuation": 251.31201402238824,
+    "ROIC": 0.631896194950573
+  },
+  {
+    "Date": "1962-11-20",
+    "NetCapitalInvested": 155,
+    "NetValuation": 277.8644430392306,
+    "ROIC": 0.7926738260595522
+  },
+  {
+    "Date": "1962-12-13",
+    "NetCapitalInvested": 156,
+    "NetValuation": 282.6242308503754,
+    "ROIC": 0.8116937875024064
+  },
+  {
+    "Date": "1963-01-04",
+    "NetCapitalInvested": 157,
+    "NetValuation": 297.54137616108346,
+    "ROIC": 0.8951680010260094
+  },
+  {
+    "Date": "1963-02-11",
+    "NetCapitalInvested": 158,
+    "NetValuation": 289.9343691484839,
+    "ROIC": 0.8350276528385056
+  },
+  {
+    "Date": "1963-03-08",
+    "NetCapitalInvested": 159,
+    "NetValuation": 301.2356698465069,
+    "ROIC": 0.8945639612987855
+  },
+  {
+    "Date": "1963-04-10",
+    "NetCapitalInvested": 160,
+    "NetValuation": 316.8738429226904,
+    "ROIC": 0.980461518266815
+  },
+  {
+    "Date": "1963-05-13",
+    "NetCapitalInvested": 161,
+    "NetValuation": 322.4181230877621,
+    "ROIC": 1.0025970378121871
+  },
+  {
+    "Date": "1963-06-07",
+    "NetCapitalInvested": 162,
+    "NetValuation": 316.89123500074413,
+    "ROIC": 0.9561187345724946
+  },
+  {
+    "Date": "1963-07-01",
+    "NetCapitalInvested": 163,
+    "NetValuation": 316.7988046030128,
+    "ROIC": 0.9435509484847411
+  },
+  {
+    "Date": "1963-08-27",
+    "NetCapitalInvested": 164,
+    "NetValuation": 333.2560478061189,
+    "ROIC": 1.0320490719885298
+  },
+  {
+    "Date": "1963-09-16",
+    "NetCapitalInvested": 165,
+    "NetValuation": 330.55999054774037,
+    "ROIC": 1.0033938821075175
+  },
+  {
+    "Date": "1963-10-16",
+    "NetCapitalInvested": 166,
+    "NetValuation": 342.22408367990215,
+    "ROIC": 1.0615908655415793
+  },
+  {
+    "Date": "1963-11-22",
+    "NetCapitalInvested": 167,
+    "NetValuation": 339.6693482715557,
+    "ROIC": 1.0339481932428485
+  },
+  {
+    "Date": "1963-12-12",
+    "NetCapitalInvested": 168,
+    "NetValuation": 348.9870858242741,
+    "ROIC": 1.0773040822873459
+  },
+  {
+    "Date": "1964-01-29",
+    "NetCapitalInvested": 169,
+    "NetValuation": 359.3893158861942,
+    "ROIC": 1.1265639993265928
+  },
+  {
+    "Date": "1964-02-26",
+    "NetCapitalInvested": 170,
+    "NetValuation": 363.9337944192786,
+    "ROIC": 1.1407870259957567
+  },
+  {
+    "Date": "1964-03-24",
+    "NetCapitalInvested": 171,
+    "NetValuation": 370.4560243685839,
+    "ROIC": 1.1664094992314846
+  },
+  {
+    "Date": "1964-04-28",
+    "NetCapitalInvested": 172,
+    "NetValuation": 373.70195951710036,
+    "ROIC": 1.1726858111459324
+  },
+  {
+    "Date": "1964-05-18",
+    "NetCapitalInvested": 173,
+    "NetValuation": 378.9773716299948,
+    "ROIC": 1.1906206452600856
+  },
+  {
+    "Date": "1964-06-09",
+    "NetCapitalInvested": 174,
+    "NetValuation": 386.2339320735532,
+    "ROIC": 1.21973524180203
+  },
+  {
+    "Date": "1964-07-02",
+    "NetCapitalInvested": 175,
+    "NetValuation": 394.2857397484105,
+    "ROIC": 1.253061369990917
+  },
+  {
+    "Date": "1964-08-05",
+    "NetCapitalInvested": 176,
+    "NetValuation": 388.883368974561,
+    "ROIC": 1.2095645964463693
+  },
+  {
+    "Date": "1964-09-24",
+    "NetCapitalInvested": 177,
+    "NetValuation": 401.0534932210503,
+    "ROIC": 1.2658389447516967
+  },
+  {
+    "Date": "1964-10-07",
+    "NetCapitalInvested": 178,
+    "NetValuation": 405.2938821104666,
+    "ROIC": 1.2769319219689135
+  },
+  {
+    "Date": "1964-11-25",
+    "NetCapitalInvested": 179,
+    "NetValuation": 404.18049083104995,
+    "ROIC": 1.2579915688885472
+  },
+  {
+    "Date": "1964-12-23",
+    "NetCapitalInvested": 180,
+    "NetValuation": 406.76757312325486,
+    "ROIC": 1.2598198506847493
+  },
+  {
+    "Date": "1965-01-26",
+    "NetCapitalInvested": 181,
+    "NetValuation": 421.26162932159104,
+    "ROIC": 1.3274123166938732
+  },
+  {
+    "Date": "1965-02-02",
+    "NetCapitalInvested": 182,
+    "NetValuation": 421.63481313248343,
+    "ROIC": 1.3166747974312276
+  },
+  {
+    "Date": "1965-03-02",
+    "NetCapitalInvested": 183,
+    "NetValuation": 416.4959976422907,
+    "ROIC": 1.275934413345851
+  },
+  {
+    "Date": "1965-04-07",
+    "NetCapitalInvested": 184,
+    "NetValuation": 431.78582653639654,
+    "ROIC": 1.3466621007412856
+  },
+  {
+    "Date": "1965-05-03",
+    "NetCapitalInvested": 185,
+    "NetValuation": 429.43332815248476,
+    "ROIC": 1.3212612332566744
+  },
+  {
+    "Date": "1965-06-01",
+    "NetCapitalInvested": 186,
+    "NetValuation": 409.49747928908243,
+    "ROIC": 1.2015993510165723
+  },
+  {
+    "Date": "1965-07-28",
+    "NetCapitalInvested": 187,
+    "NetValuation": 416.0128556356451,
+    "ROIC": 1.2246676771959633
+  },
+  {
+    "Date": "1965-08-03",
+    "NetCapitalInvested": 188,
+    "NetValuation": 426.4023040914176,
+    "ROIC": 1.2680973621883915
+  },
+  {
+    "Date": "1965-09-30",
+    "NetCapitalInvested": 189,
+    "NetValuation": 441.0499171281855,
+    "ROIC": 1.3335974451226744
+  },
+  {
+    "Date": "1965-10-18",
+    "NetCapitalInvested": 190,
+    "NetValuation": 454.1187134050172,
+    "ROIC": 1.3900984916053538
+  },
+  {
+    "Date": "1965-11-09",
+    "NetCapitalInvested": 191,
+    "NetValuation": 451.1351831788361,
+    "ROIC": 1.3619643098368381
+  },
+  {
+    "Date": "1965-12-06",
+    "NetCapitalInvested": 192,
+    "NetValuation": 456.19360002989094,
+    "ROIC": 1.3760083334890154
+  },
+  {
+    "Date": "1966-01-17",
+    "NetCapitalInvested": 193,
+    "NetValuation": 459.4051096952254,
+    "ROIC": 1.3803373559338104
+  },
+  {
+    "Date": "1966-02-24",
+    "NetCapitalInvested": 194,
+    "NetValuation": 452.1980117529689,
+    "ROIC": 1.3309175863555098
+  },
+  {
+    "Date": "1966-03-08",
+    "NetCapitalInvested": 195,
+    "NetValuation": 443.3450426156756,
+    "ROIC": 1.2735643211060288
+  },
+  {
+    "Date": "1966-04-07",
+    "NetCapitalInvested": 196,
+    "NetValuation": 453.42988771637516,
+    "ROIC": 1.313417794471302
+  },
+  {
+    "Date": "1966-05-27",
+    "NetCapitalInvested": 197,
+    "NetValuation": 429.8673948511612,
+    "ROIC": 1.182067994168331
+  },
+  {
+    "Date": "1966-06-02",
+    "NetCapitalInvested": 198,
+    "NetValuation": 423.91583219479026,
+    "ROIC": 1.1409890514888397
+  },
+  {
+    "Date": "1966-07-11",
+    "NetCapitalInvested": 199,
+    "NetValuation": 419.1689034654303,
+    "ROIC": 1.1063763993237703
+  },
+  {
+    "Date": "1966-08-30",
+    "NetCapitalInvested": 200,
+    "NetValuation": 387.594365723126,
+    "ROIC": 0.9379718286156299
+  },
+  {
+    "Date": "1966-09-16",
+    "NetCapitalInvested": 201,
+    "NetValuation": 385.83681665373615,
+    "ROIC": 0.9195861525061501
+  },
+  {
+    "Date": "1966-10-24",
+    "NetCapitalInvested": 202,
+    "NetValuation": 405.20389859989433,
+    "ROIC": 1.0059598940588828
+  },
+  {
+    "Date": "1966-11-23",
+    "NetCapitalInvested": 203,
+    "NetValuation": 407.4699951675816,
+    "ROIC": 1.0072413555053281
+  },
+  {
+    "Date": "1966-12-01",
+    "NetCapitalInvested": 204,
+    "NetValuation": 407.8653308503012,
+    "ROIC": 0.9993398571093195
+  },
+  {
+    "Date": "1967-01-13",
+    "NetCapitalInvested": 205,
+    "NetValuation": 440.7758366366335,
+    "ROIC": 1.150126032373822
+  },
+  {
+    "Date": "1967-02-08",
+    "NetCapitalInvested": 206,
+    "NetValuation": 442.63028516328257,
+    "ROIC": 1.148690704676129
+  },
+  {
+    "Date": "1967-03-22",
+    "NetCapitalInvested": 207,
+    "NetValuation": 461.07379170506755,
+    "ROIC": 1.2274096217636115
+  },
+  {
+    "Date": "1967-04-05",
+    "NetCapitalInvested": 208,
+    "NetValuation": 481.59630185809084,
+    "ROIC": 1.315366835856206
+  },
+  {
+    "Date": "1967-05-26",
+    "NetCapitalInvested": 209,
+    "NetValuation": 457.31991587996265,
+    "ROIC": 1.188133568803649
+  },
+  {
+    "Date": "1967-06-06",
+    "NetCapitalInvested": 210,
+    "NetValuation": 466.3332055436133,
+    "ROIC": 1.2206343121124443
+  },
+  {
+    "Date": "1967-07-28",
+    "NetCapitalInvested": 211,
+    "NetValuation": 488.48147210441016,
+    "ROIC": 1.3150780668455457
+  },
+  {
+    "Date": "1967-08-03",
+    "NetCapitalInvested": 212,
+    "NetValuation": 483.7377758715589,
+    "ROIC": 1.2817819616582966
+  },
+  {
+    "Date": "1967-09-28",
+    "NetCapitalInvested": 213,
+    "NetValuation": 500.59635741257165,
+    "ROIC": 1.3502176404346087
+  },
+  {
+    "Date": "1967-10-27",
+    "NetCapitalInvested": 214,
+    "NetValuation": 483.92782085373597,
+    "ROIC": 1.2613449572604485
+  },
+  {
+    "Date": "1967-11-10",
+    "NetCapitalInvested": 215,
+    "NetValuation": 488.57798841973687,
+    "ROIC": 1.2724557600917994
+  },
+  {
+    "Date": "1967-12-29",
+    "NetCapitalInvested": 216,
+    "NetValuation": 502.41615471119167,
+    "ROIC": 1.326000716255517
+  },
+  {
+    "Date": "1968-01-12",
+    "NetCapitalInvested": 217,
+    "NetValuation": 481.3399781318373,
+    "ROIC": 1.2181565812527064
+  },
+  {
+    "Date": "1968-02-01",
+    "NetCapitalInvested": 218,
+    "NetValuation": 467.2765775038508,
+    "ROIC": 1.1434705390084898
+  },
+  {
+    "Date": "1968-03-12",
+    "NetCapitalInvested": 219,
+    "NetValuation": 472.6687285150864,
+    "ROIC": 1.1583046964159196
+  },
+  {
+    "Date": "1968-04-10",
+    "NetCapitalInvested": 220,
+    "NetValuation": 511.7315070572362,
+    "ROIC": 1.326052304805619
+  },
+  {
+    "Date": "1968-05-24",
+    "NetCapitalInvested": 221,
+    "NetValuation": 519.153088431655,
+    "ROIC": 1.349108997428303
+  },
+  {
+    "Date": "1968-06-13",
+    "NetCapitalInvested": 222,
+    "NetValuation": 524.8714727924604,
+    "ROIC": 1.3642859134795513
+  },
+  {
+    "Date": "1968-07-01",
+    "NetCapitalInvested": 223,
+    "NetValuation": 516.1564043452387,
+    "ROIC": 1.3146027100683348
+  },
+  {
+    "Date": "1968-08-19",
+    "NetCapitalInvested": 224,
+    "NetValuation": 523.0696123939889,
+    "ROIC": 1.3351321981874504
+  },
+  {
+    "Date": "1968-09-17",
+    "NetCapitalInvested": 225,
+    "NetValuation": 544.2399016079684,
+    "ROIC": 1.418844007146526
+  },
+  {
+    "Date": "1968-10-04",
+    "NetCapitalInvested": 226,
+    "NetValuation": 549.1596496899658,
+    "ROIC": 1.4299099543803797
+  },
+  {
+    "Date": "1968-11-13",
+    "NetCapitalInvested": 227,
+    "NetValuation": 576.5305891910419,
+    "ROIC": 1.5397823312380703
+  },
+  {
+    "Date": "1968-12-27",
+    "NetCapitalInvested": 228,
+    "NetValuation": 553.5288963274401,
+    "ROIC": 1.4277583172256143
+  },
+  {
+    "Date": "1969-01-23",
+    "NetCapitalInvested": 229,
+    "NetValuation": 550.0044262269088,
+    "ROIC": 1.4017660533926148
+  },
+  {
+    "Date": "1969-02-27",
+    "NetCapitalInvested": 230,
+    "NetValuation": 524.9483918980359,
+    "ROIC": 1.282384312600156
+  },
+  {
+    "Date": "1969-03-04",
+    "NetCapitalInvested": 231,
+    "NetValuation": 544.0518192412261,
+    "ROIC": 1.3552026806979485
+  },
+  {
+    "Date": "1969-04-01",
+    "NetCapitalInvested": 232,
+    "NetValuation": 556.7581041426295,
+    "ROIC": 1.3998194144078857
+  },
+  {
+    "Date": "1969-05-22",
+    "NetCapitalInvested": 233,
+    "NetValuation": 556.5122323500672,
+    "ROIC": 1.3884645165238934
+  },
+  {
+    "Date": "1969-06-17",
+    "NetCapitalInvested": 234,
+    "NetValuation": 526.5804825261876,
+    "ROIC": 1.250343942419605
+  },
+  {
+    "Date": "1969-07-08",
+    "NetCapitalInvested": 235,
+    "NetValuation": 495.83247321402416,
+    "ROIC": 1.1099254179320177
+  },
+  {
+    "Date": "1969-08-07",
+    "NetCapitalInvested": 236,
+    "NetValuation": 516.7186604083172,
+    "ROIC": 1.1894858491877847
+  },
+  {
+    "Date": "1969-09-12",
+    "NetCapitalInvested": 237,
+    "NetValuation": 504.77779133117934,
+    "ROIC": 1.1298640984437947
+  },
+  {
+    "Date": "1969-10-13",
+    "NetCapitalInvested": 238,
+    "NetValuation": 527.4878675333212,
+    "ROIC": 1.2163355778710974
+  },
+  {
+    "Date": "1969-11-05",
+    "NetCapitalInvested": 239,
+    "NetValuation": 510.47103841308666,
+    "ROIC": 1.1358620854104045
+  },
+  {
+    "Date": "1969-12-26",
+    "NetCapitalInvested": 240,
+    "NetValuation": 501.9501902609731,
+    "ROIC": 1.0914591260873878
+  },
+  {
+    "Date": "1970-01-23",
+    "NetCapitalInvested": 241,
+    "NetValuation": 464.51644843350937,
+    "ROIC": 0.9274541428776323
+  },
+  {
+    "Date": "1970-02-24",
+    "NetCapitalInvested": 242,
+    "NetValuation": 490.01059946491694,
+    "ROIC": 1.0248371878715576
+  },
+  {
+    "Date": "1970-03-04",
+    "NetCapitalInvested": 243,
+    "NetValuation": 491.7177931725995,
+    "ROIC": 1.023530013055965
+  },
+  {
+    "Date": "1970-04-28",
+    "NetCapitalInvested": 244,
+    "NetValuation": 448.2412167521682,
+    "ROIC": 0.8370541670170828
+  },
+  {
+    "Date": "1970-05-01",
+    "NetCapitalInvested": 245,
+    "NetValuation": 421.8534143626365,
+    "ROIC": 0.7218506708679041
+  },
+  {
+    "Date": "1970-06-26",
+    "NetCapitalInvested": 246,
+    "NetValuation": 401.7367583415581,
+    "ROIC": 0.6330762534209677
+  },
+  {
+    "Date": "1970-07-16",
+    "NetCapitalInvested": 247,
+    "NetValuation": 432.2043853316463,
+    "ROIC": 0.7498153252293371
+  },
+  {
+    "Date": "1970-08-25",
+    "NetCapitalInvested": 248,
+    "NetValuation": 452.42455290414796,
+    "ROIC": 0.8242925520328547
+  },
+  {
+    "Date": "1970-09-11",
+    "NetCapitalInvested": 249,
+    "NetValuation": 468.87473306294544,
+    "ROIC": 0.8830310564776925
+  },
+  {
+    "Date": "1970-10-06",
+    "NetCapitalInvested": 250,
+    "NetValuation": 463.99320553940777,
+    "ROIC": 0.855972822157631
+  },
+  {
+    "Date": "1970-11-09",
+    "NetCapitalInvested": 251,
+    "NetValuation": 487.0383794885692,
+    "ROIC": 0.9403919501536622
+  },
+  {
+    "Date": "1970-12-10",
+    "NetCapitalInvested": 252,
+    "NetValuation": 515.7104267701335,
+    "ROIC": 1.0464699475005297
+  },
+  {
+    "Date": "1971-01-29",
+    "NetCapitalInvested": 253,
+    "NetValuation": 537.5850864755333,
+    "ROIC": 1.1248422390337285
+  },
+  {
+    "Date": "1971-02-03",
+    "NetCapitalInvested": 254,
+    "NetValuation": 543.4642906249487,
+    "ROIC": 1.139623191436806
+  },
+  {
+    "Date": "1971-03-22",
+    "NetCapitalInvested": 255,
+    "NetValuation": 564.4584487407291,
+    "ROIC": 1.2135625440812905
+  },
+  {
+    "Date": "1971-04-05",
+    "NetCapitalInvested": 256,
+    "NetValuation": 585.9725919398542,
+    "ROIC": 1.2889554372650553
+  },
+  {
+    "Date": "1971-05-26",
+    "NetCapitalInvested": 257,
+    "NetValuation": 562.6208858696249,
+    "ROIC": 1.1891863263409528
+  },
+  {
+    "Date": "1971-06-18",
+    "NetCapitalInvested": 258,
+    "NetValuation": 558.3663518497075,
+    "ROIC": 1.1642106660841376
+  },
+  {
+    "Date": "1971-07-27",
+    "NetCapitalInvested": 259,
+    "NetValuation": 541.6933658588194,
+    "ROIC": 1.091480177061079
+  },
+  {
+    "Date": "1971-08-03",
+    "NetCapitalInvested": 260,
+    "NetValuation": 562.293839657038,
+    "ROIC": 1.162668614065531
+  },
+  {
+    "Date": "1971-09-03",
+    "NetCapitalInvested": 261,
+    "NetValuation": 559.3526702468813,
+    "ROIC": 1.1431136791068248
+  },
+  {
+    "Date": "1971-10-22",
+    "NetCapitalInvested": 262,
+    "NetValuation": 536.961188517551,
+    "ROIC": 1.0494701851814925
+  },
+  {
+    "Date": "1971-11-11",
+    "NetCapitalInvested": 263,
+    "NetValuation": 536.6138696905448,
+    "ROIC": 1.0403569189754556
+  },
+  {
+    "Date": "1971-12-06",
+    "NetCapitalInvested": 264,
+    "NetValuation": 583.9167385439312,
+    "ROIC": 1.2118058278179211
+  },
+  {
+    "Date": "1972-01-03",
+    "NetCapitalInvested": 265,
+    "NetValuation": 595.5203759589937,
+    "ROIC": 1.2472467017320517
+  },
+  {
+    "Date": "1972-02-04",
+    "NetCapitalInvested": 266,
+    "NetValuation": 611.6051708975274,
+    "ROIC": 1.2992675597651406
+  },
+  {
+    "Date": "1972-03-01",
+    "NetCapitalInvested": 267,
+    "NetValuation": 616.2193432495808,
+    "ROIC": 1.3079376151669693
+  },
+  {
+    "Date": "1972-04-20",
+    "NetCapitalInvested": 268,
+    "NetValuation": 619.9084869944417,
+    "ROIC": 1.313091369382245
+  },
+  {
+    "Date": "1972-05-30",
+    "NetCapitalInvested": 269,
+    "NetValuation": 631.6099795237085,
+    "ROIC": 1.3479924889357193
+  },
+  {
+    "Date": "1972-06-22",
+    "NetCapitalInvested": 270,
+    "NetValuation": 618.8137602632677,
+    "ROIC": 1.2919028157898802
+  },
+  {
+    "Date": "1972-07-31",
+    "NetCapitalInvested": 271,
+    "NetValuation": 621.2576975422095,
+    "ROIC": 1.2924638285690386
+  },
+  {
+    "Date": "1972-08-10",
+    "NetCapitalInvested": 272,
+    "NetValuation": 643.6627833284196,
+    "ROIC": 1.3664072916486012
+  },
+  {
+    "Date": "1972-09-12",
+    "NetCapitalInvested": 273,
+    "NetValuation": 641.5531635392591,
+    "ROIC": 1.3500115880558943
+  },
+  {
+    "Date": "1972-10-04",
+    "NetCapitalInvested": 274,
+    "NetValuation": 648.5440815334761,
+    "ROIC": 1.3669492026769199
+  },
+  {
+    "Date": "1972-11-27",
+    "NetCapitalInvested": 275,
+    "NetValuation": 679.1286090191902,
+    "ROIC": 1.4695585782516007
+  },
+  {
+    "Date": "1972-12-01",
+    "NetCapitalInvested": 276,
+    "NetValuation": 688.1672087260297,
+    "ROIC": 1.4933594519059046
+  },
+  {
+    "Date": "1973-01-23",
+    "NetCapitalInvested": 277,
+    "NetValuation": 677.3731840550153,
+    "ROIC": 1.4453905561552898
+  },
+  {
+    "Date": "1973-02-16",
+    "NetCapitalInvested": 278,
+    "NetValuation": 652.9495566628315,
+    "ROIC": 1.3487394124562284
+  },
+  {
+    "Date": "1973-03-27",
+    "NetCapitalInvested": 279,
+    "NetValuation": 653.0137402938109,
+    "ROIC": 1.3405510404796088
+  },
+  {
+    "Date": "1973-04-19",
+    "NetCapitalInvested": 280,
+    "NetValuation": 627.3245151727317,
+    "ROIC": 1.2404446970454703
+  },
+  {
+    "Date": "1973-05-08",
+    "NetCapitalInvested": 281,
+    "NetValuation": 616.4216157839759,
+    "ROIC": 1.1936712305479569
+  },
+  {
+    "Date": "1973-06-08",
+    "NetCapitalInvested": 282,
+    "NetValuation": 613.3430347143718,
+    "ROIC": 1.1749753004055739
+  },
+  {
+    "Date": "1973-07-19",
+    "NetCapitalInvested": 283,
+    "NetValuation": 637.6546837206969,
+    "ROIC": 1.2531967622639466
+  },
+  {
+    "Date": "1973-08-27",
+    "NetCapitalInvested": 284,
+    "NetValuation": 615.2804879873014,
+    "ROIC": 1.1664805915045824
+  },
+  {
+    "Date": "1973-09-13",
+    "NetCapitalInvested": 285,
+    "NetValuation": 640.9997790754566,
+    "ROIC": 1.2491220318437073
+  },
+  {
+    "Date": "1973-10-02",
+    "NetCapitalInvested": 286,
+    "NetValuation": 641.1675526205388,
+    "ROIC": 1.2418445895823036
+  },
+  {
+    "Date": "1973-11-30",
+    "NetCapitalInvested": 287,
+    "NetValuation": 569.1636194428562,
+    "ROIC": 0.9831484998008927
+  },
+  {
+    "Date": "1973-12-03",
+    "NetCapitalInvested": 288,
+    "NetValuation": 579.6331924885162,
+    "ROIC": 1.0126152516962368
+  },
+  {
+    "Date": "1974-01-22",
+    "NetCapitalInvested": 289,
+    "NetValuation": 574.8103291210924,
+    "ROIC": 0.9889630765435724
+  },
+  {
+    "Date": "1974-02-01",
+    "NetCapitalInvested": 290,
+    "NetValuation": 573.7364778956352,
+    "ROIC": 0.9784016479159834
+  },
+  {
+    "Date": "1974-03-07",
+    "NetCapitalInvested": 291,
+    "NetValuation": 561.349367879491,
+    "ROIC": 0.9290356284518589
+  },
+  {
+    "Date": "1974-04-23",
+    "NetCapitalInvested": 292,
+    "NetValuation": 540.4118531553793,
+    "ROIC": 0.8507255245047235
+  },
+  {
+    "Date": "1974-05-28",
+    "NetCapitalInvested": 293,
+    "NetValuation": 523.2681055748682,
+    "ROIC": 0.7858979712452838
+  },
+  {
+    "Date": "1974-06-06",
+    "NetCapitalInvested": 294,
+    "NetValuation": 516.52933540242,
+    "ROIC": 0.7569025013687755
+  },
+  {
+    "Date": "1974-07-03",
+    "NetCapitalInvested": 295,
+    "NetValuation": 477.28952301732517,
+    "ROIC": 0.6179305864994074
+  },
+  {
+    "Date": "1974-08-23",
+    "NetCapitalInvested": 296,
+    "NetValuation": 435.2088533485724,
+    "ROIC": 0.47030018023166353
+  },
+  {
+    "Date": "1974-09-25",
+    "NetCapitalInvested": 297,
+    "NetValuation": 384.21368512934214,
+    "ROIC": 0.29364877147926643
+  },
+  {
+    "Date": "1974-10-16",
+    "NetCapitalInvested": 298,
+    "NetValuation": 447.9092959695999,
+    "ROIC": 0.5030513287570466
+  },
+  {
+    "Date": "1974-11-20",
+    "NetCapitalInvested": 299,
+    "NetValuation": 425.11997774081084,
+    "ROIC": 0.4218059456214409
+  },
+  {
+    "Date": "1974-12-31",
+    "NetCapitalInvested": 300,
+    "NetValuation": 417.5531752738315,
+    "ROIC": 0.3918439175794384
+  },
+  {
+    "Date": "1975-01-09",
+    "NetCapitalInvested": 301,
+    "NetValuation": 469.91540787442864,
+    "ROIC": 0.5611807570579025
+  },
+  {
+    "Date": "1975-02-05",
+    "NetCapitalInvested": 302,
+    "NetValuation": 499.0900526613465,
+    "ROIC": 0.6526160684150546
+  },
+  {
+    "Date": "1975-03-13",
+    "NetCapitalInvested": 303,
+    "NetValuation": 510.9126920730318,
+    "ROIC": 0.6861805018911941
+  },
+  {
+    "Date": "1975-04-07",
+    "NetCapitalInvested": 304,
+    "NetValuation": 536.1474132998305,
+    "ROIC": 0.7636428069073373
+  },
+  {
+    "Date": "1975-05-23",
+    "NetCapitalInvested": 305,
+    "NetValuation": 560.7982369067767,
+    "ROIC": 0.8386827439566448
+  },
+  {
+    "Date": "1975-06-19",
+    "NetCapitalInvested": 306,
+    "NetValuation": 586.6886911738619,
+    "ROIC": 0.9172833044897448
+  },
+  {
+    "Date": "1975-07-30",
+    "NetCapitalInvested": 307,
+    "NetValuation": 547.9958568535096,
+    "ROIC": 0.7850027910537772
+  },
+  {
+    "Date": "1975-08-05",
+    "NetCapitalInvested": 308,
+    "NetValuation": 537.4568905818825,
+    "ROIC": 0.7449899044866314
+  },
+  {
+    "Date": "1975-09-02",
+    "NetCapitalInvested": 309,
+    "NetValuation": 519.8175994977125,
+    "ROIC": 0.6822576035524678
+  },
+  {
+    "Date": "1975-10-28",
+    "NetCapitalInvested": 310,
+    "NetValuation": 552.8444843389018,
+    "ROIC": 0.7833693043190381
+  },
+  {
+    "Date": "1975-11-03",
+    "NetCapitalInvested": 311,
+    "NetValuation": 567.5399227540455,
+    "ROIC": 0.8248872114277991
+  },
+  {
+    "Date": "1975-12-03",
+    "NetCapitalInvested": 312,
+    "NetValuation": 562.0381768324412,
+    "ROIC": 0.801404412924491
+  },
+  {
+    "Date": "1976-01-27",
+    "NetCapitalInvested": 313,
+    "NetValuation": 629.548620370214,
+    "ROIC": 1.0113374452722494
+  },
+  {
+    "Date": "1976-02-13",
+    "NetCapitalInvested": 314,
+    "NetValuation": 623.3709440282573,
+    "ROIC": 0.9852577835294819
+  },
+  {
+    "Date": "1976-03-30",
+    "NetCapitalInvested": 315,
+    "NetValuation": 643.5090239916665,
+    "ROIC": 1.0428857904497348
+  },
+  {
+    "Date": "1976-04-05",
+    "NetCapitalInvested": 316,
+    "NetValuation": 637.4153018124903,
+    "ROIC": 1.0171370310521843
+  },
+  {
+    "Date": "1976-05-12",
+    "NetCapitalInvested": 317,
+    "NetValuation": 629.2339965931757,
+    "ROIC": 0.9849652889374627
+  },
+  {
+    "Date": "1976-06-18",
+    "NetCapitalInvested": 318,
+    "NetValuation": 655.9912479869547,
+    "ROIC": 1.0628655597074048
+  },
+  {
+    "Date": "1976-07-27",
+    "NetCapitalInvested": 319,
+    "NetValuation": 651.7066971857699,
+    "ROIC": 1.0429677027767084
+  },
+  {
+    "Date": "1976-08-20",
+    "NetCapitalInvested": 320,
+    "NetValuation": 649.3727943892044,
+    "ROIC": 1.0292899824662638
+  },
+  {
+    "Date": "1976-09-02",
+    "NetCapitalInvested": 321,
+    "NetValuation": 665.0880386009188,
+    "ROIC": 1.0719253538969433
+  },
+  {
+    "Date": "1976-10-14",
+    "NetCapitalInvested": 322,
+    "NetValuation": 651.3202053261535,
+    "ROIC": 1.0227335569135203
+  },
+  {
+    "Date": "1976-11-03",
+    "NetCapitalInvested": 323,
+    "NetValuation": 647.2582574788095,
+    "ROIC": 1.003895533990122
+  },
+  {
+    "Date": "1976-12-23",
+    "NetCapitalInvested": 324,
+    "NetValuation": 682.2627215945929,
+    "ROIC": 1.1057491407240523
+  },
+  {
+    "Date": "1977-01-12",
+    "NetCapitalInvested": 325,
+    "NetValuation": 648.774443432529,
+    "ROIC": 0.9962290567154738
+  },
+  {
+    "Date": "1977-02-01",
+    "NetCapitalInvested": 326,
+    "NetValuation": 635.6952707224758,
+    "ROIC": 0.9499854930137295
+  },
+  {
+    "Date": "1977-03-11",
+    "NetCapitalInvested": 327,
+    "NetValuation": 627.7573325383142,
+    "ROIC": 0.9197471943067714
+  },
+  {
+    "Date": "1977-04-18",
+    "NetCapitalInvested": 328,
+    "NetValuation": 628.864012354754,
+    "ROIC": 0.9172683303498597
+  },
+  {
+    "Date": "1977-05-23",
+    "NetCapitalInvested": 329,
+    "NetValuation": 615.022479374001,
+    "ROIC": 0.869369238218848
+  },
+  {
+    "Date": "1977-06-09",
+    "NetCapitalInvested": 330,
+    "NetValuation": 643.9437220521437,
+    "ROIC": 0.9513446122792233
+  },
+  {
+    "Date": "1977-07-18",
+    "NetCapitalInvested": 331,
+    "NetValuation": 634.4767784829994,
+    "ROIC": 0.9168482733625359
+  },
+  {
+    "Date": "1977-08-31",
+    "NetCapitalInvested": 332,
+    "NetValuation": 622.1261290217487,
+    "ROIC": 0.8738738825956287
+  },
+  {
+    "Date": "1977-09-06",
+    "NetCapitalInvested": 333,
+    "NetValuation": 621.571112807991,
+    "ROIC": 0.8665799183423152
+  },
+  {
+    "Date": "1977-10-26",
+    "NetCapitalInvested": 334,
+    "NetValuation": 595.5936817638437,
+    "ROIC": 0.7832146160594123
+  },
+  {
+    "Date": "1977-11-17",
+    "NetCapitalInvested": 335,
+    "NetValuation": 612.6507323043571,
+    "ROIC": 0.8288081561324093
+  },
+  {
+    "Date": "1977-12-09",
+    "NetCapitalInvested": 336,
+    "NetValuation": 615.4105548064873,
+    "ROIC": 0.8315790321621647
+  },
+  {
+    "Date": "1978-01-06",
+    "NetCapitalInvested": 337,
+    "NetValuation": 578.5282018594388,
+    "ROIC": 0.7167008957253377
+  },
+  {
+    "Date": "1978-02-17",
+    "NetCapitalInvested": 338,
+    "NetValuation": 565.1922823232377,
+    "ROIC": 0.6721665157492239
+  },
+  {
+    "Date": "1978-03-29",
+    "NetCapitalInvested": 339,
+    "NetValuation": 580.2783315506284,
+    "ROIC": 0.7117354912997889
+  },
+  {
+    "Date": "1978-04-03",
+    "NetCapitalInvested": 340,
+    "NetValuation": 630.9382558942383,
+    "ROIC": 0.8557007526301126
+  },
+  {
+    "Date": "1978-05-10",
+    "NetCapitalInvested": 341,
+    "NetValuation": 634.6235518547094,
+    "ROIC": 0.8610661344712885
+  },
+  {
+    "Date": "1978-06-20",
+    "NetCapitalInvested": 342,
+    "NetValuation": 624.4533164950333,
+    "ROIC": 0.8258868903363547
+  },
+  {
+    "Date": "1978-07-25",
+    "NetCapitalInvested": 343,
+    "NetValuation": 659.1402039959697,
+    "ROIC": 0.9216915568395619
+  },
+  {
+    "Date": "1978-08-18",
+    "NetCapitalInvested": 344,
+    "NetValuation": 677.2138195946917,
+    "ROIC": 0.9686448244031736
+  },
+  {
+    "Date": "1978-09-19",
+    "NetCapitalInvested": 345,
+    "NetValuation": 673.2965934298028,
+    "ROIC": 0.951584328782037
+  },
+  {
+    "Date": "1978-10-26",
+    "NetCapitalInvested": 346,
+    "NetValuation": 612.6101271601162,
+    "ROIC": 0.7705495004627637
+  },
+  {
+    "Date": "1978-11-21",
+    "NetCapitalInvested": 347,
+    "NetValuation": 623.8005916360479,
+    "ROIC": 0.7976962294986971
+  },
+  {
+    "Date": "1978-12-04",
+    "NetCapitalInvested": 348,
+    "NetValuation": 634.0880196976208,
+    "ROIC": 0.8220920106253471
+  },
+  {
+    "Date": "1979-01-03",
+    "NetCapitalInvested": 349,
+    "NetValuation": 660.3123400440618,
+    "ROIC": 0.8920124356563375
+  },
+  {
+    "Date": "1979-02-28",
+    "NetCapitalInvested": 350,
+    "NetValuation": 637.1940568342067,
+    "ROIC": 0.8205544480977334
+  },
+  {
+    "Date": "1979-03-30",
+    "NetCapitalInvested": 351,
+    "NetValuation": 673.3363547339744,
+    "ROIC": 0.9183371929742861
+  },
+  {
+    "Date": "1979-04-25",
+    "NetCapitalInvested": 352,
+    "NetValuation": 675.4558915984381,
+    "ROIC": 0.9189087829501084
+  },
+  {
+    "Date": "1979-05-29",
+    "NetCapitalInvested": 353,
+    "NetValuation": 658.6570672254579,
+    "ROIC": 0.8658840431316088
+  },
+  {
+    "Date": "1979-06-14",
+    "NetCapitalInvested": 354,
+    "NetValuation": 685.1248194693693,
+    "ROIC": 0.9353808459586703
+  },
+  {
+    "Date": "1979-07-10",
+    "NetCapitalInvested": 355,
+    "NetValuation": 692.1128397369565,
+    "ROIC": 0.9496136330618493
+  },
+  {
+    "Date": "1979-08-21",
+    "NetCapitalInvested": 356,
+    "NetValuation": 729.852388408681,
+    "ROIC": 1.050147158451351
+  },
+  {
+    "Date": "1979-09-18",
+    "NetCapitalInvested": 357,
+    "NetValuation": 730.8646106309033,
+    "ROIC": 1.0472398056888046
+  },
+  {
+    "Date": "1979-10-05",
+    "NetCapitalInvested": 358,
+    "NetValuation": 681.6380375513658,
+    "ROIC": 0.9040168646686194
+  },
+  {
+    "Date": "1979-11-01",
+    "NetCapitalInvested": 359,
+    "NetValuation": 711.7273405626339,
+    "ROIC": 0.9825274110379775
+  },
+  {
+    "Date": "1979-12-12",
+    "NetCapitalInvested": 360,
+    "NetValuation": 724.6648815733864,
+    "ROIC": 1.0129580043705178
+  },
+  {
+    "Date": "1980-01-30",
+    "NetCapitalInvested": 361,
+    "NetValuation": 767.4143822687091,
+    "ROIC": 1.1258016129327122
+  },
+  {
+    "Date": "1980-02-19",
+    "NetCapitalInvested": 362,
+    "NetValuation": 765.0450446543142,
+    "ROIC": 1.1133841012550116
+  },
+  {
+    "Date": "1980-03-18",
+    "NetCapitalInvested": 363,
+    "NetValuation": 688.1481085770077,
+    "ROIC": 0.8957248170165503
+  },
+  {
+    "Date": "1980-04-08",
+    "NetCapitalInvested": 364,
+    "NetValuation": 717.508935493037,
+    "ROIC": 0.9711783942116402
+  },
+  {
+    "Date": "1980-05-09",
+    "NetCapitalInvested": 365,
+    "NetValuation": 751.9860921482398,
+    "ROIC": 1.060235868899287
+  },
+  {
+    "Date": "1980-06-05",
+    "NetCapitalInvested": 366,
+    "NetValuation": 773.2791372784612,
+    "ROIC": 1.1127845280832274
+  },
+  {
+    "Date": "1980-07-09",
+    "NetCapitalInvested": 367,
+    "NetValuation": 824.6033408491506,
+    "ROIC": 1.2468755881448246
+  },
+  {
+    "Date": "1980-08-19",
+    "NetCapitalInvested": 368,
+    "NetValuation": 830.4134833727363,
+    "ROIC": 1.2565583787302617
+  },
+  {
+    "Date": "1980-09-29",
+    "NetCapitalInvested": 369,
+    "NetValuation": 852.3284654010008,
+    "ROIC": 1.309833239569108
+  },
+  {
+    "Date": "1980-10-21",
+    "NetCapitalInvested": 370,
+    "NetValuation": 866.9505097852954,
+    "ROIC": 1.3431094859062036
+  },
+  {
+    "Date": "1980-11-06",
+    "NetCapitalInvested": 371,
+    "NetValuation": 956.7963908727386,
+    "ROIC": 1.5789660131340664
+  },
+  {
+    "Date": "1980-12-10",
+    "NetCapitalInvested": 372,
+    "NetValuation": 925.444171136126,
+    "ROIC": 1.4877531482153925
+  }
+]

@@ -1,129 +1,268 @@
 import pandas as pd
-import json
 import numpy as np
+import os
 import matplotlib.pyplot as plt
+from matplotlib.gridspec import GridSpec
+import matplotlib.dates as mdates
 
-# Load 2x index data
-with open('./data/SPX_2x.json', 'r') as f:
-    records = json.load(f)
-df = pd.DataFrame(records)
-df['Date'] = pd.to_datetime(df['Date'])
+"""
+Dynamic Stock Market Investment Strategy Simulation
 
-# Parameters
-sma_col = 'SMA_2x_600'  # SMA2 (assumed to be 2-day SMA, but check your data)
-monthly_invest = 1.0
+This script simulates a dynamic investment strategy in a 2x leveraged index with the following rules:
+1. Invests $1 per month based on price and moving average conditions
+2. Sells all 2x holdings if SMA1 > SMA2 > price and blocks further investments until price > SMA1
+3. Invests monthly when price > SMA2
+4. Uses savings strategically when SMA1 < price < SMA2
+5. Maintains a minimum savings threshold of invested capital
+6. Invests 30% of excess savings when above threshold, all remaining savings when below threshold
+7. Tracks net value, return on invested capital (ROIC), and other metrics
+8. Executes only one action per month, then stops until the next month
 
-# State variables
-lev2x_units = 0.0
-saved_cash = 0.0
-total_invested = 0.0
+The strategy aims to optimize returns by timing investments based on price relative to moving averages.
+"""
 
-# For results
-history = []
-
-# Group by month for monthly investment
-monthly_groups = df.groupby([df['Date'].dt.year, df['Date'].dt.month])
-
-for (year, month), group in monthly_groups:
-    # Pick a random day in this month
-    day = group.sample(1, random_state=year*100+month).iloc[0]
-    date = day['Date']
-    price = day['Close_2x']  # 2x index price
-    sma2 = day[sma_col]
-    sma1 = day['SMA_2x_300']  # Assuming SMA1 is 300-period SMA, adjust if necessary
+# Function to add vertical grid lines at month starts
+def add_month_start_grid(ax, date_index, color='gray', linestyle='-', alpha=0.3):
+    # Get the first day of each month in the date range
+    month_starts = [date for date in date_index if date.day == 1]
     
-    # Debugging output
-    print(f"Date: {date}, Price: {price:.2f}, SMA2: {sma2:.2f}, Condition (price > sma2): {price > sma2}")
-    # Investment logic
-    # Treat NaN SMA as a condition to invest $1
-    if pd.isna(sma2) or price > sma2:
-        # Invest $1 in 2x index
-        lev2x_units += monthly_invest / price
-        total_invested += monthly_invest
-        action = f'Invest $1 in 2x at {price:.2f}'
-    elif sma2 >= price:
-        # Pull out cash from 2x index
-        if lev2x_units > 0:
-            cash_out = lev2x_units * price
-            saved_cash += cash_out
-            lev2x_units = 0  # Reset units after pulling out cash
-            action = f'Pulled out ${cash_out:.2f} from 2x index, total saved: ${saved_cash:.2f}'
-        else:
-            action = 'No units in 2x index to pull out cash.'
-    elif sma2 > 2 * price > sma1:
-        # Restart investing in main index and 2x index
-        n_months = 10  # Number of months to deplete savings
-        main_investment = saved_cash / (2 * n_months)  # Divide savings into 2n parts
-        lev2x_investment = saved_cash / (2 * n_months) + monthly_invest  # Add $1 to each n part for 2x index
+    # Add vertical lines for month starts
+    for date in month_starts:
+        ax.axvline(x=date, color=color, linestyle=linestyle, alpha=alpha)
+    
+    # Format x-axis to show month and year
+    ax.xaxis.set_major_formatter(mdates.DateFormatter('%b %Y'))
+    ax.xaxis.set_major_locator(mdates.MonthLocator())
+    
+    # Rotate date labels for better readability
+    plt.setp(ax.xaxis.get_majorticklabels(), rotation=45)
 
-        # Invest in main index
-        main_index_units = main_investment / price
-        saved_cash -= main_investment
+# Reading the data
+file_path_2x = './data/SPX_2x.json'
+data_2x = pd.read_json(file_path_2x)
+data_2x['Date'] = pd.to_datetime(data_2x['Date'])
+data_2x.set_index('Date', inplace=True)
 
-        # Invest in 2x index
-        lev2x_units += lev2x_investment / price
-        total_invested += lev2x_investment
-        saved_cash -= lev2x_investment
+# Filter data_2x for the selected date range
+start_date = pd.to_datetime('1960-01-01')
+end_date = pd.to_datetime('1980-12-31')
+data_2x = data_2x[(data_2x.index >= start_date) & (data_2x.index <= end_date)]
 
-        action = (f'Restarted investing: ${main_investment:.2f} in main index and '
-                  f'${lev2x_investment:.2f} in 2x index at {price:.2f}, '
-                  f'remaining savings: ${saved_cash:.2f}')
-    else:
-        # Save $1 (do not add to total_invested)
-        saved_cash += monthly_invest
-        action = f'Save $1, total saved: ${saved_cash:.2f}'
+# Using daily data directly instead of resampling to monthly
+daily_data = data_2x.copy()
+
+# Initializing variables
+savings_account = 0  # Start with zero savings
+invested_capital = 0
+shares_2x = 0
+results = []
+factor = 0.3  # Factor for investing from savings above threshold
+can_invest_2x = True
+monthly_investment = 1  # $1 per month
+savings_reinvest_counter = 0  # Counter for tracking savings re-investments
+savings_reinvest_counter_max = 5  # Maximum allowed re-investments before full investment
+
+# Track current month to implement one action per month rule
+current_month = None
+action_taken_this_month = False
+
+# Investment loop - using daily data
+for date, row in daily_data.iterrows():
+    price_2x = row['Close_2x']
+    sma1 = row['SMA_2x_300']
+    sma2 = row['SMA_2x_600']
+
+    if pd.isna(sma2) or price_2x is None:
+        continue
+    
+    # Check if we're in a new month
+    if current_month != date.month:
+        current_month = date.month
+        action_taken_this_month = False
+        # Add monthly investment at the start of each month
+        invested_capital += monthly_investment
+    
+    # Initialize daily tracking variables
+    investment_amount_this_day = 0
+    investment_amount_this_day_from_savings = 0
+    
+    # Only execute trading logic if we haven't taken an action this month
+    if not action_taken_this_month:
+        # Rule 1: Sell 2x and save all money if SMA1 > SMA2 > price
+        if sma1 > sma2 and sma2 > price_2x and shares_2x > 0:
+            savings_account += shares_2x * price_2x
+            shares_2x = 0
+            can_invest_2x = False  # Block further 2x investments
+            action_taken_this_month = True
+        
+        # Check if we can invest in 2x again
+        elif not can_invest_2x and price_2x > sma1:
+            can_invest_2x = True
+            action_taken_this_month = True
+        
+        # Decision for the monthly investment
+        elif can_invest_2x and price_2x > sma2:
+            # Rule 3: Invest monthly amount when price > SMA2
+            shares_2x += monthly_investment / price_2x
+            investment_amount_this_day = monthly_investment
+            
+            # Investment logic for savings based on threshold
+            if savings_account > 0:
+                # Check if we've reached the max reinvestment count
+                if savings_reinvest_counter >= savings_reinvest_counter_max:
+                    # Invest all remaining savings
+                    investment_amount = savings_account
+                    shares_2x += investment_amount / price_2x
+                    investment_amount_this_day_from_savings = investment_amount
+                    savings_account = 0
+                    savings_reinvest_counter = 0  # Reset counter
+                # If savings above threshold, invest a fixed factor of excess
+                else:
+                    investment_amount = factor * (savings_account)
+                    shares_2x += investment_amount / price_2x
+                    investment_amount_this_day_from_savings = investment_amount
+                    savings_account -= investment_amount
+                    savings_reinvest_counter += 1  # Increment counter
+            
+            action_taken_this_month = True
+        
+        # Rule 2: Invest from savings when SMA1 < price < SMA2
+        elif can_invest_2x and sma1 < price_2x and price_2x < sma2:
+            # Save the monthly investment
+            savings_account += monthly_investment
+            
+            # Investment logic for savings based on threshold
+            if savings_account > 0:
+                # Check if we've reached the max reinvestment count
+                if savings_reinvest_counter >= savings_reinvest_counter_max:
+                    # Invest all remaining savings
+                    investment_amount = savings_account
+                    shares_2x += investment_amount / price_2x
+                    investment_amount_this_day_from_savings = investment_amount
+                    savings_account = 0
+                    savings_reinvest_counter = 0  # Reset counter
+                # If savings above threshold, invest a fixed factor of excess
+                else:
+                    investment_amount = factor * (savings_account)
+                    shares_2x += investment_amount / price_2x
+                    investment_amount_this_day_from_savings = investment_amount
+                    savings_account -= investment_amount
+                    savings_reinvest_counter += 1  # Increment counter
+            
+            action_taken_this_month = True
+        
+        # Default action: Save monthly investment if no other conditions met
+        elif not action_taken_this_month:
+            savings_account += monthly_investment
+            action_taken_this_month = True
     
     # Calculate net value
-    net_value = (lev2x_units * price) + saved_cash
-    roic = (net_value - total_invested) / total_invested if total_invested > 0 else 0
+    index_2x_value = shares_2x * price_2x
+    net_value = index_2x_value + savings_account
     
-    # Record history
-    history.append({
+    # Calculate ROIC
+    roic = (net_value - invested_capital) / invested_capital if invested_capital > 0 else 0
+    
+    # Store results
+    results.append({
         'Date': date,
-        'Invested_Capital': total_invested,
+        'Invested_Capital': invested_capital,
         'Net_Value': net_value,
+        'Savings_Account': savings_account,
         'ROIC': roic,
-        'Saved_Cash': saved_cash,
-        'Action': action
+        '2x_Holding': index_2x_value,
+        'Investment_Amount': investment_amount_this_day,
+        'Investment_From_Savings': investment_amount_this_day_from_savings,
+        'Price_2x': price_2x,
+        'SMA1': sma1,
+        'SMA2': sma2,
+        'Action_Taken': action_taken_this_month
     })
+    
+# Creating DataFrame
+results_df = pd.DataFrame(results)
+results_df.set_index('Date', inplace=True)
 
-# Create DataFrame for results
-monthly = pd.DataFrame(history)
-monthly['Date'] = pd.to_datetime(monthly['Date'])
+# Set display options for maximum width and rows
+pd.set_option('display.max_rows', None)
+pd.set_option('display.width', None)
+pd.set_option('display.max_columns', None)
+pd.set_option('display.expand_frame_repr', False)
+print(f"Daily Results Summary with Price_2x, SMA1, and SMA2 data for {start_date.date()} to {end_date.date()}:")
+print(results_df)  # Show all days from start to end
 
-# Print all values
-print(monthly[['Date', 'Invested_Capital', 'Net_Value', 'ROIC', 'Saved_Cash']].to_string(index=False))
+# Print first and last values of the metrics
+print("\n===== FIRST AND LAST VALUES OF METRICS =====")
+print("\nFIRST VALUES:")
+first_row = results_df.iloc[0]
+print(f"Date: {results_df.index[0].strftime('%Y-%m-%d')}")
+print(f"Invested Capital: ${first_row['Invested_Capital']:.2f}")
+print(f"Net Value: ${first_row['Net_Value']:.2f}")
+print(f"Savings Account: ${first_row['Savings_Account']:.2f}")
+print(f"ROIC: {first_row['ROIC']:.4f}")
+print(f"2x Holding: ${first_row['2x_Holding']:.2f}")
+print(f"Price_2x: ${first_row['Price_2x']:.2f}")
+print(f"SMA1: ${first_row['SMA1']:.2f}")
+print(f"SMA2: ${first_row['SMA2']:.2f}")
 
-# Add columns for 2x index value and main index value
-monthly['2x_Index_Value'] = monthly['Net_Value'] - monthly['Saved_Cash']
-monthly['Main_Index_Value'] = monthly['Saved_Cash']
+print("\nLAST VALUES:")
+last_row = results_df.iloc[-1]
+print(f"Date: {results_df.index[-1].strftime('%Y-%m-%d')}")
+print(f"Invested Capital: ${last_row['Invested_Capital']:.2f}")
+print(f"Net Value: ${last_row['Net_Value']:.2f}")
+print(f"Savings Account: ${last_row['Savings_Account']:.2f}")
+print(f"ROIC: {last_row['ROIC']:.4f}")
+print(f"2x Holding: ${last_row['2x_Holding']:.2f}")
+print(f"Price_2x: ${last_row['Price_2x']:.2f}")
+print(f"SMA1: ${last_row['SMA1']:.2f}")
+print(f"SMA2: ${last_row['SMA2']:.2f}")
 
-# Print the values of 2x index and main index over the months
-print(monthly[['Date', '2x_Index_Value', 'Main_Index_Value']].to_string(index=False))
+# Plotting
+plt.figure(figsize=(14, 8))
 
-# Modify the existing plot to include 2x index value and main index value
-fig, axs = plt.subplots(2, 1, figsize=(14, 10), sharex=True, gridspec_kw={'height_ratios': [3, 1]})
+gs = GridSpec(2, 1, height_ratios=[3, 1])
 
-# Top: Invested Capital, Net Value, Saved Cash, 2x Index Value, Main Index Value
-axs[0].plot(monthly['Date'], monthly['Invested_Capital'], label='Invested Capital', color='blue')
-axs[0].plot(monthly['Date'], monthly['Net_Value'], label='Net Value', color='black', linestyle='--')
-axs[0].plot(monthly['Date'], monthly['Saved_Cash'], label='Saved Cash', color='green')
-axs[0].plot(monthly['Date'], monthly['2x_Index_Value'], label='2x Index Value', color='red')
-axs[0].plot(monthly['Date'], monthly['Main_Index_Value'], label='Main Index Value', color='orange')
-axs[0].set_yscale('log')  # Set y-axis to log scale
-axs[0].set_ylabel('Value ($)')
-axs[0].set_title('Invested Capital, Net Value, Saved Cash, 2x Index Value, and Main Index Value')
-axs[0].legend()
-axs[0].grid(True)
+# Upper plot: Net Value, Invested Capital, Savings Account (left y-axis) and ROIC (right y-axis)
+ax1 = plt.subplot(gs[0])
+ax1.plot(results_df.index, results_df['Net_Value'], label='Net Value', color='blue')
+ax1.plot(results_df.index, results_df['Invested_Capital'], label='Invested Capital', color='orange')
+ax1.plot(results_df.index, results_df['Savings_Account'], label='Savings Account', color='green')
+ax1.set_title('Net Value, Invested Capital, Savings Account, and ROIC Over Time (Daily)')
+ax1.set_xlabel('Date')
+ax1.set_ylabel('Value (log scale)')
+ax1.legend(loc='upper left')
+ax1.grid(True, which='both', linestyle='--', linewidth=0.5)  # Grid for both major and minor ticks
 
-# Bottom: ROIC
-axs[1].plot(monthly['Date'], monthly['ROIC'], label='ROIC', color='purple', linestyle=':')
-axs[1].set_ylabel('ROIC')
-axs[1].set_xlabel('Date')
-axs[1].set_title('Return on Invested Capital (ROIC)')
-axs[1].legend()
-axs[1].grid(True)
+# Add month start grid lines
+add_month_start_grid(ax1, results_df.index)
+
+ax1b = ax1.twinx()
+ax1b.plot(results_df.index, results_df['ROIC'], label='ROIC', color='red', linestyle='--')
+ax1b.set_ylabel('ROIC')
+ax1b.set_ylim(0, max(results_df['ROIC']) * 1.1)  # Dynamic scale based on max ROIC
+ax1b.legend(loc='upper right')
+
+# Lower plot: 2x Index, SMA1, and SMA2
+ax2 = plt.subplot(gs[1], sharex=ax1)
+ax2.plot(daily_data.index, daily_data['Close_2x'], label='2x Index', color='purple')
+ax2.plot(daily_data.index, daily_data['SMA_2x_300'], label='SMA1 (300)', color='brown', linestyle=':')
+ax2.plot(daily_data.index, daily_data['SMA_2x_600'], label='SMA2 (600)', color='black', linestyle='-.')
+ax2.set_title('2x Index, SMA1, and SMA2 Over Time (Daily)')
+ax2.set_xlabel('Date')
+ax2.set_ylabel('2x Index / SMA')
+ax2.legend()
+ax2.grid(True)
+
+# Add month start grid lines to the second plot as well
+add_month_start_grid(ax2, daily_data.index)
 
 plt.tight_layout()
-plt.savefig('./plots/strategy/strategy_dynamic_combined.png')
-plt.show()
+
+# Creating directory if it doesn't exist
+os.makedirs('./plots/strategy', exist_ok=True)
+
+# Saving the plot
+plt.savefig('./plots/strategy/strategy_dynamic_monthly.png')
+plt.close()
+
+print("Plot saved as './plots/strategy/strategy_dynamic_monthly.png'")

@@ -6,8 +6,8 @@ from datetime import datetime
 import os
 
 symbol = '^SPX'  # S&P 500 symbol for Stooq
-start_date = '1990-01-01'
-end_date = '2017-01-01'
+start_date = '1900-01-01'
+end_date = '2025-01-01'
 #end_date = datetime.today().strftime('%Y-%m-%d')
 
 try:
