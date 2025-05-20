@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 import os
 
 TICKER = 'SPX'
-LEVERAGE = 2
+LEVERAGE = 3
 DATA_PATH = f'data/{TICKER}_data.json'
 OUTPUT_JSON = f'data/{TICKER}_{LEVERAGE}x.json'
 
@@ -28,16 +28,16 @@ lev_returns = returns * LEVERAGE
 lev_index = [df['Close'].iloc[0]]
 for r in lev_returns[1:]:
     lev_index.append(lev_index[-1] * (1 + r))
-df[f'Close_{LEVERAGE}x'] = lev_index
+df[f'Close_xlev'] = lev_index
 
 
 sma_N = pd.Series(lev_index).rolling(window=N).mean()
 sma_N2 = pd.Series(lev_index).rolling(window=N2).mean()
-df[f'SMA_{LEVERAGE}x_{N}'] = sma_N
-df[f'SMA_{LEVERAGE}x_{N2}'] = sma_N2
+df[f'SMA_1'] = sma_N
+df[f'SMA_2'] = sma_N2
 
-# Save the 2x leveraged index and SMAs as JSON
-out_records = df[['Date', f'Close_{LEVERAGE}x', f'SMA_{LEVERAGE}x_{N}', f'SMA_{LEVERAGE}x_{N2}']].copy()
+# Save the leveraged index and SMAs as JSON
+out_records = df[['Date', f'Close_xlev', f'SMA_1', f'SMA_2']].copy()
 out_records['Date'] = out_records['Date'].dt.strftime('%Y-%m-%d')
 out_json = out_records.to_dict(orient='records')
 os.makedirs('data', exist_ok=True)
@@ -47,12 +47,13 @@ print(f"Saved {len(out_json)} records to {OUTPUT_JSON}")
 
 plt.figure(figsize=(12, 6))
 plt.plot(df['Date'], df['Close'], label=f'{TICKER} Index')
-plt.plot(df['Date'], df[f'Close_{LEVERAGE}x'], label=f'{TICKER} {LEVERAGE}x Leveraged Index')
-plt.plot(df['Date'], df[f'SMA_{LEVERAGE}x_{N}'], label=f'{LEVERAGE}x {N}-day SMA', linestyle='--')
-plt.plot(df['Date'], df[f'SMA_{LEVERAGE}x_{N2}'], label=f'{LEVERAGE}x {N2}-day SMA', linestyle=':')
+plt.plot(df['Date'], df[f'Close_xlev'], label=f'{TICKER} {LEVERAGE}x Leveraged Index')
+plt.plot(df['Date'], df[f'SMA_1'], label=f'{LEVERAGE}x {N}-day SMA', linestyle='--')
+plt.plot(df['Date'], df[f'SMA_2'], label=f'{LEVERAGE}x {N2}-day SMA', linestyle=':')
 plt.title(f'{TICKER} vs {TICKER} {LEVERAGE}x Leveraged Index with SMAs')
 plt.xlabel('Date')
 plt.ylabel('Index Value')
+plt.yscale('log')
 plt.legend()
 plt.grid(True)
 plt.tight_layout()

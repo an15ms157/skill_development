@@ -38,13 +38,13 @@ def add_month_start_grid(ax, date_index, color='gray', linestyle='-', alpha=0.3)
     plt.setp(ax.xaxis.get_majorticklabels(), rotation=45)
 
 # Reading the data
-file_path_2x = './data/SPX_2x.json'
+file_path_2x = './data/SPX_3x.json'
 data_2x = pd.read_json(file_path_2x)
 data_2x['Date'] = pd.to_datetime(data_2x['Date'])
 data_2x.set_index('Date', inplace=True)
 
 # Filter data_2x for the selected date range
-start_date = pd.to_datetime('1960-01-01')
+start_date = pd.to_datetime('1950-01-01')
 end_date = pd.to_datetime('1980-12-31')
 data_2x = data_2x[(data_2x.index >= start_date) & (data_2x.index <= end_date)]
 
@@ -56,7 +56,7 @@ savings_account = 0  # Start with zero savings
 invested_capital = 0
 shares_2x = 0
 results = []
-factor = 0.3  # Factor for investing from savings above threshold
+factor = 0.4  # Factor for investing from savings above threshold
 can_invest_2x = True
 monthly_investment = 1  # $1 per month
 savings_reinvest_counter = 0  # Counter for tracking savings re-investments
@@ -68,9 +68,9 @@ action_taken_this_month = False
 
 # Investment loop - using daily data
 for date, row in daily_data.iterrows():
-    price_2x = row['Close_2x']
-    sma1 = row['SMA_2x_300']
-    sma2 = row['SMA_2x_600']
+    price_2x = row['Close_xlev']
+    sma1 = row['SMA_1']
+    sma2 = row['SMA_2']
 
     if pd.isna(sma2) or price_2x is None:
         continue
@@ -189,7 +189,11 @@ pd.set_option('display.width', None)
 pd.set_option('display.max_columns', None)
 pd.set_option('display.expand_frame_repr', False)
 print(f"Daily Results Summary with Price_2x, SMA1, and SMA2 data for {start_date.date()} to {end_date.date()}:")
-print(results_df)  # Show all days from start to end
+# Print all but the last column
+# Filter results_df to include only the first entry of each month
+# Print the monthly data
+monthly_results_df = results_df[~results_df.index.to_period('M').duplicated(keep='first')]
+print(monthly_results_df.iloc[:, :-1])
 
 # Print first and last values of the metrics
 print("\n===== FIRST AND LAST VALUES OF METRICS =====")
@@ -244,9 +248,9 @@ ax1b.legend(loc='upper right')
 
 # Lower plot: 2x Index, SMA1, and SMA2
 ax2 = plt.subplot(gs[1], sharex=ax1)
-ax2.plot(daily_data.index, daily_data['Close_2x'], label='2x Index', color='purple')
-ax2.plot(daily_data.index, daily_data['SMA_2x_300'], label='SMA1 (300)', color='brown', linestyle=':')
-ax2.plot(daily_data.index, daily_data['SMA_2x_600'], label='SMA2 (600)', color='black', linestyle='-.')
+ax2.plot(daily_data.index, daily_data['Close_xlev'], label='Lev Index', color='purple')
+ax2.plot(daily_data.index, daily_data['SMA_1'], label='SMA1 ', color='brown', linestyle=':')
+ax2.plot(daily_data.index, daily_data['SMA_2'], label='SMA2 ', color='black', linestyle='-.')
 ax2.set_title('2x Index, SMA1, and SMA2 Over Time (Daily)')
 ax2.set_xlabel('Date')
 ax2.set_ylabel('2x Index / SMA')
