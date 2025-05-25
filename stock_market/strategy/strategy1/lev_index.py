@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 import os
 
 TICKER = 'SPX'
-LEVERAGE = 3
+LEVERAGE = 2
 DATA_PATH = f'data/{TICKER}_data.json'
 OUTPUT_JSON = f'data/{TICKER}_{LEVERAGE}x.json'
 
@@ -33,8 +33,8 @@ df[f'Close_xlev'] = lev_index
 
 sma_N = pd.Series(lev_index).rolling(window=N).mean()
 sma_N2 = pd.Series(lev_index).rolling(window=N2).mean()
-df[f'SMA_1'] = sma_N
-df[f'SMA_2'] = sma_N2
+df[f'SMA_2'] = sma_N
+df[f'SMA_1'] = sma_N2
 
 # Save the leveraged index and SMAs as JSON
 out_records = df[['Date', f'Close_xlev', f'SMA_1', f'SMA_2']].copy()

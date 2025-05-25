@@ -9,16 +9,17 @@ import matplotlib.dates as mdates
 Dynamic Stock Market Investment Strategy Simulation
 
 This script simulates a dynamic investment strategy in a 2x leveraged index with the following rules:
-1. Invests $1 per month based on price and moving average conditions
-2. Sells all 2x holdings if SMA1 > SMA2 > price and blocks further investments until price > SMA1
-3. Invests monthly when price > SMA2
-4. Uses savings strategically when SMA1 < price < SMA2
-5. Maintains a minimum savings threshold of invested capital
-6. Invests 30% of excess savings when above threshold, all remaining savings when below threshold
-7. Tracks net value, return on invested capital (ROIC), and other metrics
-8. Executes only one action per month, then stops until the next month
 
-The strategy aims to optimize returns by timing investments based on price relative to moving averages.
+1. **Monthly Investment**: Invests $1 per month based on specific price and moving average conditions.
+2. **Sell Condition**: Sells all 2x holdings if SMA1 > SMA2 > price and blocks further investments until price > SMA1.
+3. **Reinvestment**: Invests monthly when price > SMA2.
+4. **Savings Utilization**: Uses savings strategically when SMA1 < price < SMA2.
+5. **Savings Threshold**: Maintains a minimum savings threshold relative to invested capital.
+6. **Excess Savings Investment**: Invests 30% of excess savings when above the threshold, and all remaining savings when below the threshold.
+7. **Performance Metrics**: Tracks net value, return on invested capital (ROIC), and other key metrics.
+8. **One Action Per Month**: Executes only one action per month, ensuring disciplined investment behavior.
+
+The strategy aims to optimize returns by timing investments based on price movements relative to moving averages, leveraging a systematic and disciplined approach.
 """
 
 # Function to add vertical grid lines at month starts
@@ -38,14 +39,14 @@ def add_month_start_grid(ax, date_index, color='gray', linestyle='-', alpha=0.3)
     plt.setp(ax.xaxis.get_majorticklabels(), rotation=45)
 
 # Reading the data
-file_path_2x = './data/SPX_3x.json'
+file_path_2x = './data/SPX_2x.json'
 data_2x = pd.read_json(file_path_2x)
 data_2x['Date'] = pd.to_datetime(data_2x['Date'])
 data_2x.set_index('Date', inplace=True)
 
 # Filter data_2x for the selected date range
-start_date = pd.to_datetime('1950-01-01')
-end_date = pd.to_datetime('1980-12-31')
+start_date = pd.to_datetime('1970-01-01')
+end_date = pd.to_datetime('1990-12-31')
 data_2x = data_2x[(data_2x.index >= start_date) & (data_2x.index <= end_date)]
 
 # Using daily data directly instead of resampling to monthly
@@ -165,7 +166,7 @@ for date, row in daily_data.iterrows():
     
     # Store results
     results.append({
-        'Date': date,
+        'Date': date,  # Ensure the date is included
         'Invested_Capital': invested_capital,
         'Net_Value': net_value,
         'Savings_Account': savings_account,
